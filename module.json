@@ -1,7 +1,7 @@
 {
-  "id":"bid-de-de",
+  "id":"bitd-foundry-de",
   "title":"Blades in the Dark - German",
-  "description":"This module provides the German translation for Blades in the Dark.",
+  "description":"This module provides the German translation for Blades in the Dark as published by System Matters",
   
   "version":"0.1.0",
   "author":"Graffini",
@@ -13,13 +13,13 @@
   
   "esmodules": ["babele-register.js"],
   "url":"https://github.com/graffini/bitd-de-de",
-  "manifest": "https://raw.githubusercontent.com/graffini/bid-de-de/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/bid-pt-br/zip/main",
+  "manifest": "",
+  "download": "",
    "languages":[
       {
-         "lang": "pt-BR",
-         "name": "Português (Brasil)",
-         "path":"pt-br.json"
+         "lang": "de",
+         "name": "Deutsch (German)",
+         "path":"de.json"
       }
    ],
    "dependencies":[
@@ -28,25 +28,6 @@
          "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
       }
    ],
-
-  "packs": [
-    {
-      "name": "tabelas",
-      "label": "Tabelas",
-      "path": "packs/tabelas.db",
-      "type": "RollTable",
-      "module": "bid-pt-br",
-      "private": false
-    },
-    {
-      "name": "ajuda-da-traducao",
-      "label": "Ajuda da Tradução",
-      "path": "packs/ajuda-da-traducao.db",
-      "type": "JournalEntry",
-      "module": "bid-pt-br",
-      "private": false
-    }      
-  ],
 
   "relationships":{
     "requires":[

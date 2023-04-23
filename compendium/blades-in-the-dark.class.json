@@ -43,8 +43,8 @@
 		},
 		"Spider": {
 			"name": "Spinne",
-      "description" : "Um gênio do crime",
-      "experience_clues": "<br>- Você lidou com um desafio usando calculismo ou conspiração."
+      "description" : "Ein verschlagener Strippenzieher",
+      "experience_clues": "<br>- Du bist eine Herauforderung mit Berechnung und Komplotten begegnet."
 		},
 		"Vampire": {
 			"name": "Vampir",

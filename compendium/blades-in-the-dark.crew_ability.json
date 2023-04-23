@@ -7,236 +7,244 @@
   
 	"entries": {
 		"(A) Crow's Veil": {
-			"name": "(A) Véu do Corvo",
-      "description" :"Devido a duras experiências ou rituais arcanos, os corvos busca-morte não conseguem notar as atividades do seu bando. O seu bando não recebe atenção extra quando ocorre um assassinato durante um golpe.",
-      "class": "Assassinos"      
+			"name": "(A) Krähenschleier",
+      "description" :"Eure Aktivitäten sind vor den Augen der Todsucher- Krähen verborgen. Ihr erhaltet keinen zusätzlichen Verdacht, wenn ein Coup Tötungen beinhalt.",
+      "class": "Attentäter"      
 		},
 		"(A) Deadly": {
-			"name": "(A) Mortal",
-      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Brigar, Caçar ou Esgueirar (para um valor máximo de 3).",
-      "class": "Assassinos"      
+			"name": "(A) Tödlich",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Jagen, Schleichen oder Kämpfen hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Attentäter"      
 		},
 		"(A) Emberdeath": {
-			"name": "(A) Extinguir a Centelha",
-      "description" :"Devido a duras experiências ou rituais arcanos, o seu bando conhece um método arcano para destruir o espírito de um alvo vivo no momento de sua morte. Você pode sofrer 3 de estresse para canalizar energia electroplasmática pelo campo fantasmagórico, desintegrando o corpo e o espírito em uma chuva de faíscas cintilantes.",
-      "class": "Assassinos"      
+			"name": "(A) Todesglut",
+      "description" :"Ihr kennt die arkane Methode, mit der man die Seele eines lebendigen Opfers in genau in dem Moment zerstört, in dem man es tötet. Erleide 3 Stress, um elektroplasmatische Energie aus dem Geisterfeld zu bündeln und Seele sowie Körper in glühende Asche aufzulösen.",
+      "class": "Attentäter"      
 		},
 		"(A) No Traces": {
-			"name": "(A) Sem Rastros",
-      "description" :"O seu bando ainda recebe metade do valor de moral do alvo (arredondado para cima) quando executa uma operação em segredo ou faz com que pareça um acidente. Ele também recebe +1 moral quando termina a folga com zero de atenção.",
-      "class": "Assassinos"      
+			"name": "(A) Ohne Spuren",
+      "description" :"Wenn ihr einen Einsatz geheim haltet oder wie einen Unfall aussehen lasst, erhaltet ihr die Hälfte des Respekt-Wertes des Ziels (aufgerundet) statt null. Beendet ihr die Zwischenzeit mit 0 Verdacht, erhaltet ihr +1 Respekt.",
+      "class": "Attentäter"      
 		},
 		"(A) Patron": {
-			"name": "(A) Patrono",
-      "description" :"Seu bando gasta apenas metade das moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda vocês?",
-      "class": "Assassinos"      
+			"name": "(A) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+      "class": "Attentäter"      
 		},
 		"(A) Predators": {
-			"name": "(A) Predadores",
-      "description" :"Você recebe +1d na rolagem de abertura quando usa um plano de enganação ou furtividade para cometer um assassinato.",
-      "class": "Assassinos"      
+			"name": "(A) Raubtiere",
+      "description" :"Nutzt ihr einen Heimlichkeits- oder Täuschungs-Plan, um Morde zu begehen, erhaltet ihr +1W auf den Einstiegswurf.",
+      "class": "Attentäter"      
 		},
 		"(A) Veteran": {
-			"name": "(A) Veterano",
-      "description" :"Escolha uma habilidade especial de outro bando.",
-      "class": "Assassinos"      
+			"name": "(A) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Attentäter"      
 		},
 		"(A) Vipers": {
-			"name": "(A) Serpentes",
-      "description" :"Você recebe +1 nível de resultado em rolagens para adquirir ou criar venenos. Ao empregar um determinado veneno, você se prepara para se imunizar de seus efeitos.",
-      "class": "Assassinos"      
+			"name": "(A) Giftschlangen",
+      "description" :"Wenn ihr Gifte erwerbt oder erzeugt, erhaltet ihr dabei +1 Wirkungsgrad auf euren Wurf. Setzt ihr ein Gift ein, seid ihr sorgfältig vorbereitet, sodass ihr gegen seine Wirkung immun seid.",
+      "class": "Attentäter"      
 		},
 		"(Br) Blood Brothers": {
-			"name": "(Br) Irmãos de Sangue",
-      "description" :"Os seus parceiros recebem +1d em rolagens de trabalho em equipe (ações de grupo e facilitar) sempre que lutam ao lado de algum PJ. Todos os seus parceiros recebem o tipo Capangas gratuitamente (se já possuam esse tipo, adicione outro)."
+			"name": "(H) Blutsbrüder",
+      "description" :"Wenn ihr in der Schlacht Seite an Seite mit euren Komplizen kämpft, erhalten sie +1W auf Teamarbeits-Würfe (Vorbereitung und Gruppenaktionen). Alle eure Komplizen erhalten den Typ Schläger gratis (sind sie bereits Schläger, fügt einen anderen Typ hinzu).",
+	  "class": "Haudegen"
 		},
 		"(Br) Dangerous": {
-			"name": "(Br) Perigosos",
-      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Brigar, Caçar ou Detonar (para um valor máximo de 3)."
+			"name": "(H) Gefährlich",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Jagen, Kämpfen oder Zerstören hinzufügen (bis zum Höchstwert von 3).",
+	  "class": "Haudegen"
 		},
 		"(Br) Door Kickers": {
-			"name": "(Br) Chutadores de Portas",
-      "description" :"Você recebe +1d na rolagem de abertura quando usa um plano de agressão."
+			"name": "(H) Türeintreter",
+      "description" :"Führt ihr einen Angriffs-Plan durch, erhaltet ihr +1W auf den Einstiegswurf.",
+	  "class": "Haudegen"
 		},
 		"(Br) Fiends": {
-			"name": "(Br) Diabos",
-      "description" :"O medo e o respeito andam lado a lado. Vocês tratam cada nível de procurado como território."
+			"name": "(H) Unholde",
+      "description" :"Für euch gilt jeder Fahndungsgrad als Revier.",
+	  "class": "Haudegen"
 		},
 		"(Br) Forged In The Fire": {
-			"name": "(Br) Forjados nas Chamas",
-      "description" :"Cada PJ foi endurecido pelas experiências cruéis enfrentadas na sua carreira. Vocês recebem +1d em rolagens de resistência."
+			"name": "(H) Feuertaufe",
+      "description" :"Ihr erhaltet +1W auf Widerstandswürfe.",
+	  "class": "Haudegen"
 		},
 		"(Br) Patron": {
-			"name": "(Br) Patrono",
-      "description" :"Seu bando gasta apenas metade das moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda vocês?"
+			"name": "(H) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+	  "class": "Haudegen"
 		},
 		"(Br) Veteran": {
-			"name": "(Br) Veterano",
-      "description" :"Escolha uma habilidade especial de outro bando."
+			"name": "(H) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+	  "class": "Haudegen"
 		},
 		"(Br) War Dogs": {
-			"name": "(Br) Cães de Guerra",
-      "description" :"O bando não sofre a perda de controle por estar em guerra com outra facção (-3 status) e ainda podem realizar duas atividades de folga ao invés de apenas uma."
+			"name": "(H) Eisenfresser",
+      "description" :"Wenn ihr euch im Krieg befindet (−3 Fraktionsstatus), erleidet eure Gang nicht −1 Griff und SC haben weiterhin zwei Zwischenzeitaktivitäten statt nur einer.",
+	  "class": "Haudegen"
 		},    
 		"(C) Anointed": {
-			"name": "(C) Ungidos",
-      "description" :"Você recebe +1d em rolagens de resistência contra ameaças sobrenaturais, e +1d em rolagens de recuperação enquanto possuir algum dano de origem sobrenatural.",
-      "class": "Culto"      
+			"name": "(K) Gesalbt",
+      "description" :"Ihr erhaltet +1W auf Widerstands- und +1W auf Heilungswürfe gegen übernatürliche Gefahren bzw. übernatürlichen Schaden.",
+      "class": " Kultisten"      
 		},
 		"(C) Bound in Darkness": {
-			"name": "(C) Unidos Através da Escuridão",
-      "description" :"Você pode executar manobras de trabalho em equipe com qualquer membro do culto, independentemente da distância que os separa. Você também pode sofrer 1 de estresse para sussurrar uma mensagem que será ouvida por todos os cultistas.",
-      "class": "Culto"      
+			"name": "(K) In Dunkelheit gebunden",
+      "description" :"Ihr könnt Teamarbeit mit allen Mitgliedern eures Kults ausführen, egal welche Entfernung euch trennt. Wer +1 Stress auf sich nimmt, kann eine Botschaft flüstern, die alle Kultisten hören.",
+      "class": "Kultisten"      
 		},
 		"(C) Chosen": {
-			"name": "(C) Escolhidos",
-      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Estudar, Convencer ou Sintonizar (para um valor máximo de 3).",
-      "class": "Culto"      
+			"name": "(K) Auserwählt",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Beeinflussen, Einstimmen oder Studieren hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Kultisten"      
 		},
 		"(C) Conviction": {
-			"name": "(C) Devoção",
-      "description" :"Cada PJ ganha um novo vício: Adoração. Você não corre o risco de passar da conta se trouxer um sacrifício adequado para satisfazer esse vício. Após o sacrifício, a sua divindade oferece uma ajuda em uma rolagem de ação realizada por você (até você satisfazer seu vício novamente).",
-      "class": "Culto"      
+			"name": "(K) Fester Glaube",
+      "description" :"Jeder SC erhält ein zweites Laster: Gottesdienst. Gibst du dich diesem Laster hin und erbringst ein wohlgefälliges Opfer, gilt es nicht als maßlos, wenn du überschüssigen Stress abbaust. Bis du das nächste Mal diesem Laster frönst, wird dir die Gottheit außerdem bei einem beliebigen kommenden Aktionswurf zu Hilfe kommen.",
+      "class": "Kultisten"      
 		},
 		"(C) Glory Incarnate": {
-			"name": "(C) Glória Encarnada",
-      "description" :"A sua divindade se manifesta ocasionalmente no mundo físico. Isso pode parecer uma grande dádiva, mas um deus tem prioridades e valores muito diferentes dos simples mortais. Considere isso um aviso.",
-      "class": "Culto"      
+			"name": "(K) Fleischgewordene Herrlichkeit",
+      "description" :"Eure Gottheit manifestiert sich zuweilen. Das kann sich als großer Segen erweisen, doch die Prioritäten und Werte von Göttern und Sterblichen sind nicht immer dieselben.",
+      "class": "Kultisten"      
 		},
 		"(C) Sealed in Blood": {
-			"name": "(C) Selado em Sangue",
-      "description" :"Cada sacrifício humano diminui em 3 o custo de estresse de rituais executados pelos PJs.",
-      "class": "Culto"      
+			"name": "(K) Mit Blut besiegelt",
+      "description" :"Jedes Menschenopfer verringert die Kosten für ein beliebiges durchgeführtes Ritual um 3 Stress.",
+      "class": "Kultisten"      
 		},
 		"(C) Veteran": {
-			"name": "(C) Veterano",
-      "description" :"Escolha uma habilidade especial de outro bando.",
-      "class": "Culto"      
+			"name": "(K) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Kultisten"      
 		},
 		"(C) Zealotry": {
-			"name": "(C) Fanatismo",
-      "description" :"Os seus parceiros abandonaram a sua razão para devotarem se completamente ao culto. Eles executarão qualquer serviço requisitado, independentemente do risco ou estranheza. Eles também recebem +1d em rolagens sempre que agirem contra inimigos da fé.",
-      "class": "Culto"      
+			"name": "(K) Fanatismus",
+      "description" :"Eure Komplizen führen jeden noch so gefährlichen oder absonderlichen Auftrag aus. Sie erhalten +1W auf Würfe, um gegen Feinde des Glaubens vorzugehen.",
+      "class": "Kultisten"      
 		},
 		"(H) Accord": {
-			"name": "(Ma) Consórcio",
-      "description" :"Às vezes, bons amigos valem mais que territórios. Cada status de facção +3 possuído pelo bando (máx. de 3) conta como um território sob seu controle.",
-      "class": "Mascates"      
+			"name": "(Sb) Abkommen",
+      "description" :"Manchmal sind Freunde so viel wert wie Gebiet. Für euch gelten bis zu drei verbündete Fraktionen (Status +3) als Revier.",
+      "class": "Schieber"      
 		},
 		"(H) Ghost Market": {
-			"name": "(Ma) Mercado Fantasma",
-      "description" :"Seja através de terríveis experiências ou rituais ocultistas, você descobriu uma maneira de preparar o seu produto para ser vendido para fantasmas e/ou demônios. Eles não pagam em moedas – com o que eles pagam?",
-      "class": "Mascates"      
+			"name": "(Sb) Geistermarkt",
+      "description" :"Ihr könnt eure Ware für den Verkauf an Geister und/oder Dämonen präparieren. Sie zahlen nicht mit Münzen – womit dann?",
+      "class": "Schieber"      
 		},
 		"(H) High Society": {
-			"name": "(Ma) Alta Sociedade",
-      "description" :"Você conhece as pessoas certas. O bando recebe -1 atenção durante a folga e +1d para levantar informações sobre a elite da cidade.",
-      "class": "Mascates"      
+			"name": "(Sb) Gute Gesellschaft",
+      "description" :"Ihr erhaltet in der Zwischenzeit –1 Verdacht und +1W, wenn ihr über die Elite der Stadt Informationen sammelt.",
+      "class": "Schieber"      
 		},
 		"(H) Hooked": {
-			"name": "(Ma) Viciados",
-      "description" :"Os membros das suas gangues usam o seu produto. Acrescente o defeito feroz, indomável ou instável para conceder a uma gangue +1 de qualidade.",
-      "class": "Mascates"      
+			"name": "(Sb) Süchtig",
+      "description" :"Fügt brutal, unzuverlässig oder wild als Schwäche zu euren Banden hinzu, um ihnen +1 Qualität zu verleihen.",
+      "class": "Schieber"      
 		},
 		"(H) Patron": {
-			"name": "(Ma) Patrono",
-      "description" :"O seu bando gasta só metade da quantidade de moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda o seu bando?",
-      "class": "Mascates"      
+			"name": "(Sb) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+      "class": "Schieber"      
 		},
 		"(H) Silver Tongues": {
-			"name": "(Ma) Língua Afiada",
-      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Comandar, Convencer ou Socializar (para um valor máximo de 3).",
-      "class": "Mascates"      
+			"name": "(Sb) Redegewandt",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Beeinflussen, Befehlen oder Verkehren hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Schieber"      
 		},
 		"(H) The Good Stuff": {
-			"name": "(Ma) Alta Qualidade",
-      "description" :"A sua mercadoria é excelente. A qualidade do seu produto é igual à sua Categoria +2. Quando você lida com outro bando ou facção, o mestre indica quais deles são viciados no seu produto (apenas um, alguns deles, vários ou todos).",
-      "class": "Mascates"      
+			"name": "(Sb) Feinster",
+      "description" :"Eure Waren sind erlesen. Ihre Qualität entspricht eurer Stufe +2. Wenn ihr mit einer Gang oder Fraktion zu tun habt, sagt euch die SL, wer unter ihnen danach süchtig ist (einer, manche, viele oder alle).",
+      "class": "Schieber"      
 		},
 		"(H) Veteran": {
-			"name": "(Ma) Veterano",
-      "description" :"Escolha uma habilidade especial de outro bando.",
-      "class": "Mascates"      
+			"name": "(Sb) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Schieber"      
 		},
 		"(Sh) Everyone Steals": {
-			"name": "(So) Cem Anos de Perdão",
-      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Adulterar, Esgueirar ou Manejar (para um valor máximo de 3).",
-      "class": "Sombras"      
+			"name": "(P) Alle stehlen",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Schleichen, Tricksen oder Tüfteln hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Phantome"      
 		},
 		"(Sh) Ghost Echoes": {
-			"name": "(So) Ecos Fantasmagóricos",
-      "description" :"Seja através de terríveis experiências ou rituais ocultistas, todos os membros do seu bando conseguem ver e interagir com objetos, estruturas e ruas fantasmagóricas que existem no eco de Doskvol dentro do campo fantasmagórico.",
-      "class": "Sombras"      
+			"name": "(P) Geisterecho",
+      "description" :"Alle Gangmitglieder erhalten die Fähigkeit, das im Geisterfeld existierende Echo von Doskvol mit seinen geisterhaften Bauten, Straßen und Objekten zu sehen und mit diesen zu interagieren.",
+      "class": "Phantome"      
 		},
 		"(Sh) Pack Rats": {
-			"name": "(So) Acumuladores",
-      "description" :"O covil do bando é uma verdadeira bagunça de objetos roubados. Você recebe +1d em rolagens para adquirir um recurso.",
-      "class": "Sombras"      
+			"name": "(P) Hamsterer",
+      "description" :"Euer Versteck ist ein einziges Durcheinander gestohlener Gegenstände. Ihr erhaltet +1W auf Würfe, um Anschaffungen zu machen.",
+      "class": "Phantome"      
 		},
 		"(Sh) Patron": {
-			"name": "(So) Patrono",
-      "description" :"O seu bando gasta só metade da quantidade de moedas para subir de Categoria. Quem é o seu patrono? Por que ele ajuda o seu bando?",
-      "class": "Sombras"      
+			"name": "(P) Mäzen",
+      "description" :"Wenn ihr eure Stufe steigert, kostet euch das nur halb so viele Münzen wie üblich. Wer ist euer Mäzen? Warum hilft er euch?",
+      "class": "Phantome"      
 		},
 		"(Sh) Second Story": {
-			"name": "(So) Gatunos",
-      "description" :"Você recebe +1d na rolagem de abertura ao executar uma infiltração clandestina.",
-      "class": "Sombras"      
+			"name": "(P) Fassadenkletterer",
+      "description" :"Wenn ihr irgendwo heimlich eindringt, erhaltet ihr +1W auf euren Einstiegswurf.",
+      "class": "Phantome"      
 		},
 		"(Sh) Slippery": {
-			"name": "(So) Escorregadios",
-      "description" :"Quando determinar as desavenças, role dois dados e escolha um dos resultados. Receba também +1d para reduzir a atenção do bando.",
-      "class": "Sombras"      
+			"name": "(P) Aalglatt",
+      "description" :"Wenn ihr Verwicklungen auswürfelt, würfelt zweimal und nehmt das Ergebnis, das euch besser gefällt. Wenn ihr für eure Gang den Verdacht verringern wollt, erhaltet ihr +1W.",
+      "class": "Phantome"      
 		},
 		"(Sh) Synchronized": {
-			"name": "(So) Sincronizados",
-      "description" :"Quando você faz uma ação coletiva, cada resultado 6 obtido nas rolagens individuais conta como um sucesso crítico.",
-      "class": "Sombras"      
+			"name": "(P) Ein Rad greift ins andere",
+      "description" :"Wenn ihr eine Gruppenaktion ausführt, dürft ihr mehrere Sechsen aus unterschiedlichen Würfen zusammennehmen, um einen kritischen Erfolg zu erzielen.",
+      "class": "Phantome"      
 		},
 		"(Sh) Veteran": {
-			"name": "(So) Veterano",
-      "description" :"Escolha uma habilidade especial de outro bando.",
-      "class": "Sombras"      
+			"name": "(P) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Phantome"      
 		},
 		"(Sm) All Hands": {
-			"name": "(Co) Hora Extra",
-      "description" :"Durante cada fase de folga, um dos seus parceiros pode realizar uma das seguintes atividades para o bando: adquirir um recurso, reduzir atenção ou trabalhar em algum projeto de longo prazo.",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Handlanger",
+      "description" :"Ein Komplize der Gang kann in der Zwischenzeit eine Aktivität ausführen, um Anschaffungen zu machen, Verdacht zu verringern oder an einem Langzeitprojekt zu arbeiten.",
+      "class": "Schmuggler"      
 		},
 		"(Sm) Ghost Passage": {
-			"name": "(Co) Passagem Fantasma",
-      "description" :"Seja através de terríveis experiências ou rituais ocultistas, todos os membros do seu bando são imunes à possessão de fantasmas. Eles também são capazes de “transportar” um fantasma como passageiro dentro de seu corpo.",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Geisterfahrt",
+      "description" :"Alle Gangmitglieder sind immun gegen die Ergreifung durch Seelen, können aber freiwillig einen Geist als „Passagier“ im eigenen Körper befördern.",
+      "class": "Schmuggler"      
 		},
 		"(Sm) Just Passing Through": {
-			"name": "(Co) De Passagem",
-      "description" :"O bando recebe -1 atenção durante a folga. Enquanto a sua atenção for igual ou menor a 4, membros recebem +1d para enganar outros se passando por cidadãos simples.",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Nur auf Durchreise",
+      "description" :"Ihr erhaltet in der Zwischenzeit −1 Verdacht. Ist euer Verdacht höchstens 4, erhaltet ihr +1W, um jemandem zu täuschen, indem ihr euch als normale Bürger ausgebt.",
+      "class": "Schmuggler"      
 		},
 		"(Sm) Leverage": {
-			"name": "(Co) Influência",
-      "description" :"O seu bando fornece produtos ilícitos para outras facções, que se beneficiam com seu sucesso. Cada vez que receberem moral, aumente em um a quantidade recebida.",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Druckmittel",
+      "description" :"Eure Gang beliefert andere Fraktionen mit illegalen Gütern. Jedes Mal, wenn ihr Respekt erhaltet, erhaltet ihr +1 Respekt dazu.",
+      "class": "Schmuggler"      
 		},
 		"(Sm) Like Part of the Family": {
-			"name": "(Co) Parte da Família",
-      "description" :"Um dos seus veículos é considerado um parceiro (use os méritos e defeitos de veículos ao lado). A sua qualidade é igual à Categoria do bando +1.",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Gehört fast zur Familie",
+      "description" :"Eines eurer Fahrzeuge gilt als Komplize (nutzt für die Stärken und Schwächen für Fahrzeuge). Seine Qualität entspricht eurer Stufe +1.",
+      "class": "Schmuggler"      
 		},
 		"(Sm) Reavers": {
-			"name": "(Co) Piratas",
-      "description" :"Quando o bando entra em conflito a bordo de veículos, vocês ganham +1 de efeito em rolagens envolvendo o dano e velocidade do veículo. O seu veículo também recebe armadura.",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Enterkampf",
+      "description" :"Wenn ihr mit eurem Fahrzeug in den Kampf zieht, erhaltet ihr +1 Wirkung. Euer Fahrzeug erhält außerdem Rüstung.",
+      "class": "Schmuggler"      
 		},
 		"(Sm) Renegades": {
-			"name": "(Co) Renegados",
-      "description" :"Cada PJ pode adicionar +1 ao seu valor de ação de Brigar, Esgueirar ou Manejar (para um valor máximo de 3).",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Gesetzlose",
+      "description" :"Jeder SC kann sich +1 Aktionswert zu Kämpfen, Schleichen oder Tricksen hinzufügen (bis zum Höchstwert von 3).",
+      "class": "Schmuggler"      
 		},
 		"(Sm) Veteran": {
-			"name": "(Co) Veterano",
-      "description" :"Escolha uma habilidade especial de outro bando.",
-      "class": "Contrabandistas"      
+			"name": "(Sm) Veteranen",
+      "description" :"Wählt eine Sonderfähigkeit einer anderen Gang.",
+      "class": "Schmuggler"      
 		}
 	}
 }

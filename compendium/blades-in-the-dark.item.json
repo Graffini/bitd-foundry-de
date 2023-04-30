@@ -7,246 +7,247 @@
   
 	"entries": {
 		"(C) Fine hand weapon": {
-			"name": "(R) Arma superior corpo a corpo",
-      "description": "Uma excelente arma corpo a corpo de uma mão a sua escolha. Esse é um exemplar excepcional de uma arma típica (como uma adaga perfeitamente balanceada) ou é uma arma exótica, como um sabre de duelo iruviano ou um porrete de guerra reforçado com metal?",
-      "class":"Retalhador"      
+			"name": "(E) Hochwertige Handwaffe",
+      "description": "Eine fein gearbeitete einhändige Nahkampfwaffe deiner Wahl. Handelt es sich um eine Standardwaffe in guter Qualität, zum Beispiel einen perfekt ausbalancierten Dolch, oder um etwas Exotisches, wie einen iruvischen Duellsäbel oder einen eisenbeschlagene Kriegskeule?",
+      "class":"Schnitter"      
 		},
 		"(C) Fine heavy weapon": {
-			"name": "(R) Arma superior pesada",
-      "description": "Uma excelente arma corpo a corpo de duas mãos a sua escolha. Um martelo de batalha, espada larga, pique, machado de guerra, etc. Uma arma pesada tem um alcance maior e um golpe mais potente que uma arma normal. Isso pode conceder potência quando o poder ou alcance da arma for um fator determinante.",
-      "class":"Retalhador"      
+			"name": "(E) Hochwertige schwere Waffe",
+      "description": "Eine fein gearbeitete zweihändige Nahkampfwaffe deiner Wahl. Kriegshammer, Großschwert, Militärspieß, Streitaxt etc. Schwere Waffen haben eine größere Reichweite und schlagen härter zu als normale Waffen. Das kann sie besser geeignet machen, wenn Schlagkraft oder Reichweite der Waffe entscheidende Faktoren sind.",
+      "class":"Schnitter"      
 		},
 		"(C) Manacles & chain": {
-			"name": "(R) Algemas e correntes",
-      "description": "Um conjunto de algemas pesadas e correntes, ideais para restringir um prisioneiro. Talvez lembrança de uma estadia pouco voluntária com os Casacas Azuiss?",
-      "class":"Retalhador"      
+			"name": "(E) Handschellen mit Ketten",
+     "description": "Ein paar schwere Handschellen mit Ketten, geeignet zum Fesseln von Gefangenen. Womöglich Souvenir eines Besuches bei den Blauröcken?",
+      "class":"Schnitter"      
 		},
 		"(C) Rage essence vial": {
-			"name": "(R) Frasco de essência da ira",
-      "description": "Uma única dose é suficiente para aumentar imensamente a força, resistência a dor e agressão irracional do usuário por vários minutos. O mestre modifica a sua posição ou efeito quando você luta sob efeito da essência da ira. Você também sofre duas consequências, “Não consegue diferenciar inimigos de aliados” e “Não consegue parar até quebrar todo mundo”, embora possa resistir a elas normalmente.",
-      "class":"Retalhador"      
+			"name": "(E) Phiole Rauschessenz",
+      "description": "Einzeldosis. Verleiht dem Anwender für einige Minuten mehr Kraft, Schmerzresistenz und irrationale Aggressivität. Die SL wird Position und Wirkung entsprechend anpassen, wenn du mit Rauschessenz kämpfst. Außerdem erleidest du zwei Konsequenzen: „Kann Freund und Feind nicht auseinanderhalten“ und „Kann erst aufhören, wenn alle niedergestreckt sind“. Du darfst ihnen wie üblich widerstehen.",
+      "class":"Schnitter"      
 		},
 		"(C) Scary weapon or tool": {
-			"name": "(R) Arma ou ferramenta assustadora",
-      "description": "Uma arma de uma mão ou ferramenta particularmente intimidadora. Esse item fornece efeito ampliado para intimidar, e não para causar danos em combate.",
-      "class":"Retalhador"      
+			"name": "(E) Furchterregende(E) Waffe oder Werkzeug",
+      "description": "Handwaffe oder Werkzeug mit beängstigendem Aussehen. Dieser Gegenstand gewährt dir keinen verstärkten Schaden im Kampf, sondern eine erhöhte Wirkung beim Einschüchtern.",
+      "class":"Schnitter"      
 		},
 		"(H) A trained hunting pet": {
-			"name": "(C) A trained hunting pet",
-      "description": "O seu companheiro animal obedece aos seus comandos e antecipa as suas ações. Parceiro (Especialista: Caçador)." 
+			"name": "(B) Abgerichtetes Jagdtier",
+      "description": "Dein Tierbegleiter gehorcht deinen Befehlen und kann deine Handlungen vorausahnen. Komplize (Experte: Jäger)." ,
+	  "class":"Bluthund"
 		},
 		"(H) Electroplasmic ammunition": {
-			"name": "(C) Munição electroplasmática",
-      "description": "Uma bandoleira de munição electroplasmática, especialmente potente contra espíritos, mas pouco efetiva contra alvos físicos. A carga elétrica é capaz de atordoar uma pessoa, mas causa pouco dano real – são necessários vários disparos para incapacitar um humano. Essa munição causa reações curiosas no campo fantasmagórico – crie um relógio chamado “Investigação dos Patrulheiros Espirituais” e avance-o uma vez para cada operação em que usar essa munição.",
-      "class":"Cão de Caça" 
+			"name": "(B) Elektroplasma-Munition",
+      "description": "Munitionsgürtel mit Elektroplasmageschossen, besonders wirksam gegen Seelen, doch weniger effektiv gegen materielle Ziele. Die elektrische Ladung genügt, um einen Menschen zu betäuben, verursacht jedoch kaum echten Schaden. Mehrere Treffer könnten ein menschliches Ziel eventuell außer Gefecht setzen. Diese Munition ist im Geisterfeld besonders reaktionsfreudig – erstelle eine 4er-Uhr „Aufmerksamkeit der Seelenwächter“ und stelle sie pro Einsatz, bei dem die Munition benutzt wird, um eins vor.",
+      "class":"Bluthund" 
 		},
 		"(H) Fine long rifle": {
-			"name": "(C) Rifle longo superior",
-      "description": "Um excelente rifle de caça, mortal mesmo a longas distâncias, porém desajeitado em situações apertadas. Os rifles longos são considerados ilegais para os cidadãos de Doskvol, mas você possui documentação militar (real ou falsificada) para esse.",
-      "class":"Cão de Caça" 
+			"name": "(B) Hochwertiges langläufiges Gewehr:",
+      "description": "Fein gearbeitete Jagdbüchse, aus großer Entfernung tödlich, auf engem Raum unhandlich. Langlaufgewehre sind in Doskvol normalerweise für Privatpersonen illegal, doch für dieses hast du (echte oder gefälschte) Militärpapiere.",
+      "class":"Bluthund" 
 		},
 		"(H) Fine pair of pistols": {
-			"name": "(C) Par de pistolas superiores",
-      "description": "Um par de armas de fogo otimizadas para alta precisão, com canos duplos que possibilitam dois disparos antes de recarga. As suas pistolas foram feitas pelas Filhas de Kardera, Templeton & Slane, Forja Imperial ou outro armeiro? Como elas se comparam a uma pistola comum?",
-      "class":"Cão de Caça" 
+			"name": "(B) Zwei hochwertige Pistolen",
+      "description": "Zwei identische Handfeuerwaffen, auf erhöhte Treffsicherheit ausgelegt, mit Doppelläufen, die zwei Schüsse ermöglichen, bevor man nachladen muss. Sind deine Pistolen von den Töchtern Karderas, von Templeton & Slane, der imperialen Schmiede oder einem anderen Büchsenmacher angefertigt? Was hebt sie von Durchschnittspistolen ab?",
+      "class":"Bluthund" 
 		},
 		"(H) Spyglass": {
-			"name": "(C) Luneta",
-      "description": "Um tubo de bronze com lentes que possibilitam a visão de longas distâncias. Ela é retrátil e pode ser afixada em um rifle.",
-      "class":"Cão de Caça" 
+			"name": "(B) Fernrohr",
+      "description": "Eine Messingröhre mit Linsen, die den Blick in die Ferne ermöglicht. Ausziehbar. Lässt sich an Gewehren befestigen.",
+      "class":"Bluthund" 
 		},
 		"(Le) Bandolier": {
-			"name": "(Doc) Bandoleira",
-      "description": "Uma faixa que se estende pelo corpo, repleta de bolsos acolchoados capazes de conter três agentes alquímicos ou bombas de faiscaria. Você pode escolher qualquer composto alquímico ou bomba da lista à direita (ou uma das suas fórmulas) para usar durante a operação. Veja mais informações sobre compostos alquímicos e bombas na página 246. Você preenche automaticamente todas as suas bandoleiras durante a folga se tiver acesso a um fornecedor ou laboratório.",
-      "class":"Doutor" 
+			"name": "(Sr) Bandolier",
+      "description": "Schräg über den Körper getragener Gurt, ausgerüstet mit speziell gepolsterten Beuteln, in die drei alchemistische Mittel oder Funkenwerkbomben passen. Wähle beim Einsatz von Alchemie oder Bomben aus dem Bandelier etwas aus der Liste rechts aus (oder eine deiner eigenen Sonderformeln). Mehr zu Alchemie und Bomben auf S. 232. Während der Zwischenzeit füllst du deine Bandeliere automatisch wieder auf, sofern du angemessenen Zugang zu einem Lieferanten oder einer Werkstatt hast. (Alkahest, Bindungsöl, Blendgift, Ertränkungspulver, Feueröl, Funken (Droge), Granate, Quecksilber, Rauchbombe, Schädelspaltergift, Schwebeöl, Stillstandgift, Trancepulver)",
+      "class":"Schröpfer" 
 		},
 		"(Le) Blowgun & darts, syringes": {
-			"name": "(Doc) Zarabatana e dardos, seringas",
-      "description": "Um pequeno tubo e dardos com compartimentos ocos que podem ser preenchidos com compostos alquímicos. Seringas vazias.",
-      "class":"Doutor" 
+			"name": "(Sr) Blasrohr & Pfeile, Spritzen",
+      "description": "Röhrchen mit Pfeilen, die aus Alchemiekolben befüllt werden können. Leere Spritzen.",
+      "class":"Schröpfer" 
 		},
 		"(Le) Fine tinkering tools": {
-			"name": "(Doc) Instrumentos superiores de adulteração",
-      "description": "Um excelente conjunto de instrumentos para trabalhos mecânicos detalhados e precisos, incluindo uma lupa de joalheiro e dispositivos de medição.",
-      "class":"Doutor" 
+			"name": "(Sr) Hochwertiges Bastlerwerkzeug",
+      "description": "Fein gearbeiteter Satz Mechanikerwerkzeug. Uhrmacherlupe. Messinstrumente.",
+      "class":"Schröpfer" 
 		},
 		"(Le) Fine wrecking tools": {
-			"name": "(Doc) Instrumentos superiores de detonação",
-      "description": "Um conjunto de ferramentas especializadas para sabotagem e destruição, incluindo uma broca pequena e poderosa, uma marreta e pregos de aço. Também contém um pé de cabra, uma bateria electroplasmática, fios e grampos. Frascos de ácido. Um tocha-faísca de corte e tanque de combustível.",
-      "class":"Doutor" 
+			"name": "(Sr) Hochwertiges Brechwerkzeug",
+      "description": "Spezialwerkzeugsatz für Sabotage und Zerstörung. Kleiner aber leistungsstarker Bohrer. Hammer und Stahldornen. Brechstange. Elektroplasmabatterie, Klemmen, Draht. Giftfläschchen. Funkenschneidbrenner mit Brennstofftank.",
+      "class":"Schröpfer" 
 		},
 		"(Le) Gadgets": {
-			"name": "(Doc) Engenhocas",
-      "description": "Você pode criar engenhocas durante a fase de folga usando ferramentas para adulterar materiais. Veja Engenhocas na página 247. Cada engenhoca usada durante uma operação conta como uma carga separada.",
-      "class":"Doutor" 
+			"name": "(Sr) Apparaturen",
+      "description": "Du darfst während der Zwischenzeit Apparaturen bauen, indem du mit Werkzeug und Material tüftelst (siehe Funkenapparaturen auf S. 233). Halte die Last jedes Apparats fest, den du während eines Einsatzes anwendest.",
+      "class":"Schröpfer" 
 		},
 		"(Lu) Dark-sight goggles": {
-			"name": "(Fu) Óculos de visão no escuro",
-      "description": "Um dispositivo arcano que permite que o seu usuário veja normalmente mesmo na escuridão total.",
-      "class":"Furtivo" 
+			"name": "(L) Dunkelsichtbrille",
+      "description": "Arkanes Gerät, das es dem Träger ermöglicht, in pechschwarzer Dunkelheit zu sehen, als wäre sie hell erleuchtet.",
+      "class":"Lauerer" 
 		},
 		"(Lu) Fine lockpicks": {
-			"name": "(Fu) Ferramentas superiores de arrombamento",
-      "description": "Um excelente conjunto de ferramentas usadas para abrir, arrombar e inutilizar trancas e fechaduras.",
-      "class":"Furtivo" 
+			"name": "(L) Hochwertige Dietriche",
+      "description": "Fein gearbeiteter Satz Werkzeuge zum Öffnen und Ausschalten von Schlössern.",
+      "class":"Lauerer" 
 		},
 		"(Lu) Fine shadow cloak": {
-			"name": "(Fu) Manto das sombras superior",
-      "description": "Um manto com capuz feito da rara seda das sombras iruviana, capaz de se camuflar nas sombras ao seu redor.",
-      "class":"Furtivo" 
+			"name": "(L) Hochwertiger Schattenläufermantel",
+      "description": "Aus seltener iruvischer Schattenseide hergestellter Kapuzenmantel, der mit der umgebenden Dunkelheit verschmilzt. Dieser Gegenstand verbessert deinen Wirkungsgrad beim Umherschleichen.",
+      "class":"Lauerer" 
 		},
 		"(Lu) Light climbing gear": {
-			"name": "(Fu) Ferramentas leves de escalada",
-      "description": "Um conjunto de equipamentos para escalada mais leve e menos volumoso.",
-      "class":"Furtivo" 
+			"name": "(L) Leichte Kletterausrüstung",
+      "description": "Gut verarbeiteter Satz Kletterzubehör, der nicht so sperrig und schwer ist wie gewöhnlich. Standard-Kletterausrüstung hat Last 2.",
+      "class":"Lauerer" 
 		},
 		"(Lu) Silence potion vial": {
-			"name": "(Fu) Frasco de poção do silêncio",
-      "description": "Frasco contendo um líquido dourado que anula todos os sons a até dez passos de quem bebê-lo por vários instantes.",
-      "class":"Furtivo" 
+			"name": "(L) Phiole Lautloselixier",
+      "description": "Wird dieses Fläschchen mit goldener Flüssigkeit zerbrochen, werden über einen Zeitraum von mehreren Augenblicken jegliche Geräusche im Umkreis von 10 Schritten verschluckt.",
+      "class":"Lauerer" 
 		},
 		"(Sl) A cane-sword": {
-			"name": "(S) Bengala-espada",
-      "description": "Uma lâmina esguia e a sua bainha, disfarçadas como uma bengala de aristocrata. Uma vistoria superficial não é capaz de notar a lâmina oculta.",
+			"name": "(E) Stockdegen",
+      "description": "Ein schmales Schwert mit Scheide, getarnt als Gehstock eines Adligen. Die Tarnung hält oberflächlicher Betrachtung stand.",
       "class":"Suave" 
 		},
 		"(Sl) Fine clothes & jewelry": {
-			"name": "(S) Roupas e joias superiores",
-      "description": "Uma vestimenta de uma qualidade tão excepcional que permite que você se passe por um nobre abastado. Carga 0.<br><br>Se você está carregando esse item como uma muda de roupa para trocar, ela conta como <b>carga 2</b>.",
+			"name": "(E) Hochwertige Kleidung & Schmuck",
+      "description": "Eine Garderobe, die von so vornehmer Machart zu sein scheint, dass du als wohlhabend und adlig durchgehst. Hast du diesen Gegenstand als Zweitgarderobe zum Wechseln dabei, zählt er als 2 Last.",
       "class":"Suave" 
 		},
 		"(Sl) Fine disguise kit": {
-			"name": "(S) Kit de disfarces superior",
-      "description": "Um conjunto de maquiagem teatral equipado com um vasto leque de acessórios e utensílios para mudar a aparência e enganar a vista. Ao usar esse kit, a sua qualidade superior pode aumentar o efeito de ações relacionadas a enganação e disfarces.",
+			"name": "(E) Hochwertiger Verkleidungskoffer",
+      "description": "Maskenbildnerkoffer, ausgestattet mit einer beeindruckenden Auswahl professioneller Utensilien zur Verwandlung der äußeren Erscheinung. Die hochwertige Qualität dieses Koffers kann bei Gebrauch die Wirkung deiner Täuschungsaktionen steigern.",
       "class":"Suave" 
 		},
 		"(Sl) Fine loaded dice, trick cards": {
-			"name": "(S) Dados viciados e cartas marcadas superiores",
-      "description": "Acessórios de jogo sutilmente alterados para favorecer certos resultados. Ao usar esse conjunto, a sua qualidade superior pode aumentar o efeito de ações relacionadas a enganação.",
+			"name": "(E) Hochwertige Trickwürfel und gezinkte Spielkarten",
+      "description": "Glücksspielrequisiten, auf subtile Weise manipuliert, damit sie bevorzugt bestimmte Ergebnisse zeigen. Die hochwertige Qualität dieser Gegenstände kann bei Gebrauch die Wirkung deiner Täuschungsaktionen steigern.",
       "class":"Suave" 
 		},
 		"(Sl) Trance powder": {
-			"name": "(S) Talco do transe",
-      "description": "Uma dose da droga popular que induz um estado mental alterado. A vítima desse pó permanece consciente, mas em um estado mental calmo e sugestionável similar à hipnosee.",
+			"name": "(E) Trancepulver",
+      "description": "Eine Dosis der beliebten bewusstseinsverändernden Droge. Das Opfer des Pulvers ist nicht vollständig bewusstlos, sondern schwebt in einem gelassenen, leicht beeinflussbaren Bewusstseinszustand, der einer Hypnose ähnelt.",
       "class":"Suave" 
 		},
 		"(Sp) Blueprints": {
-			"name": "(Ar) Plantas baixas",
-      "description": "Uma pasta cheia de desenhos arquitetônicos, mapas da cidade e plantas-baixas. Ao escolher esse item, você pode descrever que tipo de plantas e mapas carrega no momento.",
-      "class":"Aranha" 
+			"name": "(Sp) Blaupausen",
+      "description": "Mappe mit nützlichen Architekturzeichnungen und Stadtplänen. Gib ruhig genauer an, welche Pläne du dabeihast, wenn du diesen Gegenstand auswählst.",
+      "class":"Spinne" 
 		},
 		"(Sp) Concealed palm pistol": {
-			"name": "(Ar) Pistola de palma (escondida)",
-      "description": "Uma pequena arma de fogo com munição de potência leve, que pode ser facilmente ocultada em uma manga ou casaco. Essa pistola possui um alcance extremamente limitado, por volta de um metro. O seu tamanho diminuto permite que você a oculte em si facilmente, tornando-a difícil de ser detectada mesmo após uma inspeção.",
-      "class":"Aranha" 
+			"name": "(Sp) Verborgene Taschenpistole",
+      "description": "Kleine Feuerwaffe mit schwacher Ladung, leicht in Ärmel oder Weste zu verbergen. Diese Pistole hat eine stark eingeschränkte Reichweite von nur wenigen Schritt. Am Körper getragen ist sie sehr schwer zu entdecken, selbst wenn du durchsucht wirst.",
+      "class":"Spinne" 
 		},
 		"(Sp) Fine bottle of whiskey": {
-			"name": "(Ar) Garrafa de uísque superior",
-      "description": "Uma destilação rara da sua coleção pessoal, potente tanto no teor alcóolico quanto na sua capacidade de impressionar.",
-      "class":"Aranha" 
+			"name": "(Sp) Hochwertige Flasche Whiskey",
+      "description": "Rares Destillat aus deiner Privatsammlung. Mit starker Wirkung, sowohl im Alkoholgehalt als auch im hinterlassenen Eindruck.",
+      "class":"Spinne" 
 		},
 		"(Sp) Fine cover identity": {
-			"name": "(Ar) Identidade falsa superior",
-      "description": "Documentos falsificados, histórias e rumores espalhados, e relacionamentos falsos que permitem que você se passe por uma outra pessoa.",
-      "class":"Aranha" 
+			"name": "(Sp) Hochwertige Tarnidentität",
+      "description": "Papiere, fingierte Geschichten und Gerüchte und gefälschte Beziehungen, die dich als jemand anderes ausgeben.",
+      "class":"Spinne" 
 		},
 		"(Sp) Vial of slumber essence": {
-			"name": "(Ar) Frasco de essência do sono",
-      "description": "Uma dose dessa essência é suficiente para fazer alguém dormir por uma hora. Esse sono não é um efeito sobrenatural, mas é profundo – a vítima só pode ser acordada com um bom esforço.",
-      "class":"Aranha" 
+			"name": "(Sp) Phiole Schlafessenz",
+      "description": "Eine Dosis Schlafessenz, die ausreicht, um jemanden eine Stunde lang zu betäuben. Der Schlaf des Opfers ist nicht übernatürlich, aber sehr tief – es kann mit einiger Mühe aufgeweckt werden.",
+      "class":"Spinne" 
 		},
 		"(W) Demonbane charm": {
-			"name": "(Su) Amuleto de proteção contra demônios",
-      "description": "Uma quinquilharia arcana que demônios preferem evitar.",
-      "class":"Sussurro"       
+			"name": "(F) Dämonenbann-Talisman",
+      "description": "Arkanes Schmuckstück, das Dämonen meiden.",
+      "class":"Flüsterer"       
 		},
 		"(W) Fine lightning hook": {
-			"name": "(Su) Gancho elétrico superior",
-      "description": "Um laço de arame conectado a um capacitor electroplasmático, posicionado na ponta de uma haste longa. Pode ser usado para enlaçar um espírito e arrastá-lo para uma jarra espiritual. Esse gancho feito à mão pode ser dobrado e guardado em uma forma mais compacta, o que reduz a sua carga para 1 apesar de se tratar de uma ferramenta de duas mãos.",
-      "class":"Sussurro"       
+			"name": "(F) Hochwertiger Blitzhaken",
+      "description": "Langer zweihändiger Stab mit stabiler Drahtschlinge, an einen Elektroplasmakondensator angeschlossen. Nützlich, um eine Seele zu greifen und in eine Seelenflasche zu ziehen. Dieser maßgefertigte Haken lässt sich kompakt zusammenschieben, wodurch sich seine Last auf 1 verringert, obwohl er zweihändig ist.",
+      "class":"Flüsterer"       
 		},
 		"(W) Fine spirit mask": {
-			"name": "(Su) Máscara espiritual superior",
-      "description": "Esse item arcano permite que um usuário treinado observe energias espirituais de forma detalhada e precisa. Ele também oferece alguma proteção contra a possessão de fantasmas. Cada máscara espiritual é um objeto único e pessoal. Como é a sua? Quais elementos a tornam estranha e perturbadora de se ver?",
-      "class":"Sussurro"       
+			"name": "(F) Hochwertige Seelenmaske",
+      "description": "Arkanes Objekt, das es dem geschulten Nutzer erlaubt, übernatürliche Energien bis ins kleinste Detail zu betrachten. Bietet zudem einen gewissen Schutz gegen Besessenheit durch Geister. Jede Seelenmaske ist ein Unikat. Wie sieht deine aus? Was macht ihren Anblick so seltsam und verstörend?",
+      "class":"Flüsterer"       
 		},
 		"(W) Ghost key": {
-			"name": "(Su) Chave Fantasma",
-      "description": "Um instrumento arcano capaz de abrir portas fantasmagóricas. No campo fantasmagórico existem ecos da cidade inteira, em vários períodos de tempo. Ocasionalmente são encontradas portas para esse lugar perdido.",
-      "class":"Sussurro"       
+			"name": "(F) Geisterschlüssel",
+      "description": "Ein arkanes Gerät zum Öffnen von Geistertüren. Ein Echo der gesamten Stadt und ihrer Vergangenheit ist im Geisterfeld eingeschlossen. Manchmal stößt man auf eine Tür zu diesem Ort.",
+      "class":"Flüsterer"       
 		},
 		"(W) Spirit bottles (2)": {
-			"name": "(Su) Jarras Espirituais (2)",
-      "description": "Um instrumento arcano capaz de aprisionar um espírito. Cada uma tem a forma de um cilindro cristalino reforçado com metal do tamanho de um pão grande.",
-      "class":"Sussurro"       
+			"name": "(F) Seelenflaschen (2)",
+      "description": "Arkanes Gerät zum Einfangen von Seelen. Ein Zylinder aus Metall und Kristall von der Größe eines Brotlaibs.",
+      "class":"Flüsterer"       
 		},
 		"+ Heavy": {
-			"name": "+Pesada",
-      "description": "Adição de cota de malha, placas de metal e elmo metálico. [carga 3] A carga da armadura pesada é somada à armadura normal, para um total de carga 5."
+			"name": "+Schwer",
+      "description": "Zusätzlich Kettenhemd, Metallplatten und Metallhelm. Die Last für schwere Rüstung gilt zusätzlich zur normalen Rüstung – insgesamt also Last 5."
 		},
 		"A 2nd Pistol": {
 			"name": "Uma Segunda Pistola",
       "description": "Uma arma de fogo pesada, de tiro único e carregamento pela culatra. O seu disparo é devastador a até 20 passos, mas a sua recarga é lenta e demorada."
 		},
 		"A Blade or Two": {
-			"name": "Uma Lâmina ou Duas",
-      "description": "Talvez você carregue uma simples faca de combate. Ou então duas espadas curvas. Possivelmente um sabre e punhal, ou mesmo um cutelo de açougueiro.<br><br>Você pode escolher um tipo de lâmina que represente as raízes do seu personagem:<br><br> As lâminas do Norte (Akoros e Skovlan) geralmente são largas, pesadas e de fio único.<br><br> Os lordes equestres de Severos preferem usar lanças em batalha. Em combates pessoais, porém, eles portam adagas características de dois gumes e lâmina bastante larga, frequentemente inscritas com as histórias de suas famílias.<br><br> Os corsários do Arquipélago das Adagas normalmente usam lâminas leves e finas, ideais para estocadas rápidas, como a rapiera e punhal.<br><br> Já em Iruvia, as lâminas curvas são mais usadas, sejam elas afiadas por dentro (como a foice de mão) ou por fora (como um sabre militar ou cimitarra)."
+			"name": "Ein oder zwei Klingen",
+      "description": "Vielleicht trägst du ein einfaches Kampfmesser bei dir. Oder zwei geschwungene Schwerter. Oder ein Rapier und ein Stilett. Oder ein schweres Fleischerbeil. <br>Eventuell spiegelt deine Klingenwahl deine Herkunft wider: <br><br>Im Norden (Akoros und Skovlan) sind die Klingen eher breit, schwer und einschneidig. <br>In Severos bevorzugen die Pferdeherren im Gefecht Speere, tragen aber für den Zweikampf auffällige zweischneidige Dolche mit sehr breiten Klingen, die oft aufwändige Gravuren der Familiengeschichten tragen.<br>Auf den Dolchinseln verwenden die Korsaren häufig schmale und wendige Klingen, die für schnelle Stiche gemacht sind – wie das Rapier und das Stilett.<br>In Iruvien sind geschwungene Klingen üblich; an der Außenkante geschliffen wie ein Säbel oder an der Innenkannte wie eine Sichel."
 		},
 		"A Large Weapon": {
-			"name": "Uma Arma Grande",
-      "description": "Uma arma que deve ser portada em duas mãos. Machado de batalha, espada larga, martelo de guerra ou arma de haste. Um rifle de caça ou bacamarte. Um arco ou besta."
+			"name": "Große Waffe",
+      "description": "Beidhändige Waffe. Streitaxt, Langschwert, Kriegshammer oder Stangenwaffe. Jagdgewehr oder Donnerbüchse. Bogen oder Armbrust."
 		},
 		"A Pistol": {
-			"name": "Uma Pistola",
-      "description": "Uma arma de fogo pesada, de tiro único e carregamento pela culatra. O seu disparo é devastador a até 20 passos, mas a sua recarga é lenta e demorada."
+			"name": "Pistole",
+      "description": "Schwerer, einschüssiger Hinterlader. Auf 20 Schritt verheerend, langsam nachzuladen."
 		},
 		"An Unusual Weapon": {
-			"name": "Uma Arma Incomum",
-      "description": "Uma ferramenta ou objeto curioso transformado em arma. Um chicote, mangual, machadinha, pá, corrente, leque com lâminas de navalha, botas reforçadas com aço."
+			"name": "Ungewöhnliche Waffe",
+      "description": "Zur Waffe umfunktioniertes Werkzeug oder Kuriosität. Peitsche, Dreschflegel, Beil, Schaufel, Kette, Fächer mit rasiermesserscharfen Kanten, Stahlkappenstiefel."
 		},
 		"Arcane Implements": {
-			"name": "Implementos Arcanos",
-      "description": "Um frasco de mercúrio. Um saquinho de sal negro. Uma âncora espiritual na forma de uma pequena rocha. Uma jarra espiritual. Um frasco de electroplasma, feito para ser arremessado e espalhar o seu conteúdo no ponto de impacto."
+			"name": "Arkane Gerätschaften",
+      "description": "Phiole Quecksilber. Beutel schwarzes Salz. Seelenanker in Form eines kleinen Steins. Seelenflasche. Phiole Elektroplasma, dazu ausgelegt, beim Aufprall zu zerspringen und zu verspritzen."
 		},
 		"Armor": {
-			"name": "Armadura",
-      "description": "Uma túnica ou casaca de couro com luvas e botas reforçadas."
+			"name": "Rüstung",
+      "description": "Waffenrock aus dickem Leder mit verstärkten Handschuhen und Stiefeln."
 		},
 		"Burglary Gear": {
-			"name": "Ferramentas de Arrombamento",
-      "description": "Um conjunto de gazuas. Um pé de cabra pequeno. Frascos de óleo para silenciar dobradiças barulhentas. Arame e anzóis. Uma sacolinha de areia fina."
+			"name": "Einbrecherausrüstung",
+      "description": "Satz Dietriche. Kleine Brechstange. Ölfläschchen, um quietschende Scharniere zum Schweigen zu bringen. Drahtrolle und Angelhaken. Kleiner Beutel feiner Sand."
 		},
 		"Climbing Gear": {
-			"name": "Ferramentas de Escalada",
-      "description": "Uma corda longa. Uma corda curta. Arpéus. Algibeira com pó de giz. Arnês de escalada com laços e aros de metal. Um conjunto de pítons de ferro e um martelo pequeno."
+			"name": "Kletterausrüstung",
+      "description": "Große Rolle Seil. Kleine Rolle Seil. Wurfhaken. Kleiner Beutel Kreidestaub. Klettergurt mit Schlaufen und Metallringen. Satz eiserner Kletterhaken und ein kleiner Hammer."
 		},
 		"Demolition Tools": {
-			"name": "Instrumentos de Demolição",
-      "description": "Uma marreta e espigas de ferro. Broca pesada. Pé de cabra."
+			"name": "Brechwerkzeug",
+      "description": "Vorschlaghammer und Stahleisen. Schwerer Bohrer. Brechstange."
 		},
 		"Documents": {
-			"name": "Documentos",
-      "description": "Uma coleção de exemplares finos sobre vários tópicos diferentes, incluindo um registro das famílias nobres, comandantes da Guarda Municipal e outros cidadãos importantes. Páginas em branco, um frasco de tinta e uma caneta tinteiro. Um conjunto de mapas importantes."
+			"name": "Dokumente",
+      "description": "Sammlung schmaler Bände zu einer Vielzahl von Themen, unter anderem ein Verzeichnis der Adelsfamilien, Stadtwachen-Kommandanten und anderer bedeutender Bürger. Leere Blätter, ein Fläschchen Tinte, ein Füllfederhalter. Einige interessante Landkarten."
 		},
 		"Lantern": {
-			"name": "Lanterna",
-      "description": "Uma simples lanterna a óleo, uma chique lâmpada electroplasmática ou outra fonte de luz."
+			"name": "Laterne",
+      "description": "Einfache Öllaterne, raffinierte Elektroplasmalampe oder andere Lichtquelle."
 		},
 		"Spiritbane Charm": {
-			"name": "Amuleto de proteção contra espíritos",
-      "description": "Uma quinquilharia arcana que fantasmas preferem evitar."
+			"name": "Seelenbann-Talisman",
+      "description": "Kleines arkanes Schmuckstück, das Geister lieber meiden."
 		},
 		"Subterfuge Supplies": {
-			"name": "Suprimentos de Subterfúgio",
-      "description": "Um kit de maquiagem teatral. Vários documentos em branco, prontos para serem falsificados. Joias falsas. Um manto duplo reversível e chapéu diferenciado. Distintivo de autoridade falsificado."
+			"name": "Täuscherzubehör",
+      "description": "Maskenbildnerkoffer. Sammlung von Blankodokumenten, bereit für das Fälschen. Modeschmuck. Wendeumhang und markanter Hut. Gefälschte Dienstmarke."
 		},
 		"Throwing Knives": {
-			"name": "Facas de Arremesso",
-      "description": "Seis lâminas pequenas e leves."
+			"name": "Wurfmesser",
+      "description": "Sechs kleine, leichte Klingen."
 		},
 		"Tinkering Tools": {
-			"name": "Instrumentos de Adulteração",
-      "description": "Um acervo de instrumentos para trabalhos mecânicos precisos: alicates, chave de fenda, lupa de joalheiro, martelinho, pinças, etc."
+			"name": "Bastlerwerkzeug",
+      "description": "Sortiment feinmechanische Werkzeuge: Uhrmacherlupe, Pinzette, kleiner Hammer, Zange, Schraubenzieher etc."
 		}
 	}
 }

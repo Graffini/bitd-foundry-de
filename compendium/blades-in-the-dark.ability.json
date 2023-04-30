@@ -227,49 +227,49 @@
       "class": "Emissär"  
 		},
 		"(Sp) Calculating": {
-			"name": "(Ar) Kalkül",
+			"name": "(Sp) Kalkül",
       "description": "Dank sorgfältiger Planung darfst du dir selbst und einem weiteren Gangmitglied während der Zwischenzeit +1 Aktivität gewähren.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Connected": {
-			"name": "(Ar) Beziehungen",
+			"name": "(Sp) Beziehungen",
       "description": "Während der Zwischenzeit erhältst du +1 Wirkungsgrad, wenn du Anschaffungen machst oder Verdacht verringerst.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Foresight": {
-			"name": "(Ar) Weitblick",
+			"name": "(Sp) Weitblick",
       "description": "Zweimal pro Coup darfst du einem Teammitglied helfen, ohne Stress dafür auszugeben. Beschreibe, wie du dich hierauf vorbereitet hast.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Functioning Vice": {
-			"name": "(Ar) Kontrolliertes Laster",
+			"name": "(Sp) Kontrolliertes Laster",
       "description": "Wenn du dich deinem Laster hingibst, kannst du das Würfelergebnis um 1 oder 2 (nach oben oder unten) anpassen. Verbündete, die dich begleiten, können das ebenso.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Ghost  Contract": {
-			"name": "(Ar) Geistervertrag:",
+			"name": "(Sp) Geistervertrag:",
       "description": "Wenn du eine Abmachung per Handschlag besiegelst oder schriftlich festhältst, tragen sowohl du als auch dein Partner das Mal eures Schwurs. Bricht eine Partei den Vertrag, erleidet sie Schaden 3. Grades: „Verflucht“.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Jail Bird": {
-			"name": "(Ar) Knastologie",
+			"name": "(Sp) Knastologie",
       "description": "Wenn du inhaftiert bist, gilt dein Fahndungsgrad als −1, deine Stufe als +1 und du erhältst +1 Status bei einer Fraktion, der du drinnen hilfst, zusätzlich zu allem, was du durch den Inhaftierungswurf bekommst.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Mastermind": {
-			"name": "(Ar) Drahtzieher",
+			"name": "(Sp) Drahtzieher",
       "description": "Du kannst deine Spezialrüstung verbrauchen, um ein Teammitglied zu schützen oder um dich beim Sammeln von Informationen oder bei der Arbeit an einem Langzeitprojekt zu verausgaben.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Veteran": {
-			"name": "(Ar) Veteran",
+			"name": "(Sp) Veteran",
       "description": "Wähle eine Sonderfähigkeit aus einer anderen Quelle.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(Sp) Weaving the Web": {
-			"name": "(Ar) Im Zentrum des Netzes",
+			"name": "(Sp) Im Zentrum des Netzes",
       "description": "Du erhältst +1W auf Verkehren, wenn du für einen Coup über ein Ziel Informationen sammelst. Für diesen Einsatz erhältst du +1W auf den Einstiegswurf.",
-      "class": "Spider"  
+      "class": "Spinne"  
 		},
 		"(W) Compel": {
 			"name": "(F) Binden",

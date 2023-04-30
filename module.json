@@ -2,7 +2,7 @@
   "id":"bitd-babele-de",
   "title":"Blades in the Dark - German",
   "description":"This module provides the German translation for Blades in the Dark as published by System Matters, to be used with the babele translation module.",  
-  "version":"0.1.0",
+  "version":"0.1.1",
   "authors": [
     {
       "id": "Graffini",

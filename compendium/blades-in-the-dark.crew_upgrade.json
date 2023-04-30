@@ -7,268 +7,268 @@
    
 	"entries": {
 		"(A) Assassin Rigging": {
-			"name": "(A) Aparelhagem de Assassino",
-      "description":"Você pode levar 2 de carga adicional de armas ou ferramentas. Por exemplo: você pode carregar uma pistola (uma arma) e ferramentas de arrombamento (ferramentas) e ainda ficar com carga 0.",
-      "class":"Assassinos"
+			"name": "(A) Attentäter-Ausstattung",
+      "description":"Ihr könnt Waffen oder Ausrüstungsgegenstände von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last eine Pistole (Waffe) und Einbrecherwerkzeug (Ausrüstung) bei euch tragen.",
+      "class":"Attentäter"
 		},
 		"(A) Elite Skulks": {
-			"name": "(A) Sorrateiros de Elite",
-      "description":"Todos os parceiros com o tipo Sorrateiro recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Assassinos"
+			"name": "(A) Elite-Baldower",
+      "description":"Alle eure Komplizen vom Typ Baldower erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Attentäter"
 		},
 		"(A) Elite Thugs": {
-			"name": "(A) Capangas de Elite",
-      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Assassinos"
+			"name": "(A) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Attentäter"
 		},
 		"(A) Hardened": {
-			"name": "(A) Calejados",
-      "description":"Cada PJ recebe +1 caixa de trauma. Esse benefício custa três melhorias em vez de um. Se for do interesse dos jogadores, essa melhoria pode trazer de volta ao jogo um PJ que tenha sofrido 4 traumas.",
-      "class":"Assassinos"
+			"name": "(A) Abgebrüht",
+      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
+      "class":"Attentäter"
 		},
 		"(A) Ironhook Contacts": {
-			"name": "(A) Contatos Atrás das Grades",
-      "description":"A sua Categoria aumenta em 1 dentro da prisão. Isso vale para qualquer circunstância que use a sua Categoria dentro da prisão, incluindo a rolagem de prisão.",
-      "class":"Assassinos"
+			"name": "(A) Ironhook-Kontakte",
+      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
+      "class":"Attentäter"
 		},
 		"(B) Bravos Rigging": {
-			"name": "(B) Aparelhagem de Bravos",
-      "description":"Você pode levar 2 de carga adicional de armas ou armadura. Por exemplo: você pode carregar uma pistola e espada, ou vestir uma armadura normal, e ainda ficar com carga 0.",
-      "class":"Bravos"
+			"name": "(H) Haudegen-Ausstattung",
+      "description":"Ihr könnt Waffen oder Rüstungen von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last Schwert und Pistole oder normale Rüstung tragen.",
+      "class":"Haudegen"
 		},
 		"(B) Elite Rovers": {
-			"name": "(B) Andarilhos de Elite",
-      "description":"Todos os parceiros com o tipo Andarilho recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Bravos"
+			"name": "(H) Elite-Vagabunden",
+      "description":"Alle eure Komplizen vom Typ Vagabunden erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Haudegen"
 		},
 		"(B) Elite Thugs": {
-			"name": "(B) Capangas de Elite",
-      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Bravos"
+			"name": "(H) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Haudegen"
 		},
 		"(B) Hardened": {
-			"name": "(B) Calejados",
-      "description":"Cada PJ recebe +1 caixa de trauma. Esse benefício custa três melhorias em vez de uma. Se for do interesse dos jogadores, essa melhoria pode trazer de volta ao jogo um PJ que tenha sofrido 4 traumas.",
-      "class":"Bravos"
+			"name": "(H) Abgebrüht",
+      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
+      "class":"Haudegen"
 		},
 		"(B) Ironhook Contacts": {
-			"name": "(B) Contatos Atrás das Grades",
-      "description":"A sua Categoria aumenta em 1 dentro da prisão. Isso vale para qualquer circunstância que use a sua Categoria dentro da prisão, incluindo a rolagem de prisão.",
-      "class":"Bravos"
+			"name": "(H) Ironhook-Kontakte",
+      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
+      "class":"Haudegen"
 		},
-		"(C) Cult Rigging": {
-			"name": "(C) Aparelhagem de Cultistas",
-      "description":"Você pode levar 2 de carga adicional de documentos ou implementos arcanos. Por exemplo: você pode carregar um livro profano de maldições e uma mão demoníaca, e ainda ficar com carga 0.",
-      "class":"Culto"
+		"(K) Cult Rigging": {
+			"name": "(K) Kultisten-Ausstattung",
+      "description":"Ihr könnt Dokumente oder Gerätschaften von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last ein lästerliches Buch der Flüche und eine Dämonenhand bei euch tragen.",
+      "class":"Kultisten"
 		},
-		"(C) Elite Adepts": {
-			"name": "(C) Capangas de Elite",
-      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Culto"
+		"(K) Elite Adepts": {
+			"name": "(K) Elite-Adepten",
+      "description":"Alle eure Komplizen vom Typ Adepten erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Kultisten"
 		},
-		"(C) Elite Thugs": {
-			"name": "(C) Adeptos de Elite",
-      "description":"Todos os parceiros com o tipo Adeptos recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Culto"
+		"(K) Elite Thugs": {
+			"name": "(K) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Kultisten"
 		},
-		"(C) Ordained": {
-			"name": "(C) Ordenados",
-      "description":"Cada PJ recebe +1 caixa de trauma. Esse benefício custa três melhorias em vez de uma. Se for do interesse dos jogadores, essa melhoria pode trazer de volta ao jogo um PJ que tenha sofrido 4 traumas.",
-      "class":"Culto"
+		"(K) Ordained": {
+			"name": "(K) Weihe",
+      "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
+      "class":"Kultisten"
 		},
-		"(C) Ritual Sanctum in Lair": {
-			"name": "(C) Santuário Ritualístico no Covil",
-      "description":"Esse santuário no covil do bando conta como uma oficina arcana e sagrada para práticas e rituais ocultistas.",
-      "class":"Culto"
+		"(K) Ritual Sanctum in Lair": {
+			"name": "(K) Rituelle Kultstätte im Versteck",
+      "description":"Zählt als heilige und arkane Werkstatt für okkulte Praktiken und Rituale.",
+      "class":"Kultisten"
 		},
 		"(H) Composed": {
-			"name": "(Ma) Compostura",
-      "description":"Cada PJ recebe +1 caixa de estresse. Esse benefício custa três melhorias em vez de uma.",
-      "class":"Mascates"
+			"name": "(Sb) Gelassen",
+      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
+      "class":"Schieber"
 		},
 		"(H) Elite Rooks": {
-			"name": "(Ma) Trapaceiros de Elite",
-      "description":"Todos os parceiros com o tipo Trapaceiros recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Mascates"
+			"name": "(Sb) Elite-Schwindler",
+      "description":"Alle eure Komplizen vom Typ Schwindler erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Schieber"
 		},
 		"(H) Elite Thugs": {
-			"name": "(Ma) Capangas de Elite",
-      "description":"Todos os parceiros com o tipo Capangas recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Mascates"
+			"name": "(Sb) Elite-Schläger",
+      "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
+      "class":"Schieber"
 		},
 		"(H) Hawker Rigging": {
-			"name": "(Ma) Aparelhagem de Mascates",
-      "description":"Um item carregado é ocultado e conta como 0 de carga. Por exemplo: você pode carregar e ocultar perfeitamente um pacote de drogas ou arma, e ainda ficar com carga 0.",
-      "class":"Mascates"
+			"name": "(Sb) Schieber-Ausstattung",
+      "description":"Ein getragener Gegenstand ist verborgen und ist keine Last. Ihr könntet also zum Beispiel für 0 Last eine Ladung Drogen oder eine Waffe vollkommen verborgen bei euch tragen.",
+      "class":"Schieber"
 		},
 		"(H) Ironhook Contacts": {
-			"name": "(Ma) Contatos Atrás das Grades",
-      "description":"A sua Categoria aumenta em 1 dentro da prisão. Isso vale para qualquer circunstância que use a sua Categoria dentro da prisão, incluindo a rolagem de prisão.",
-      "class":"Mascates"
+			"name": "(Sb) Ironhook-Kontakte",
+      "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
+      "class":"Schieber"
 		},
 		"(Sh) Elite Rooks": {
-			"name": "(So) Trapaceiros de Elite",
-      "description":"Todos os parceiros com o tipo Trapaceiros recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Sombras"
+			"name": "(P) Elite-Schwindler",
+      "description":"Alle eure Komplizen vom Typ Schwindler erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Phantome"
 		},
 		"(Sh) Elite Skulks": {
-			"name": "(So) Sorrateiros de Elite",
-      "description":"Todos os parceiros com o tipo Sorrateiros recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Sombras"
+			"name": "(P) Elite-Baldower",
+      "description":"Alle eure Komplizen vom Typ Baldower erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Phantome"
 		},
 		"(Sh) Steady": {
-			"name": "(So) Firmeza",
-      "description":"Cada PJ recebe +1 caixa de estresse. Esse benefício custa três melhorias em vez de uma.",
-      "class":"Sombras"
+			"name": "(P) Ruhig",
+      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
+      "class":"Phantome"
 		},
 		"(Sh) Thief Rigging": {
-			"name": "(So) Aparelhagem de Sombras",
-      "description":"Você pode levar 2 de carga adicional de ferramentas ou instrumentos. Por exemplo: você pode carregar ferramentas de arrombamento e instrumentos de adulteração, e ainda ficar com carga 0.",
-      "class":"Sombras"
+			"name": "(P) Diebes-Ausstattung",
+      "description":"Ihr könnt Werkzeuge oder Ausrüstungsgegenstände von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. von. Ihr könntet also zum Beispiel für 0 Last Einbrecherausrüstung oder Bastlerwerkzeug bei euch tragen.",
+      "class":"Phantome"
 		},
 		"(Sh) Underground Maps and Passkeys": {
-			"name": "(So) Mapas e Chaves do Subterrâneo",
-      "description":"O bando tem passagem fácil através dos canais subterrâneos, túneis e porões da cidade.",
-      "class":"Sombras"
+			"name": "(P) Untergrundkarten und -schlüssel",
+      "description":"Ihr könnt ungehindert die unterirdischen Kanäle, Tunnel und Keller der Stadt passieren.",
+      "class":"Phantome"
 		},
 		"(Sm) Barge": {
-			"name": "(Co) Balsa",
-      "description":"Adicione mobilidade ao seu covil. Você pode movê-lo para um novo local executando uma atividade de folga.",
-      "class":"Contrabandistas"
+			"name": "(Sm) Frachtkahn",
+      "description":"Ergänzt euer Versteck um Beweglichkeit. Ihr könnt es als Zwischenzeitaktivität zu einem neuen Standort bewegen.",
+      "class":"Schmuggler"
 		},
 		"(Sm) Camouflage": {
-			"name": "(Co) Camuflagem",
-      "description":"Os seus veículos se camuflam perfeitamente quando parados, confundindo-se com o ambiente ou parecendo ser veículos comuns (à sua escolha).",
-      "class":"Contrabandistas"
+			"name": "(Sm) Tarnung",
+      "description":"Eure Fahrzeuge sind stillstehend vollkommen verborgen. Sie gehen als Teil der Umgebung oder als uninteressantes Zivilfahrzeug durch (eure Wahl).",
+      "class":"Schmuggler"
 		},
 		"(Sm) Elite Rovers": {
-			"name": "(Co) Andarilhos de Elite",
-      "description":"Todos os parceiros com o tipo Andarilhos recebem +1d em rolagens de qualidade para ações relacionadas ao seu tipo.",
-      "class":"Contrabandistas"
+			"name": "(Sm) Elite-Vagabunden",
+      "description":"Alle eure Komplizen vom Typ Vagabunden erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
+      "class":"Schmuggler"
 		},
 		"(Sm) Smuggler Rigging": {
-			"name": "(Co) Aparelhagem de Contrabandistas",
-      "description":"Dois itens carregados são perfeitamente ocultados. Você pode levar um carregamento de contrabando e uma pistola perfeitamente ocultados, resistindo mesmo a uma inspeção.",
-      "class":"Contrabandistas"
+			"name": "(Sm) Schmuggler-Ausstattung",
+      "description":"Zwei der Gegenstände, die ihr bei euch tragt, sind vollkommen verborgen. Ihr könntet also 1 Last Schmuggelware und eine Pistole tragen, die selbst gegen Abtasten vollkommen verborgen sind.",
+      "class":"Schmuggler"
 		},
 		"(Sm) Steady": {
-			"name": "(Co) Firmeza",
-      "description":"Cada PJ recebe +1 caixa de estresse. Custa três melhorias ao invés de uma.",
-      "class":"Contrabandistas"
+			"name": "(Sm) Standhaft",
+      "description":"Jeder SC erhält +1 Stress-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer.",
+      "class":"Schmuggler"
 		},
 		"(Sm) Vehicle 1": {
-			"name": "(Co) Veículo 1",
-      "description":"Todos os Contrabandistas começam o jogo com um veículo como parte de suas melhorias iniciais.",
-      "class":"Contrabandistas"
+			"name": "(Sm) Fahrzeug 1",
+      "description":"Alle Schmuggler beginnen das Spiel mit einem Fahrzeug.",
+      "class":"Schmuggler"
 		},
 		"(Sm) Vehicle 2": {
-			"name": "(Co) Veículo 2",
-      "description":"O bando pode usar outra melhoria para conceder armadura para o veículo.",
-      "class":"Contrabandistas"
+			"name": "(Sm) Fahrzeug 2",
+      "description":"Wird das Fahrzeug verbessert (zwei Kästchen), erhält es außerdem Panzerung (Rüstung).",
+      "class":"Schmuggler"
 		},
 		"Boat House 1": {
-			"name": "Hangar de Barco 1",
-      "description":"Você possui um barco, uma doca em um canal e um pequeno hangar para armazenar equipamentos náuticos."
+			"name": "Bootshaus 1",
+      "description":"Ihr habt ein Boot, eine Anlegestelle an einer Wasserstraße und einen kleinen Schuppen zum Aufbewahren eurer Bootsausrüstung."
 		},
 		"Boat House 2": {
-			"name": "Hangar de Barco 2",
-      "description":"Essa melhoria pode ser realizada novamente, resultando em um barco reforçado contra ataques e capaz de suportar mais carga."
+			"name": "Bootshaus 2",
+      "description":"Eine zweite Verbesserung ergänzt euer Boot um Panzerung und mehr Laderaum."
 		},
 		"Carriage House 1": {
-			"name": "Garagem de Carruagem 1",
-      "description":"Você possui uma carruagem, animais de carga para puxá-la e um estábulo."
+			"name": "Kutschenhaus 1",
+      "description":"Ihr habt eine Kutsche, zwei Zugziegen und einen Stall."
 		},
 		"Carriage House 2": {
-			"name": "Garagem de Carruagem 2",
-      "description":"Essa melhoria pode ser realizada novamente, resultando em uma carruagem reforçada contra ataques e montarias maiores e mais rápidas."
+			"name": "Kutschenhaus 2",
+      "description":"Eine zweite Verbesserung ergänzt die Kutsche um Panzerung und größere und schnellere Ziegen."
 		},
 		"Cohort 1": {
-			"name": "Parceiro 1",
-      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
+			"name": "Komplizen 1",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
 		},
 		"Cohort 2": {
-			"name": "Parceiro 2",
-      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
+			"name": "Komplizen 2",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
 		},
 		"Cohort 3": {
-			"name": "Parceiro 3",
-      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
+			"name": "Komplizen 3",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
 		},
 		"Cohort 4": {
-			"name": "Parceiro 4",
-      "description":"Um parceiro é uma gangue ou um único especialista PdM que trabalha para o bando."
+			"name": "Komplizen 4",
+      "description":"Komplizen sind Banden oder einzelne NSC-Experten, die für eure Gang arbeiten."
 		},
 		"Hidden Lair": {
-			"name": "Esconderijo",
-      "description":"O covil do seu bando tem uma localização secreta e disfarçada da vista de transeuntes. Mesmo se o covil for descoberto, ele pode ser realocado para uma nova localização secreta e escondida. Para isso, vocês precisam usar duas atividades de folga e pagar uma quantidade de moedas igual à Categoria do bando."
+			"name": "Geheimes Versteck",
+      "description":"Euer Versteck befindet sich an einer geheimen Stelle und ist vor fremden Blicken getarnt. Wird euer Versteck entdeckt, wendet zwei Zwischenzeitaktivitäten auf und zahlt Münzen in Höhe eurer Stufe, um es umzuziehen und erneut zu verstecken."
 		},
 		"Mastery": {
-			"name": "Maestria",
-      "description":"O seu bando tem acesso a treinamento de mestres. Os personagens dos jogadores podem aumentar os seus valores de ação até o nível 4 (eles são restritos ao nível 3 até obterem essa melhoria). A maestria custa quatro caixas de melhoria."
+			"name": "Meisterschaft",
+      "description":"Eure Gang hat Zugang zu Training auf Meisterniveau. Ihr dürft die Aktionswerte eurer SC auf bis zu 4 steigern (bevor ihr diese Verbesserung freischaltet, haben SC-Aktionswerte eine Obergrenze von 3). Das Freischalten kostet vier Verbesserungskästchen."
 		},
 		"Quality: Arcane Implements": {
-			"name": "Qualidade: Implementos Arcanos",
-      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
+			"name": "Qualität: Arkane Gerätschaften",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
 		},
 		"Quality: Documents": {
-			"name": "Qualidade: Documentos",
-      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
+			"name": "Qualität: Dokumente",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
 		},
 		"Quality: Gear": {
-			"name": "Qualidade: Instrumentos",
-      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente. (incluindo Instrumentos de Demolição e Instrumentos de Adulteração)"
+			"name": "Qualität: Ausrüstung",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen. (deckt Einbrecher- und Kletterausrüstung ab.)"
 		},
 		"Quality: Subterfuge Supplies": {
-			"name": "Qualidade: Suprimentos de Subterfúgio",
-      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
+			"name": "Qualität: Täuscherzubehör",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen. (deckt Brech- und Bastlerwerkzeug ab.)"
 		},
 		"Quality: Tools": {
-			"name": "Qualidade: Ferramentas",
-      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente. (incluindo Ferramentas de Escalada e Ferramentas de Arrombamento)"
+			"name": "Qualität: Werkzeug",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
 		},
 		"Quality: Weapons": {
-			"name": "Qualidade: Armas",
-      "description":"Cada melhoria aumenta o nível de qualidade de todos os itens dos PJs de um determinado tipo. Esse aumento vai além da Categoria do bando e dos itens superiores dos PJs. Essa melhoria pode ser realizada novamente, cada vez para um tipo de equipamento diferente."
+			"name": "Qualität: Waffen",
+      "description":"Jede Verbesserung erhöht den Qualitätswert aller Gegenstände dieser Sorte im Besitz der SC, und zwar über die Qualität hinaus, die durch die Stufe der Gang und hochwertige Gegenstände vorgegeben ist. Steht ihr also auf Stufe 0 und habt hochwertige Dietriche (+1) und die Qualitätsverbesserung für Ausrüstung (+1), könnt ihr es ebenbürtig mit einem Schloss der Qualitätsstufe II aufnehmen."
 		},
 		"Quarters": {
-			"name": "Alojamentos",
-      "description":"O covil inclui quartos e alojamentos para os membros do bando. Sem essa melhoria, cada PJ dorme em um lugar diferente e fica relativamente vulnerável."
+			"name": "Wohnraum",
+      "description":"Euer Versteck verfügt über einen Wohnbereich für die Gang. Ohne diese Verbesserung muss jeder SC woanders schlafen und ist dabei entsprechend angreifbar."
 		},
 		"Secure Lair 1": {
-			"name": "Covil Seguro 1",
-      "description":"O covil do seu bando é equipado com fechaduras, alarmes e armadilhas para repelir invasores."
+			"name": "Sicheres Versteck 1",
+      "description":"Euer Versteckt hat Schlösser, Alarmvorrichtungen und Fallen, um Eindringlinge abzuwehren. Werden diese Maßnahmen je auf die Probe gestellt, müsst ihr eventuell auf die Stufe eurer Gang würfeln, um zu sehen, wie gut sie Eindringlinge fernhalten können."
 		},
 		"Secure Lair 2": {
-			"name": "Covil Seguro 2",
-      "description":"Essa melhoria pode ser realizada novamente, acrescentando proteções arcanas as quais funcionam contra espíritos."
+			"name": "Sicheres Versteck 2",
+      "description":"Eine zweite Verbesserung ergänzt die Abwehr um arkane Maßnahmen zur Abwehr von Geistern."
 		},
 		"Training: Insight": {
-			"name": "Treinamento: Esperteza",
-      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
+			"name": "Training: Verstand",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
 		},
 		"Training: Personal Exp": {
-			"name": "Treinamento: Cartilha",
-      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
+			"name": "Training: Charakterbuch-EP",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
 		},
 		"Training: Prowess": {
-			"name": "Treinamento: Valentia",
-      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
+			"name": "Training: Zähigkeit",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
 		},
 		"Training: Resolve": {
-			"name": "Treinamento: Convicção",
-      "description":"Essa melhoria permite que os PJs recebam 2 xp (ao invés de 1) ao treinarem um marcador específico de xp durante a folga, permitindo que eles avancem mais rapidamente."
+			"name": "Training: Wille",
+      "description":"Habt ihr eine Trainingsverbesserung, verdienst du 2 EP (statt 1), wenn du während der Zwischenzeit eine bestimmten EP-Leiste füllst. Im Wesentlichen hilft euch diese Verbesserung, schneller aufzusteigen. Siehe Aufstieg auf S. 54."
 		},
 		"Vault 1": {
-			"name": "Cofre 1",
-      "description":"O seu covil possui um cofre seguro, permitindo que o bando armazene até 8 moedas. O cofre inclui uma parte separada que pode ser usada como uma cela de detenção."
+			"name": "Speicher 1",
+      "description":"Euer Versteck hat einen sicheren Speicher, wodurch sich euer Münzen-Lagerraum auf 8 vergrößert. Ein getrennter Bereich eures Speichers kann als Gefängniszelle genutzt werden."
 		},
 		"Vault 2": {
-			"name": "Cofre 2",
-      "description":"Essa melhoria pode ser realizada novamente, aumentando essa capacidade para 16."
+			"name": "Speicher 2",
+      "description":"Eine zweite Verbesserung vergrößert euren Lagerraum auf 16."
 		},
 		"Workshop": {
-			"name": "Oficina",
-      "description":"O seu covil possui uma oficina equipada com instrumentos para adulteração e alquimia, assim como uma pequena biblioteca de livros, documentos e mapas. Os PJs podem usar esses recursos para progredir em projetos de longo prazo sem deixar a segurança do covil."
+			"name": "Werkstatt",
+      "description":"Euer Versteck hat eine Werkstatt, die mit Bastler- und Alchemiewerkzeugen ausgestattet ist, sowie eine kleine Bibliothek aus Büchern, Dokumenten und Karten. Mit diesen Mitteln könnt ihr Langzeitprojekte bewerkstelligen, ohne euer Versteck zu verlassen."
 		}
 	}
 }

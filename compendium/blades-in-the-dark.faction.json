@@ -1,7 +1,7 @@
 {
-   "label":"Facções",
-   "mapping":{
-      "description":"data.description",
+   "label": "Fraktionen",
+   "mapping": {
+      "description": "data.description",
       "type": "data.type",
       "goal_1": "data.goal_1",
       "goal_2": "data.goal_2",
@@ -11,445 +11,445 @@
       "notables": "data.notables",
       "allies": "data.allies",
       "enemies": "data.enemies",
-      "situation": "data.situation"      
+      "situation": "data.situation"
    },
-   
-   "entries":{
-      "Bluecoats":{
-         "name":"Os Casacas Azuis",
-         "description":"A Guarda Municipal de Doskvol, teoricamente responsável por manter a lei. Amplamente reconhecida como a gangue mais perversa da cidade. Corruptos, violentos e cruéis.",
-        "type": "As Instituições",
-        "goal_1": "Requisitar aumentos de orçamento, armamentos militares e outros equipamentos",
-        "turf": "Os Casacas Azuis clamam a cidade inteira como seu território, embora a sua influência seja extremamente limitada na Coroa-Alva. Esse bairro é comandado pela guarnição do Exército Imperial, que atende as ordens do Lorde Governador.",
-        "assets": "Várias gangues grandes de brutamontes cruéis vestidos em uniformes. Coches reforçados e barcos de patrulha nos canais. Palcos para punições públicas (pelourinhos, troncos, celas suspensas).",
-        "quirks": "Os Casacas Azuis dividem-se em companhias de acordo com os bairros onde servem. Surgem entre elas fortes rivalidades, que são encorajadas pelos seus superiores e ocasionalmente explodem em violência.",
-        "notables": "- Comandante Clelland (comissário chefe da Guarda Municipal, corrupto, cruel, arrogante).\n- Capitão Michter (instrutor chefe, ambicioso, feroz, confiante).\n- Capitão Vale (intendente do armorial, leal, perspicaz, quieto).",
-        "allies": "O Conselho Municipal, Os Cutelos, Os Corvos, Prisão Anzolférreo, Lorde Scurlock, Os Velados.",
-        "enemies": "Exército Imperial, várias organizações criminosas.",
-        "situation": "Os Casacas Azuis invejam os equipamentos superiores e veículos excepcionais usados pelo Exército Imperial. Eles desejam equipar os guardas em patrulha com armas e armaduras pesadas para aterrorizar mais ainda as suas vítimas."            
+   "entries": {
+      "Bluecoats": {
+         "name": "Blauröcke",
+         "description": "Die Stadtwache. Bekannt als fieseste Gang der Stadt. Korrupt, gewalttätig, grausam.",
+         "type": "Obrigkeit",
+         "goal_1": "Mehr Budget, Waffen und Ausrüstung beschaffen",
+         "turf": "Die Blauröcke beanspruchen die ganze Stadt als ihr Revier. Tatsächlich aber ist ihr Einfluss in Whitecrown stark eingeschränkt, da hier die imperiale Militärgarnison unter dem Kommando des Generalgouverneurs das Sagen hat.",
+         "assets": "Zahlreiche große Banden von grausamen Schlägern in Uniform. Gepanzerte Kutschen und Patrouillenboote für die Kanäle. Öffentliche Strafstätten (Pranger, Schandstöcke, hängende Käfige).",
+         "quirks": "Die Mannschaften der Blauröcke sind nach Bezirken unterteilt. Zwischen ihnen bestehen ernste Rivalitäten, oft zusätzlich angespornt durch ihre Vorgesetzten. Meist bleibt es harmloser Wettstreit, aber manchmal wird es gewalttätig.",
+         "notables": "Commissioner Clelland (Kommandant der Stadtwache, korrupt, grausam, arrogant). Captain Mickter (oberste Ausbilderin, ehrgeizig, kämpferisch, selbstsicher). Captain Vale (Quartiermeister, loyal, wissend, ruhig).",
+         "allies": "Der Stadtrat, Die Billhooks, Die Crows, Das Ironhook-Gefängnis, Lord Scurlock, Die Unsichtbaren.",
+         "enemies": "Das imperiale Militär, viele kriminelle Organisationen.",
+         "situation": "Die Blauröcke beneiden das imperiale Militär um deren herausragende Ausrüstung und ihre Fahrzeuge. Sie möchten ihre Wachen mit schwerer Rüstung und Bewaffnung neu ausstatten, um ihren Opfern besser Angst einjagen zu können."
       },
-      "Cabbies":{
-         "name":"Cocheiros",
-         "description":"Os condutores dos coches públicos. Eles também criam as grandes e robustas cabras akorosianas que puxam as carroças. Funcionam como uma rede de fofocas impressionante.",
-        "type": "Proletários/Comércio" 
+      "Cabbies": {
+         "name": "Cocheiros",
+         "description": "Os condutores dos coches públicos. Eles também criam as grandes e robustas cabras akorosianas que puxam as carroças. Funcionam como uma rede de fofocas impressionante.",
+         "type": "Arbeit & Handel"
       },
-      "Citizenry":{
-         "name":"Cidadãos",
-         "description":"Os habitantes ordinários de um bairro podem ser representados através de uma facção, se você quiser acompanhar o status do bando em relação a eles. O mestre determina uma Categoria de acordo com o nível de riqueza e poder dos cidadãos do bairro (Coroa-Alva poderia ser de Categoria V enquanto as Docas teriam Categoria II; já a Baixada do Borralho poderia ter Categoria 0)."
+      "Citizenry": {
+         "name": "Cidadãos",
+         "description": "Os habitantes ordinários de um bairro podem ser representados através de uma facção, se você quiser acompanhar o status do bando em relação a eles. O mestre determina uma Categoria de acordo com o nível de riqueza e poder dos cidadãos do bairro (Coroa-Alva poderia ser de Categoria V enquanto as Docas teriam Categoria II; já a Baixada do Borralho poderia ter Categoria 0)."
       },
-      "City Council":{
-         "name":"Conselho Municipal",
-         "description":"A alta nobreza que administra o governo municipal.",
-        "type": "As Instituições",
-        "goal_1": "Vaustranho é removido do conselho",
-        "goal_2": "Vaustranho elimina as ameaças",
-        "turf": "Os gabinetes do conselho municipal ficam no bairro da Câmara Oficial, assim como vários escritórios do governo e os cofres inexpugnáveis do tesouro municipal. O conselho também detém a posse oficial de todos os espaços públicos da cidade, incluindo ruas, docas e canais.",
-        "assets": "Um imenso tesouro de moedas e bens de valor. Muitos funcionários públicos, advogados e escrivães. Os coches públicos são conduzidos pelos Cocheiros.",
-        "quirks": "Todos os membros do Conselho são adeptos de alto nível da Igreja do Êxtase da Carne. Alguns também foram iniciados secretamente na Via dos Ecos.",
-        "notables": "Os herdeiros das seis famílias nobres mais poderosas de Doskvol, presentemente: Arcolongo, Clelland, Dunvil, Penderyn, Rowan e Vaustranho.",
-        "allies": "Casacas Azuis, A Igreja do Êxtase, O Círculo das Chamas, Lorde Scurlock, A Brigada, Cocheiros, Faisqueiros, A Fundação.",
-        "enemies": "Exército Imperial, Inspetores, Ministério da Preservação, Os Reconciliados.",
-        "situation": "Três conselheiros (Arcolongo, Clelland e Rowan) criaram uma aliança para remover a casa Vaustranho do conselho. Dunvil e Penderyn ainda não escolheram seus lados. Os conspiradores conseguirão armar os crimes, escândalos e/ou assassinatos necessários para remover Vaustranho do poder? Ou será que a Casa Vaustranho eliminará suas ameaças primeiro?"   
+      "City Council": {
+         "name": "Conselho Municipal",
+         "description": "A alta nobreza que administra o governo municipal.",
+         "type": "Obrigkeit",
+         "goal_1": "Vaustranho é removido do conselho",
+         "goal_2": "Vaustranho elimina as ameaças",
+         "turf": "Os gabinetes do conselho municipal ficam no bairro da Câmara Oficial, assim como vários escritórios do governo e os cofres inexpugnáveis do tesouro municipal. O conselho também detém a posse oficial de todos os espaços públicos da cidade, incluindo ruas, docas e canais.",
+         "assets": "Um imenso tesouro de moedas e bens de valor. Muitos funcionários públicos, advogados e escrivães. Os coches públicos são conduzidos pelos Cocheiros.",
+         "quirks": "Todos os membros do Conselho são adeptos de alto nível da Igreja do Êxtase da Carne. Alguns também foram iniciados secretamente na Via dos Ecos.",
+         "notables": "Os herdeiros das seis famílias nobres mais poderosas de Doskvol, presentemente: Arcolongo, Clelland, Dunvil, Penderyn, Rowan e Vaustranho.",
+         "allies": "Casacas Azuis, A Igreja do Êxtase, O Círculo das Chamas, Lorde Scurlock, A Brigada, Cocheiros, Faisqueiros, A Fundação.",
+         "enemies": "Exército Imperial, Inspetores, Ministério da Preservação, Os Reconciliados.",
+         "situation": "Três conselheiros (Arcolongo, Clelland e Rowan) criaram uma aliança para remover a casa Vaustranho do conselho. Dunvil e Penderyn ainda não escolheram seus lados. Os conspiradores conseguirão armar os crimes, escândalos e/ou assassinatos necessários para remover Vaustranho do poder? Ou será que a Casa Vaustranho eliminará suas ameaças primeiro?"
       },
-      "Cyphers":{
-         "name":"Cifras",
-         "description":"A guilda de mensageiros da cidade. Juramentos sagrados de sigilo as impedem de revelar o conteúdo das mensagens, ou as identidades de clientes – ou pelo menos é isso o que dizem.",
-        "type": "Proletários/Comércio" 
+      "Cyphers": {
+         "name": "Cifras",
+         "description": "A guilda de mensageiros da cidade. Juramentos sagrados de sigilo as impedem de revelar o conteúdo das mensagens, ou as identidades de clientes – ou pelo menos é isso o que dizem.",
+         "type": "Arbeit & Handel"
       },
-      "Deathlands Scavengers":{
-         "name":"Legião da Morte",
-         "description":"Condenados da prisão Anzolférreo e independentes desesperados que vasculham as terras mortais em busca de tesouros perdidos.",
-        "type": "A Periferia",
-        "goal_1": "Conquistar perdões (repete-se)",
-        "turf": "Alguns poucos e preciosos refúgios estabelecidos nas terras mortais através de ritos ancestrais de proteção contra espíritos. Áreas de caça dos poucos animais estranhos que sobreviveram ao cataclisma.",
-        "assets": "Geradores, ganhos relampejantes, máscaras de gás, tanques de ar e outros itens essenciais para a sobrevivência nas terras mortais. Um livro secreto antiquíssimo de feitiçaria ritual.",
-        "quirks": "A possessão é um mal comum a essa linha de trabalho, e os Legionários aprendem a lidar com isso rápido, ou enlouquecem e somem na escuridão. Os colegas de Lady Espinho conseguiram se adaptar bem à possessão e sofrem apenas efeitos mínimos.",
-        "notables": "- Lady Espinho (líder, assombrada, corajosa, solidária).\n- Richter (caçador, paciente, quieto, mortal).",
-        "allies": "Deuses Esquecidos, Gondoleiros, Patrulheiros Espirituais.",
-        "enemies": "Prisão Anzolférreo.",
-        "situation": "Alguns prisioneiros condenados à morte recebem uma irônica “misericórdia”: encarar a sua execução na Anzolférreo ou enfrentar as terras mortais. Os poucos que sobrevivem à segunda o fazem graças a Lady Espinho e sua Legião da Morte. Eles acolhem os condenados e os treinam em técnicas de caça e sobrevivência nas terras mortais. Os Legionários vasculham as terras mortais atrás de artefatos e tesouros perdidos, vendendo-os na cidade para um dia comprar o perdão pelos seus crimes."   
+      "Deathlands Scavengers": {
+         "name": "Legião da Morte",
+         "description": "Condenados da prisão Anzolférreo e independentes desesperados que vasculham as terras mortais em busca de tesouros perdidos.",
+         "type": "Anderweltliches",
+         "goal_1": "Conquistar perdões (repete-se)",
+         "turf": "Alguns poucos e preciosos refúgios estabelecidos nas terras mortais através de ritos ancestrais de proteção contra espíritos. Áreas de caça dos poucos animais estranhos que sobreviveram ao cataclisma.",
+         "assets": "Geradores, ganhos relampejantes, máscaras de gás, tanques de ar e outros itens essenciais para a sobrevivência nas terras mortais. Um livro secreto antiquíssimo de feitiçaria ritual.",
+         "quirks": "A possessão é um mal comum a essa linha de trabalho, e os Legionários aprendem a lidar com isso rápido, ou enlouquecem e somem na escuridão. Os colegas de Lady Espinho conseguiram se adaptar bem à possessão e sofrem apenas efeitos mínimos.",
+         "notables": "- Lady Espinho (líder, assombrada, corajosa, solidária).\n- Richter (caçador, paciente, quieto, mortal).",
+         "allies": "Deuses Esquecidos, Gondoleiros, Patrulheiros Espirituais.",
+         "enemies": "Prisão Anzolférreo.",
+         "situation": "Alguns prisioneiros condenados à morte recebem uma irônica “misericórdia”: encarar a sua execução na Anzolférreo ou enfrentar as terras mortais. Os poucos que sobrevivem à segunda o fazem graças a Lady Espinho e sua Legião da Morte. Eles acolhem os condenados e os treinam em técnicas de caça e sobrevivência nas terras mortais. Os Legionários vasculham as terras mortais atrás de artefatos e tesouros perdidos, vendendo-os na cidade para um dia comprar o perdão pelos seus crimes."
       },
-      "Dockers":{
-         "name":"Estivadores",
-         "description":"Os duros e grosseiros trabalhadores das docas.",
-        "type": "Proletários/Comércio" 
+      "Dockers": {
+         "name": "Estivadores",
+         "description": "Os duros e grosseiros trabalhadores das docas.",
+         "type": "Arbeit & Handel"
       },
-      "Gondoliers":{
-         "name":"Gondoleiros",
-         "description":"A guilda dos barqueiros dos canais. Tradicionalmente adorados pela população. Supostamente conhecem segredos ocultistas (muitas coisas ocultas jazem abaixo das águas de Obscura).",
-        "type": "Proletários/Comércio",
-        "goal_1": "Investigar vazios profanados",
-        "goal_2": "Destruir fontes espirituais (repete-se)",
-        "turf": "Os canais de Doskvol. Mesmo as patrulhas dos Casacas Azuis nos canais respeitam os Gondoleiros em seu território.",
-        "assets": "Frota de gôndolas e outras embarcações. Mapa de fontes espirituais e locais arcanos conhecidos na cidade. Uma equipe de parceiros Adeptos dedicados.",
-        "quirks": "A iniciação ritual nos Gondoleiros os concede a habilidade especial compelir do Sussurro.",
-        "notables": "- Eisele (líder, serena, bem-informada, destemida).\n- Griggs (Sussuro-chefe, estranho, implacável, assombrado).",
-        "allies": "Os Lanternas Negras, Cidadãos de todos os bairros.",
-        "enemies": "Os Faixas Escarlates, Patrulheiros Espirituais.",
-        "situation": "Assassinos vêm desovando os cadáveres de suas vítimas nos canais de Doskvol há muitos séculos. Os fantasmas vingativos que se levantam das águas são uma ameaça séria para a cidade – e os Gondoleiros lidam com ela desde tempos imemoriais. Antes mesmo da criação da Patrulha Espiritual, os Gondoleiros já protegiam a população de espíritos descontrolados e outras ameaças sobrenaturais – o que os rendeu o respeito e admiração da população. A maioria das pessoas os procuram para resolver “problemas estranhos”, ao invés de depender do julgamento inflexível e impiedoso dos Patrulheiros. Recentemente, vários vazios foram encontrados nos canais – seus corpos ritualmente desfigurados. Os Gondoleiros iniciaram uma investigação dedicada acerca desse assunto, enquanto a Patrulha Espiritual parece ignorá-la ativamente."   
+      "Gondoliers": {
+         "name": "Gondolieri",
+         "description": "Die Zunft der Kanalbootführer. Traditionell verehrt. Verfügen angeblich über okkulte Geheimnisse (vieles liegt versunken im Dosk).",
+         "type": "Arbeit & Handel",
+         "goal_1": "Den geschändeten Hohlen nachforschen",
+         "goal_2": "Seelenquellen zerstören (wiederkehrend)",
+         "turf": "Die Kanäle von Doskvol. Selbst die Kanalpatrouillen der Blauröcke zollen ihnen Respekt.",
+         "assets": "Flotte an Gondeln und anderen Wasserfahrzeugen. Karte der bekannten Seelenquellen und anderer arkaner Orte in der Stadt. Eine eingefleischte Schar von Eingeweihten.",
+         "quirks": "Aufnahme bei den Gondolieri verleiht die Flüsterer-Sonderfähigkeit Binden.",
+         "notables": "Eiselle (Anführerin, abgeklärt, kenntnisreich, furchtlos). Griggs (oberster Flüsterer, seltsam, rücksichtslos, heimgesucht).",
+         "allies": "Die Lampblacks, Bürgerschaft aller Bezirke.",
+         "enemies": "Die Rotschärpen, Seelenwächter.",
+         "situation": "Seit Jahrhunderten haben Mörder in den Kanälen von Doskvol Leichen verschwinden lassen. Die rachsüchtigen Geister dieser Opfer sind eine ernste Bedrohung, der sich die Gondolieri seit jeher gestellt haben. Bevor der Imperator die Seelenwächter gründete, haben die Gondolieri die Bürgerschaft vor widernatürlichen Gefahren aller Art beschützt. Und so gehen die meisten Bürger mit ihren „unheimlichen Problemen“ lieber zu ihnen, als sich auf das gnadenlose Urteil der Seelenwächter zu verlassen. Ein überraschender Fall von rituell geschändeten Hohlen, die in die Kanäle geworfen wurden, führt nun zu Nachforschungen der Gondolieri (die Seelenwächter ignorieren das Verbrechen demonstrativ)."
       },
-      "Imperial Military":{
-         "name":"Exército Imperial",
-         "description":"As forças armadas do Imperium lotadas em Doskvol. Possuem guarnições na Estação Ferroviária Gaddoc, no destroier naval Exemplar, e na fortaleza do Lorde Governador (somando cerca de 250 soldados).",
-        "type": "As Instituições"
+      "Imperial Military": {
+         "name": "Exército Imperial",
+         "description": "As forças armadas do Imperium lotadas em Doskvol. Possuem guarnições na Estação Ferroviária Gaddoc, no destroier naval Exemplar, e na fortaleza do Lorde Governador (somando cerca de 250 soldados).",
+         "type": "Obrigkeit"
       },
-      "Ink Rakes":{
-         "name":"Libertintos",
-         "description":"Os jornalistas, repórteres, críticos, polemizadores e editores dos jornais de Doskvol.",
-        "type": "Proletários/Comércio" 
+      "Ink Rakes": {
+         "name": "Libertintos",
+         "description": "Os jornalistas, repórteres, críticos, polemizadores e editores dos jornais de Doskvol.",
+         "type": "Arbeit & Handel"
       },
-      "Inspectors":{
-         "name":"Inspetores",
-         "description":"Os investigadores criminais da Guarda Municipal. Eles possuem uma reputação de ética e integridade, o que os torna amplamente detestados. Eles apresentam evidências para os casos levados aos juízes da cidade.",
-        "type": "As Instituições"
+      "Inspectors": {
+         "name": "Inspetores",
+         "description": "Os investigadores criminais da Guarda Municipal. Eles possuem uma reputação de ética e integridade, o que os torna amplamente detestados. Eles apresentam evidências para os casos levados aos juízes da cidade.",
+         "type": "Obrigkeit"
       },
-      "Ironhook Prison":{
-         "name":"Prisão Anzolférreo",
-         "description":"Esse é o lugar onde muitos vigaristas passam uma boa parte de suas vidas. Várias organizações criminosas são administradas diariamente por detentos atrás de suas grades.",
-        "type": "As Instituições" 
+      "Ironhook Prison": {
+         "name": "Prisão Anzolférreo",
+         "description": "Esse é o lugar onde muitos vigaristas passam uma boa parte de suas vidas. Várias organizações criminosas são administradas diariamente por detentos atrás de suas grades.",
+         "type": "Obrigkeit"
       },
-      "Leviathan Hunters":{
-         "name":"Caçadores de Leviatãs",
-         "description":"Capitães e tripulações suficientemente corajosos (ou tolos) para confrontar os demônios titânicos do Mar do Vácuo. Trazem de suas longas jornadas o sangue de leviatãs, posteriormente processado em electroplasma.",
-        "type": "As Instituições",
-        "goal_1": "Descobrir novos campos de caça",
-        "goal_2": "Acaba o sangue armazenado",
-        "turf": "As gigantescas docas de metal para os navios caçadores de leviatã e instalações para construção e reparos. Várias refinarias de sangue leviatã (pequenas e privadas) para o processamento das cotas pessoais dos capitães.",
-        "assets": "A frota de caçadores de leviatãs (cada navio é propriedade da casa nobre que o construiu e o comanda). Vários grupos de parceiros incluindo marinheiros experientes, técnicos faisqueiros, Sussurros demonologistas e navegadores tocados pelo Vácuo. Companhias de fuzileiros navais para proteger os navios e sua preciosa carga, tanto em mar quanto em terra.",
-        "notables": "- Lord Vaustranho (capitão, impiedoso, arrogante, maculado).\n- Senhora Clave (capitã, audaciosa, cruel, bem-sucedida).\n- Senhora Ankhayat (capitã iruviana, confiante, carismática, vigarista).",
-        "allies": "Conselho Municipal, A Igreja do Êxtase, Marujos, Estivadores, Faisqueiros",
-        "enemies": "Os Trituradores, Ministério da Preservação, Via dos Ecos.",
-        "situation": "Os capitães têm um terrível segredo: seus campos de caça estão se tornando inférteis. Os leviatãs, anteriormente tão previsíveis em seus movimentos, começaram a migrar para destinos desconhecidos. Os Caçadores precisam encontrar novos campos de caça antes que o suprimento de sangue leviatã armazenado acabe, levando consigo as barreiras relampejantes e a sobrevivência da raça humana."   
+      "Leviathan Hunters": {
+         "name": "Leviathanfänger",
+         "description": "Die waghalsigen Kapitäne und Besatzungen, die ausziehen, um mit den gigantischen Dämonen der Leeren See zu ringen, damit ihr Blut zu Elektroplasma verarbeitet werden kann.",
+         "type": "Obrigkeit",
+         "goal_1": "Neue Jagdgründe entdecken",
+         "goal_2": "Die Reserven versiegen",
+         "turf": "Die gewaltigen metallenen Docks für die riesigen Fängerschiffe und die zugehörigen Werften. Einige kleine private Leviathanblut-Raffinerien für die persönlichen Anteile der Kapitäne.",
+         "assets": "Die Leviathanfänger-Flotte (jedes Schiff wurde von einer Adelsfamilie, gebaut, die es besitzt und führt). Scharen ausgezeichneter Seeleute sowie Blitzwerk-Techniker, auf Dämonologie spezialisierte Flüsterer und von der Leeren See gezeichnete Navigatoren. Trupps von Marinesoldaten, die die Schiffe und ihre wertvolle Fracht auf See und im Hafen verteidigen.",
+         "notables": "Lord Strangford (Kapitän, rücksichtslos, arrogant, verseucht). Lady Clave (Kapitänin, waghalsig, grausam, versiert). Lady Ankhayat (iruvische Kapitänin, selbstsicher, charmant, Schurkin).",
+         "allies": "Stadtrat, Die Kirche der fleischlichen Verzückung, Seeleute, Hafenarbeiter, Funkenmacher.",
+         "enemies": "Die Grinders, Ministerium für Verpflegung, Der Weg des Widerhalls",
+         "situation": "Die Käpitäne wahren ein schreckliches Geheimnis: Die bekannten Jagdgründe für Leviathane sind bald leergefischt. Die unsterblichen Wesen, deren Wanderungen einst so zuverlässig waren, sind fortgezogen. Nun müssen neue Jagdgründe gefunden werden, bevor die Bluteserven aufgebraucht sind – der Betrieb der Blitzwälle und das Überleben der menschlichen Spezies hängt davon ab."
       },
-      "Lord Scurlock":{
-         "name":"Lorde Scurlock",
-         "description":"Um nobre antiquíssimo, que alguns afirmam ser imortal como o Imperador. Outros sugerem que seria um vampiro. Obcecado por segredos arcanos.",
-        "type": "O Submundo",
-        "goal_1": "Pagar a dívida com Setarra",
-        "goal_2": "Adquirir segredos arcanos (repete-se)",
-        "turf": "Um covil secreto fora da cidade. Uma mansão arruinada nas Seis Torres e as catacumbas em seu subterrâneo. Várias propriedades comerciais e santuários de culto pela cidade, arranjadas segundo um propósito conhecido somente por ele.",
-        "assets": "Uma coleção assombrosa de livros, raridades e quinquilharias arcanas. Um templo demoníaco ancestral.",
-        "quirks": "Scurlock é imune a espíritos – fantasmas não podem vê-lo, ouvi-lo ou prejudicá-lo. Ele se move sem emitir nenhum som e às vezes é difícil encará-lo diretamente.",
-        "notables": "Lord Scurlock (enigmático, frio, arcano, antiquado) é um individúo tão poderoso que deve ser considerado uma facção. A sua escala pessoal é Categoria III – ele conta como uma gangue grande (20 pessoas) em qualquer confronto.",
-        "allies": "Conselho Municipal, Casacas Azuis, Inspetores, Os Deuses Esquecidos.",
-        "enemies": "Patrulheiros Espirituais, O Imperador Imortal.",
-        "situation": "Lorde Scurlock e a demônia Setarra são vinculados por um tipo de magia antiquíssima. Quem é mestre e quem é servo? Esses papéis mudaram várias vezes com o passar dos séculos. Agora Lorde Scurlock tem uma grande dívida a pagar. Setarra encontrou um ninho de demônios do mar no cais, todos envoltos em rocha e magicamente aprisionados pela mágica do cataclisma. Ela quer desprendê-los de sua prisão e libertar a sua fúria no mundo dos humanos. Scurlock deve ajudá-la nessa empreitada, ou sofrerá um destino pior que a morte."   
+      "Lord Scurlock": {
+         "name": "Lord Scurlock",
+         "description": "Ein uralter Adliger, dem nachgesagt wird, wie der Imperator unsterblich zu sein. Möglicherweise ein Vampir. Versessen auf arkane Geheimnisse.",
+         "type": "Unterschicht",
+         "goal_1": "Schuld gegenüber Setarra erfüllen",
+         "goal_2": "Arkane Geheimnisse erlangen (wiederkehrend)",
+         "turf": "Ein geheimes Versteck außerhalb der Stadt. Ein verfallenes Herrenhaus in Six Towers und die Katakomben darunter. Eine Reihe an Unternehmen und Schreinen in der ganzen Stadt, deren höheres Ziel nur Scurlock selbst kennt.",
+         "assets": "Eine beeindruckende Sammlung okkulter und arkaner Kuriositäten, Bücher und Sammlerstücke. Ein alter dämonischer Tempel.",
+         "quirks": "Scurlock ist immun gegen Geister, sie können ihn weder sehen, hören noch verletzen. Er bewegt sich geräuschlos und es ist manchmal schwierig, ihn direkt anzusehen.",
+         "notables": "Lord Scurlock (enigmatisch, kalt, undurchsichtig, altmodisch) ist zwar eine Einzelperson, aber so mächtig, dass er als Fraktion gilt. Er allein hat deshalb Stufe III inne und gilt in Konflikten als große Bande (20 Personen).",
+         "allies": "Stadtrat, Blauröcke, Inspektoren, Die Vergessenen Gottheiten.",
+         "enemies": "Seelenwächter, Der Unsterbliche Imperator",
+         "situation": "Lord Scurlock ist durch uralte Magie an die Dämonin Setarra gebunden. Wer dabei Herr und wer Diener, hat sich über die Jahrhunderte viele Male geändert. Jetzt muss Lord Scurlock eine Schuld begleichen. Setarra hat im Hafen ein Nest von Meeresdämonen entdeckt, seit dem Kataklysmus eingeschlossen in Stein. Die Dämonin versucht, sie daraus zu befreien und ihre blinde Wut auf die Welt der Menschen loszulassen. Scurlock muss ihr dabei helfen, falls er kein düsteres Schicksal erleiden will."
       },
-      "Ministry of Preservation":{
-         "name":"Ministério da Preservação",
-         "description":"O órgão governamental do Imperium que supervisiona todo o transporte entre as cidades e a distribuição de alimentos e outros recursos vitais.",
-        "type": "As Instituições",
-        "goal_1": "Estabelecer controle sobre os Caçadores de Leviatãs",
-        "turf": "As linhas electro-ferroviárias do Imperium. Fazendas de energia radiante, enguiarias e outros empreendimentos de produção alimentícia.",
-        "assets": "Uma frota de navios de carga e navios de escolta armada. Um tesouro considerável fruto de impostos e licenças de transporte. Os Peões dos Trilhos que trabalham nas linhas ferroviárias. Uma companhia mercenária privada que responde somente ao próprio ministério.",
-        "quirks": "",
-        "notables": "- Lord Dalmore (oficial executivo em Doskvol, dominante, inteligente).\n- Dama Slane (chefe de operações, perspicaz, sutil, efetiva).\n- Capitão Lannock (comandante dos mercenários, astuto, impiedoso).",
-        "allies": "Os Cutelos, Exército Imperial, Peões dos Trilhos, Faisqueiros.",
-        "enemies": "Caçadores de Leviatãs.",
-        "situation": "A liderança do Ministério acredita que os Caçadoras de Leviatãs são importantes demais ao funcionamento do Imperium para serem controlados pelas briguentas casas nobres. Vários agentes do Ministério foram encarregados de missões de espionagem, sabotagem e manobras políticas – todas contribuindo com um único objetivo final: o controle ministerial dos caçadores."   
+      "Ministry of Preservation": {
+         "name": "Ministerium für Verpflegung",
+         "description": "Beaufsichtigt den Transport zwischen den Städten sowie die Verteilung von Nahrung und anderen wichtigen Ressourcen.",
+         "type": "Obrigkeit",
+         "goal_1": "Die Leviathanfänger unter ihre Kontrolle bringen",
+         "turf": "Das Elektroschienennetz des Imperiums. Strahlende Höfe, Aalzuchten und andere Landwirtschaftsbetriebe überall in der Stadt.",
+         "assets": "Eine Flotte Frachtschiffe mitsamt bewaffneten Eskorten. Eine bedeutende Schatzkammer, die sich aus Steuergeldern und Transport-Lizenzen speist. Die Schienentreiber, die die Zugverbindungen begleiten. Ein privater Söldnertrupp, der einzig dem Ministerium verpflichtet ist.",
+         "quirks": "",
+         "notables": "Lord Dalmore (ranghöchster Ministerialbeamter in Doskvol, bestimmend, intelligent). Lady Slane (operative Leiterin, wissend, raffiniert, effektiv). Kapitän Lannock (Söldnerkommandant, durchtrieben, rücksichtslos).",
+         "allies": "Die Billhooks, Imperiales Militär, Schienentreiber, Funkenmacher.",
+         "enemies": "Leviathanfänger.",
+         "situation": "Die Führung des Ministeriums ist der Meinung, dass der Leviathanfang zu wichtig für die öffentliche Wohlfahrt sei, als dass man ihn zänkischen Adelsfamilien und ihren kleinlichen Rivalitäten und Fehden überlassen dürfe. Agenten des Ministeriums wurden mit Spionage- und Sabotagemissionen sowie politischem Vorgehen beauftragt, um die Fänger langfristig unter die Kontrolle des Ministeriums zu bringen."
       },
-      "Rail Jacks":{
-         "name":"Os Peões dos Trilhos",
-         "description":"Homens e mulheres que protegem os electro-trens do Imperium dos espíritos selvagens das terras mortais. Recentemente estão discutindo a formação de um sindicato.",
-        "type": "Proletários/Comércio"
+      "Rail Jacks": {
+         "name": "Os Peões dos Trilhos",
+         "description": "Homens e mulheres que protegem os electro-trens do Imperium dos espíritos selvagens das terras mortais. Recentemente estão discutindo a formação de um sindicato.",
+         "type": "Arbeit & Handel"
       },
-      "Sailors":{
-         "name":"Marujos",
-         "description":"Os capitães e tripulações de navios comerciais e da Marinha Imperial.",
-        "type": "Proletários/Comércio"
+      "Sailors": {
+         "name": "Marujos",
+         "description": "Os capitães e tripulações de navios comerciais e da Marinha Imperial.",
+         "type": "Arbeit & Handel"
       },
-      "Skovlander Refugees":{
-         "name":"Refugiados Skovlandeses",
-         "description":"Sobreviventes desesperados da Guerra da União, forçados a cometer crimes na falta de outras oportunidades.",
-        "type": "A Periferia"   
+      "Skovlander Refugees": {
+         "name": "Refugiados Skovlandeses",
+         "description": "Sobreviventes desesperados da Guerra da União, forçados a cometer crimes na falta de outras oportunidades.",
+         "type": "Anderweltliches"
       },
-      "Sparkwrights":{
-         "name":"Faisqueiros",
-         "description":"Os engenheiros que fazem a manutenção das barreiras relampejantes. Também inventam novas tecnologias, desenvolvendo pesquisas perigosas no processo.",
-        "type": "As Instituições",
-        "goal_1": "Desenvolver combustível alternativo",
-        "turf": "Enorme oficina, fábrica e laboratório de criação no Morro do Carvão.",
-        "assets": "Os geradores electroplasmáticos, luzes da cidade, barreiras relampejantes e suas instalações e sistemas associados espalhados pela cidade.",
-        "notables": "Una Farros (instrutora na Universidade da Câmara Oficial, curiosa, vaidosa, famosa).",
-        "allies": "Conselho Municipal, Caçadores de Leviatãs, Ministério da Preservação.",
-        "enemies": "Via dos Ecos, Os Reconciliados, A Fundação.",
-        "situation": "Os Faisqueiros vêm dedicando os últimos séculos a uma pesquisa secreta: o desenvolvimento de algum combustível alternativo para substituir o sangue leviatã usado nas barreiras relampejantes do Imperium. Alguns pesquisadores mais bemsucedidos foram vítimas de “acidentes” que clamaram tanto suas vidas quanto suas pesquisas. Suspeitas naturalmente recaem sobre a nobreza, que governa por causa do seu controle da caça de leviatãs – infelizmente até hoje nada foi provado. Mas sempre existem novos visionários dispostos a juntar as peças e reconstruir a obra, mesmo pondo em risco a sua própria vida. Será que algum deles finalmente terá sucesso? Ou cairão, como muitos, vítimas da elite controladora?"   
+      "Sparkwrights": {
+         "name": "Funkenmacher",
+         "description": "Die Ingenieure, die den Blitzwall warten. Als Pioniere neuer Technik oft mit Begeisterung in gefährliche Forschung verwickelt.",
+         "type": "Obrigkeit",
+         "goal_1": "Alternativen Treibstoff entwickeln",
+         "turf": "Eine riesige Anlage in Coalridge mit Werkstätten, einer Fabrik und Planungsbüros.",
+         "assets": "Die elektroplasmatischen Generatoren, die Straßenbeleuchtung, der Blitzwall und dazugehörige Einrichtungen und Systeme in der ganzen Stadt.",
+         "notables": "Una Farros (Lehrende an der Charterhall-Universität, neugierig, eitel, berühmt).",
+         "allies": "Stadtrat, Leviathanfänger, Das Ministerium für Verpflegung.",
+         "enemies": "Der Weg des Widerhalls, Die Ausgesöhnten, Das Fundament.",
+         "situation": "Die Funkenmacher arbeiten im Geheimen seit Jahrhunderten an einem alternativen Treibstoff, der Leviathanblut als Energiequelle für die Blitzwälle des Imperiums ersetzen könnte. Einige Forscher standen kurz vor dem Durchbruch, kamen aber jedes Mal bei „Unfällen“ ums Leben, bei denen auch ihre gesamte Arbeit zerstört wurde (sicherlich arrangiert vom Adel, dessen gesamte Herrschaft auf dem Monopol für Leviathanfang beruht). Trotzdem gibt es immer einzelne waghalsige Visionäre, die bereit sind, die Bruchstücke wieder zusammenzuführen und die Arbeit zu vollenden, selbst wenn sie damit ihr eigenes Leben riskieren. Wird jemand von ihnen es diesmal schaffen oder werden auch sie Opfer der tödlichen Agenten der Mächtigen?"
       },
-      "Spirit Wardens":{
-         "name":"Patrulheiros Espirituais",
-         "description":"Os caçadores com máscaras de bronze que destroem espíritos descontrolados. Também administram o Crematório da Anunciação e pesquisam artefatos coletados das terras mortais. Suas identidades são secretas.",
-        "type": "As Instituições",
-        "goal_1": "Descobrir os infiltradores",
-        "turf": "Crematório da Anunciação. A propriedade do Patrulheiro-Mestre em Coroa-Alva.",
-        "assets": "Os sinos funestos que soam quando ocorre alguma morte na cidade, e os corvos busca-morte que procuram o cadáver (ancestrais, arcanos). Vários parceiros Sussurros experientes. Os equipamentos de faiscaria e espectrologia mais avançados, incluindo cascos caça-fantasmas.",
-        "quirks": "A associação dos Patrulheiros é completamente secreta e anônima. Os Patrulheiros cortam todos os laços sociais e não possuem nenhuma família, ou relacionamentos íntimos, fora da Patrulha.",
-        "notables": "As identidades dos Patrulheiros Espirituais são desconhecidas – os seus membros não são nativos de Doskvol e se identificam apenas por codinomes. Um Patrulheiro conhecido como “Bakoros” (possivelmente uma identidade usada por várias pessoas) oferece palestras ocasionais no Colégio de Estudos Imortais da Academia Doskvol.",
-        "allies": "A Igreja do Êxtase, Legião da Morte.",
-        "enemies": "As Irmãs Funestas, Gondoleiros, Lorde Scurlock, Os Cravos de Prata, Os Velados, Via dos Ecos, Os Reconciliados.",
-        "situation": "Os Patrulheiros Espirituais sabem que alguém está tentando infiltrar-se em sua organização, mas ainda não descobriram quem (os Velados). A Patrulha está armando uma armadilha para esse inimigo, na esperança de revelar a sua identidade para então eliminá-lo completamente."   
+      "Spirit Wardens": {
+         "name": "Seelenwächter",
+         "description": "Die maskierten Jäger, die herumirrende Geister zerstören. Sie betreiben auch das Krematorium, wo sie Leichname ordentlich entsorgen.",
+         "type": "Obrigkeit",
+         "goal_1": "Den Spion entlarven",
+         "turf": "Das Bellweather-Krematorium. Das Anwesen des Obersten Wächters in Whitecrown.",
+         "assets": "Die Seelenglocken, die läuten, wann immer jemand in der Stadt stirbt, und die Todsucher-Krähen, die losfliegen und den Körper finden (alt, arkan). Scharen von ausgezeichneten Flüsterern. Fortschrittlichste spektrologische und Blitzwerk-Ausrüstung, darunter einige Geisterjäger-Gehäuse.",
+         "quirks": "Die Mitgliedschaft bei den Wächtern ist geheim und anonym. Wächter brechen alle Kontakte ab und haben deshalb keine Familien oder Beziehungen, außer zu anderen Seelenwächtern.",
+         "notables": "Es gibt keine bekannten Seelenwächter, alle Mitglieder stammen ursprünglich nicht aus Duskwall und bleiben anonym, einzig durch Codenamen bezeichnet. Eine Person namens „Bakoros“ (hinter der möglicherweise auch mehrere Personen stecken) lehrt manchmal an der Fakultät für Unsterblichkeitsstudien der Akademie zu Doskvol.",
+         "allies": "Die Kirche der fleischlichen Verzückung, Siechland-Plünderer.",
+         "enemies": "Die Fahlen Schwestern, Gondolieri, Lord Scurlock, Die Silbernägel, Die Unsichtbaren, Der Weg des Widerhalls, Die Ausgesöhnten.",
+         "situation": "Die Seelenwächter wissen, dass ein Feind versucht, ihre Reihen zu unterwandern (aber sie wissen noch nicht, dass es die Unsichtbaren sind). Sie stellen diesem Feind nun eine Falle, um die Identität des Spions festzustellen – und um ihn auszuschalten."
       },
-      "The Billhooks":{
-         "name":"Os Cutelos",
-         "description":"Uma implacável gangue de brutamontes carregando cutelos e ganchos de carne.",
-        "type": "O Submundo",
-        "goal_1": "Intimidar juízes para libertar membros da prisão",
-        "turf": "Um açougue (covil), curral e abatedouro. Arenas de rinha de animais e casas de jogo. Rede de extorsão contendo vários comerciantes intimidados e negócios locais.",
-        "assets": "Uma grande gangue de açougueiros sanguinários. Uma matilha de cães-da-morte.",
-        "quirks": "Os Cutelos possuem uma reputação sanguinolenta e geralmente deixam os corpos esquartejados de suas vítimas à mostra. Muitos se perguntam por que os Casacas Azuis ignoram toda essa selvageria.",
-        "notables": "- Tarvul (líder, servindo sentença perpétua na prisão, violento, arrogante, homem de família).\n- Erin (capitã, irmã de Tarvul, confiante, mortal, ambiciosa).\n- Coran (brutamontes, filho de Tarvul, feroz, leal, quieto).",
-        "allies": "Casacas Azuis, Ministério da Preservação.",
-        "enemies": "Ulf Filho do Ferro, Almas Perdidas, Cidadãos do Pé-de-Corvo e das Docas.",
-        "situation": "Erin e Coran querem tomar o controle dos Cutelos, seja quando Tarvul ficar velho demais para a função (o que vai acontecer logo) ou pela força bruta. Os dois não se dão bem e não hesitarão em lutar um contra o outro pela liderança da facção. Enquanto isso, o resto da gangue só quer continuar o seu reino de terror, pressionando juízes pela libertação de Tarvul e outros Cutelos da Anzolférreo."   
+      "The Billhooks": {
+         "name": "Die Billhooks",
+         "description": "Eine knallharte Schlägertruppe mit Beilen, Fleischerhaken und Stangenwaffen.",
+         "type": "Unterschicht",
+         "goal_1": "Magistrate terrorisieren, damit inhaftierte Mitglieder begnadigt werden",
+         "turf": "Ein Fleischerladen (Hauptquartier), ein Viehhof und ein Schlachthaus. Tierkampfarenen und Spielhallen. Mehrere Geschäfte und eingeschüchterte Händler, die Schutzgeld zahlen.",
+         "assets": "Eine große Bande blutrünstiger Fleischer. Ein Rudel Kampfhunde.",
+         "quirks": "Die Billhooks pflegen ihren blutigen Ruf, indem sie die verunstalteten Leichenteile ihrer Opfer grausig zur Schau gestellt zurücklassen. Viele fragen sich, warum die Blauröcke vor diesen bestialischen Schauspielen die Augen verschließen.",
+         "notables": "Tarvul (Oberhaupt, lebenslang im Gefängnis, brutal, arrogant, familiär). Erin (Anführerin, Tarvuls Schwester, selbstsicher, tödlich, ehrgeizig). Coran (Schläger, Tarvuls Sohn, kämpferisch, loyal, ruhig).",
+         "allies": "Blauröcke, Das Ministerium für Verpflegung.",
+         "enemies": "Ulf Eisenbart, Die Verlorenen, Bürgerschaften von Crow’s Foot und den Docks.",
+         "situation": "Erin und Coran wollen beide die Führung über die Billhooks an sich reißen, entweder wenn Tarvul zu alt dafür wird (und das ist bald) oder mit Gewalt. Beide haben nichts füreinander übrig und keinerlei Scheu vor einer Familienfehde, um die Kontrolle zu erlangen. Unterdessen ist der Rest der Gang damit beschäftigt, ihr Terrorregime aufrechtzuerhalten und das Gericht so unter zu Druck setzen, dass Tarvul und andere Mitglieder aus Ironhook entlassen werden."
       },
-      "The Brigade":{
-         "name":"A Brigada",
-         "description":"Os bombeiros da cidade, adorados pelo seu heroísmo salvando vidas e odiados pelos seus esquemas de proteção e pilhagem. Popularmente conhecidos como “Salaminhos” (uma corruptela de seu nome ancestral, “Salamandras”).",
-        "type": "As Instituições" 
+      "The Brigade": {
+         "name": "A Brigada",
+         "description": "Os bombeiros da cidade, adorados pelo seu heroísmo salvando vidas e odiados pelos seus esquemas de proteção e pilhagem. Popularmente conhecidos como “Salaminhos” (uma corruptela de seu nome ancestral, “Salamandras”).",
+         "type": "Obrigkeit"
       },
-      "The Church of Ecstasy":{
-         "name":"A Igreja do êxtase da Carne",
-         "description":"A “religião estatal”, se é que se pode dizer isso. Eles honram a vida do corpo e abominam o corrupto mundo espiritual. Funcionam essencialmente como uma sociedade secreta.",
-        "type": "A Periferia",
-        "goal_1": "Descobrir o segredo da ascensão",
-        "goal_2": "Eliminar os Reconciliados",
-        "turf": "A grande catedral Sanctorium em Diamantina. Vários templos menores pela cidade.",
-        "assets": "Um enorme tesouro formado pelo dízimo dos devotos. Vastas bibliotecas, laboratórios, artefatos arcanos e ocultistas. Vários parceiros adeptos e vazios que executam as ordens da liderança da Igreja.",
-        "quirks": "Crentes se voluntariam para a “purificação”, um ritual que os torna vazios. Isso era uma prática comum no antigo culto do Receptáculo Vazio, que precedeu a Igreja.",
-        "notables": "- Ancião Rowan (líder, devoto, determinado, visionário).\n- Preceptor Dunvil (pesquisador arcano, não-convencional, obsessivo, enigmático).",
-        "allies": "Conselho Municipal, Caçadores de Leviatãs, Patrulheiros Espirituais.",
-        "enemies": "A Via dos Ecos, Os Reconciliados.",
-        "situation": "De acordo com os ensinamentos secretos da Igreja, os seres mais puros são aqueles que não possuem nenhuma forma de espírito: os demônios. Apesar de sua imortalidade, demônios nunca sucumbem à insanidade ou fome desenfreada como os fantasmas e vampiros. Eles são a verdadeira perfeição. Os mais devotos da Igreja procuram tornar-se como eles, descobrindo o segredo da ascensão. Para isso, conduzem experimentos e rituais terríveis com cascos, vazios, vampiros e até raros demônios nas masmorras labirínticas abaixo da catedral em Diamantina."   
+      "The Church of Ecstasy": {
+         "name": "Die Kirche der Verzückung",
+         "description": "Die „Staatsreligion“ huldigt dem körperlichen Leben und verabscheut die korrumpierte Seelenwelt. Im Grunde eine Geheimgesellschaft.",
+         "type": "Anderweltliches",
+         "goal_1": "Das Geheimnis des Aufstiegs wird entschlüsselt",
+         "goal_2": "Die Ausgesöhnten beseitigen",
+         "turf": "Das Sanktorium, die Kathedrale in Brightstone. Viele andere kleinere Tempel in der Stadt.",
+         "assets": "Eine große, mit den Zehntabgaben der Bürger angefüllte Schatzkammer.Umfangreiche arkane und okkulte Bibliotheken, Werkstätten und Artefakte. Scharen von Altardienern und Hohlen, die den Willen der Kirchenführung durchsetzen.",
+         "quirks": "Übereifrige Gläubige melden sich freiwillig, „gereinigt“ und zu Hohlen zu werden. Das war einst gängig im alten Kult des Leeren Gefäßes, aus dem die Kirche hervorgegangen ist.",
+         "notables": "Rowan, der Älteste (Anführer, fromm, entschlossen, visionär). Präzeptor Dunvil (Forscher für das Arkane, unkonventionell, obsessiv, enigmatisch).",
+         "allies": "Stadtrat, Leviathanfänger, Seelenwächter.",
+         "enemies": "Der Weg des Widerhalls, Die Ausgesöhnten.",
+         "situation": "Die reinsten Wesen (nach der geheimen Lehre der Kirche) sind jene ganz ohne Seelen: die Dämonen. Dämonen sind unsterblich, verfallen aber nie dem Wahnsinn oder der Lust des Hungers, wie das herumirrende Geister und Vampire tun. Sie sind perfekt – und die Frommsten der Kirche streben danach, das Geheimnis des Aufstiegs zu entschlüsseln und wie sie zu werden. Viele düstere Experimente und Rituale mit Gehäusen, Hohlen, Vampiren – und hin und wieder einem Dämonen – werden dazu in den labyrinthartigen Kellern unter der zentralen Kathedrale in Brightstone durchgeführt."
       },
-      "The Circle of Flame":{
-         "name":"O Círculo das Chamas",
-         "description":"Uma sociedade secreta de antiquários e estudiosos que serve de fachada para extorsão, suborno, vícios e assassinato.",
-        "type": "O Submundo",
-        "goal_1": "Adquirir todos os artefatos ancestrais de Kotar",
-        "turf": "O clube Centurália nas Seis Torres (covil).",
-        "assets": "Vasto tesouro fornecido pelos membros. Coleção impressionante de artefatos, mapas e objetos efêmeros ancestrais. Força de segurança altamente treinada e discreta.",
-        "quirks": "Um dos Sete é, secretamente, um demônio disfarçado.",
-        "notables": "- Os Sete (liderança): Elstera Avrathi (diplomata iruviana, sigilosa, cortês),\n- Lady Drake (juíza, astuta, impiedosa),\n- Rafaello (pintor, visionário, obsessivo),\n- Lorde Mora (nobre, frio, desconfiado),\n- Senhora Penderyn (nobre, carismática, paciente),\n- Madame Tesslyn (fornecedora de vício, sofisticada, sutil),\n- Harvale Brogan (fornecedor de vício, astuto, quieto).",         "allies": "Os Deuses Esquecidos, A Via dos Ecos, O Conselho Municipal, A Fundação",
-        "enemies": "A Colmeia, Os Cravos de Prata",
-        "situation": "O Círculo mantém um catálogo de artefatos arcanos e tesouros valiosos desaparecidos com o abandono do Bairro Perdido. Eles estão particularmente interessados nos restos mortais de Kotar, um lendário feiticeiro, demônio ou herói supostamente mumificado antes do cataclisma. Seus escritos sugerem que o Olho, Mão e Coração de Kotar concedem vastos poderes para aqueles corajosos o suficiente para usá-los."   
+      "The Circle of Flame": {
+         "name": "O Círculo das Chamas",
+         "description": "Uma sociedade secreta de antiquários e estudiosos que serve de fachada para extorsão, suborno, vícios e assassinato.",
+         "type": "Unterschicht",
+         "goal_1": "Adquirir todos os artefatos ancestrais de Kotar",
+         "turf": "O clube Centurália nas Seis Torres (covil).",
+         "assets": "Vasto tesouro fornecido pelos membros. Coleção impressionante de artefatos, mapas e objetos efêmeros ancestrais. Força de segurança altamente treinada e discreta.",
+         "quirks": "Um dos Sete é, secretamente, um demônio disfarçado.",
+         "notables": "- Os Sete (liderança): Elstera Avrathi (diplomata iruviana, sigilosa, cortês),\n- Lady Drake (juíza, astuta, impiedosa),\n- Rafaello (pintor, visionário, obsessivo),\n- Lorde Mora (nobre, frio, desconfiado),\n- Senhora Penderyn (nobre, carismática, paciente),\n- Madame Tesslyn (fornecedora de vício, sofisticada, sutil),\n- Harvale Brogan (fornecedor de vício, astuto, quieto).",
+         "allies": "Os Deuses Esquecidos, A Via dos Ecos, O Conselho Municipal, A Fundação",
+         "enemies": "A Colmeia, Os Cravos de Prata",
+         "situation": "O Círculo mantém um catálogo de artefatos arcanos e tesouros valiosos desaparecidos com o abandono do Bairro Perdido. Eles estão particularmente interessados nos restos mortais de Kotar, um lendário feiticeiro, demônio ou herói supostamente mumificado antes do cataclisma. Seus escritos sugerem que o Olho, Mão e Coração de Kotar concedem vastos poderes para aqueles corajosos o suficiente para usá-los."
       },
-      "The Crows":{
-         "name":"Os Corvos",
-         "description":"Uma gangue antiga sob nova liderança. Conhecida por seus jogos de azar e esquemas de extorsão.",
-        "type": "O Submundo",
-        "goal_1": "Reestabelecer o controle do Pé-de-Corvo",
-        "goal_2": "Subir de Categoria",
-        "turf": "Reivindica todo o Pé-de-Corvo como território. Todos os vigaristas do bairro pagam “impostos” para seus superiores que repassam aos seus próprios superiores, até chegar aos Corvos. Administram casas de jogo em Pé-de-Corvo e esquemas de extorsão nas Docas.",
-        "assets": "Uma experiente gangue de bandidos e matadores. Vários barcos pequenos. Um covil fortificado.",
-        "quirks": "O cadáver de Roric caiu em um canal após seu assassinato e foi perdido. O seu fantasma vingativo está à solta pela cidade.",
-        "notables": "- Lyssa (líder, ousada, matadora, família nobre).\n- Bell (braço-direito, leal).",
-        "allies": "Os Casacas Azuis, Marujos, Almas Perdidas, Cidadãos do Pé-de-Corvo",
-        "enemies": "A Colmeia, Inspetores, Estivadores.",
-        "situation": "Lyssa possui uma reputação bem-estabelecida como uma assassina fria e aterrorizante, solidificada com o seu assassinato recente de Roric, o chefe anterior dos Corvos. Apesar de poucos terem coragem de confrontá-la, a sua posição como líder dos Corvos ainda é um tanto incerta – muitos membros da gangue eram extremamente leais a Roric. Enquanto os jogos de poder internos continuam, o controle dos Corvos sobre o bairro desliza cada vez mais."   
+      "The Crows": {
+         "name": "Die Crows",
+         "description": "Eine alte Gang unter neuer Führung. Bekannt dafür, illegales Glücksspiel zu betreiben und Schutzgeld zu erpressen.",
+         "type": "Unterschicht",
+         "goal_1": "Die Kontrolle über Crow’s Foot zurückerlangen",
+         "goal_2": "Eine Stufe aufsteigen",
+         "turf": "Sie beanspruchen ganz Crow’s Foot als Revier und stehen an der Spitze der Hackordnung im Bezirk. Ihr Hauptquartier liegt in einem verlassenen Turm der Stadtwache. Sie betreiben Spielhallen in Crow’s Foot und erpressen Schutzgeld an den Docks.",
+         "assets": "Eine erfahrene Bande von Schlägern und Mördern. Einige kleine Boote. Ein befestigtes Hauptquartier.",
+         "quirks": "Rorics Leichnam verschwand nach dem Mord an ihm (er fiel in einen Kanal). Nun sucht sein rachsüchtiger Geist die Stadt heim.",
+         "notables": "Lyssa (Anführerin, ungestüm, mörderisch, adlige Familie). Bell (Stellvertreterin, loyal).",
+         "allies": "Blauröcke, Seeleute, Die Verlorenen, Bürgerschaft von Crow’s Foot.",
+         "enemies": "Der Stock, Inspektoren, Hafenarbeiter.",
+         "situation": "Lyssa ermordete den früheren Boss der Crows, Roric. Sie ist eine gefürchtete Killerin und die wenigsten wollen ihr in die Quere kommen. Jedoch ist ihre Stellung als Anführerin der Crows unsicher, da einige von ihnen Roric gegenüber sehr loyal waren. Solange dieser Machtkampf anhält, könnten die Crows den Bezirk aus dem Griff verlieren."
       },
-      "The Dimmer Sisters":{
-         "name":"As Irmãs Funestas",
-         "description":"Reclusas residentes em uma mansão que possuem uma reputação ocultista.",
-        "type": "O Submundo",
-        "goal_1": "Dominar o comércio de espíritos",
-        "goal_2": "Adquirir segredos arcanos (repete-se)",
-        "turf": "Uma magnífica e antiquada mansão com um bom terreno ao redor (covil), assim como as ruínas inferiores de um templo antigo e um canal subterrâneo logo abaixo da casa. Boticários e bruxas a seu serviço.",
-        "assets": "Seu próprio gerador privado de electroplasma, barreiras relampejantes e inúmeras jarras, invólucros e outros recipientes de contenção de espíritos. Muitos espíritos vinculados a serviço da casa.",
-        "quirks": "O número exato de Irmãs é desconhecido. Alguns dizem que elas são uma família de espíritos possuidores, enquanto outros afirmam serem vampiras. O que todos concordam, porém, é que quem entra na casa delas nunca mais sai.",
-        "notables": "Não existe uma única liderança entre as Irmãs; mesmo os seus nomes verdadeiros são desconhecidos.\n- Roslyn (serva, paciente, leal, arcana) lida com contatos fora da casa.\n- Irelen (inventora faisqueira, leal, enigmática, obsessiva).",
-        "allies": "Os Deuses Esquecidos, a Fundação.",
-        "enemies": "Patrulheiros Espirituais, Os Reconciliados.",
-        "situation": "As Irmãs passaram as últimas décadas calmamente consolidando o comércio de espíritos capturados e essências espirituais em Doskvol. Hoje restam apenas alguns rivais entre elas e seu completo monopólio do mercado. Será que existe algum outro motivo por trás dessa aquisição de espíritos e essências? Ou será essa apenas uma questão de riqueza e poder?"   
+      "The Dimmer Sisters": {
+         "name": "Die fahlen Schwestern",
+         "description": "Einsiedlerinnen mit okkultem Ruf, die nie das Haus verlassen.",
+         "type": "Unterschicht",
+         "goal_1": "Den Seelenhandel beherrschen",
+         "goal_2": "Arkane Geheimnisse erlangen (wiederkehrend)",
+         "turf": "Ein schönes altes Herrenhaus samt Gelände (Hauptquartier) sowie die alten Tempelruinen und der unterirdische Kanal darunter. Apotheker und Hexen in ihrem Dienst.",
+         "assets": "Ein privater Elektroplasma-Generator, ein Blitzwall und Geisterbehältnisse. Viele Geister, die in ihrer Knechtschaft stehen.",
+         "quirks": "Die genaue Anzahl an Schwestern ist nicht bekannt. Manche erzählen sich, sie seien eine alte Familie von Geistern, die von Menschen Besitz ergreifen würden. Andere sagen, sie seien Vampire. Eins jedoch ist allgemein bekannt: Wer in dieses Haus geht, kommt nicht wieder raus.",
+         "notables": "Die Schwestern haben keine Anführerin, ihre wahren Namen sind nicht bekannt. Roslyn (Dienerin, geduldig, loyal, undurchsichtig) kümmert sich um die Kontakte außerhalb des Hauses. Irelen (Blitzwerk-Tüftlerin, loyal, enigmatisch, obsessiv).",
+         "allies": "Die Vergessenen Gottheiten, Das Fundament.",
+         "enemies": "Seelenwächter, Die Ausgesöhnten.",
+         "situation": "Die Schwestern arbeiten seit Jahrzehnten langsam und geheim an einem Monopol auf den Handel mit gefangenen Geistern und Seelenessenzen in Doskvol. Nur mehr ein paar wenige Konkurrenten stehen zwischen ihnen und der totalen Kontrolle dieses Marktes. Haben sie einen Hintergedanken dabei, so viele Geister und Essenzen aufzukaufen, oder geht es ihnen nur um Reichtum und Macht?"
       },
-      "The Fog Hounds":{
-         "name":"Mastins da Névoa",
-         "description":"Um bando de contrabandistas barra-pesada à procura de um patrono.",
-        "type": "O Submundo",
-        "goal_1": "Eliminar contrabandistas rivais",
-        "goal_2": "Conquistar um cliente regular",
-        "turf": "Doca em um canal subterrâneo (covil). Rotas em canais no Norte e Leste da cidade. Rotas no Norte do Mar do Vácuo. Depósitos secretos de suprimentos no Porto Velho.",
-        "assets": "Navio a vapor médio, Mastim da Névoa. Uma tripulação de marujos calejados e durões, com vasta experiência em transporte de carga no Mar do Vácuo – todos desempregados por causa das novas linhas ferroviárias. Um grande conjunto de documentos (legítimos e falsificados) de transporte de carga, incluindo carga e pessoal Imperiais.",
-        "quirks": "Vale e sua tripulação são veteranos de inúmeras jornadas no Mar do Vácuo, e a sua experiência compartilhada os torna insulares e preconceituosos com pessoas sem experiência marítima. Aqueles que os conquistam, porém, encotram aliados ferozes e confiáveis.",
-        "notables": "- Margette Vale (líder, quieta, fria, destemida).\n- Bear (braço-direito, feroz, temperamental, ousado).\n- Goldie (navegadora, calculista, paciente, confiante).",
-        "allies": "Estivadores, Os Lanternas Negras.",
-        "enemies": "Casacas Azuis (patrulha dos canais), Os Abutres (contrabandistas rivais, Categoria I)",
-        "situation": "Vale e a sua tripulação conhecem as rotas de tráfico pelo norte de Doskvol como as palmas de suas mãos calejadas. Eles vêm absorvendo e eliminando os rivais no seu território, no esforço de estabelecer no futuro algum acordo de transporte constante de contrabando. Para isso, porém, eles precisam de algum cliente confiável e com algumas moedas para gastar."   
+      "The Fog Hounds": {
+         "name": "Die Fog Hounds",
+         "description": "Eine Mannschaft grober Schmuggler auf der Suche nach einem Patron.",
+         "type": "Unterschicht",
+         "goal_1": "Konkurrierende Schmuggler beseitigen",
+         "goal_2": "Eine Stufe aufsteigen",
+         "turf": "Unterirdisches Dock an den Kanälen (Hauptquartier). Die Kanäle der Schmuggelrouten im Norden und Osten der Stadt. Routen in die nördliche Leere See. Versteckte Vorräte beim Alten Nordhafen.",
+         "assets": "Mittelgroßes Dampfschiff, die „Fog Hound“. Eine Mannschaft aus abgebrühten, zähen Seebären – allesamt frühere Frachtschiffer der Leeren See, die von den neuen Elektrozug-Verbindungen arbeitslos gemacht wurden. Imperiale Papiere für Transport und Fracht, teils gefälscht, teils echt.",
+         "quirks": "Nach den zahllosen Fahrten auf der Leeren See bleiben Vale und ihre Mannschaft oft unter sich und halten wenig von anderen, die sich noch nicht in ähnlicher Form bewiesen haben. Hat man sie aber einmal für sich gewonnen, ist ihre Loyalität stark und unerschütterlich.",
+         "notables": "Margette Vale (Anführerin, ruhig, kalt, furchtlos). Bear (Stellvertreter, kämpferisch, launisch, ungestüm). Goldie (Navigatorin, berechnend, geduldig, selbstsicher).",
+         "allies": "Hafenarbeiter, Die Lampblacks.",
+         "enemies": "Kanalpatrouillen der Blauröcke, Die Vultures (eine konkurrierende Schmuggler-Gang, Stufe I).",
+         "situation": "Vale und ihre Mannschaft beherrschen die nördlichen Schmuggelrouten in und aus der Stadt. Sie versuchen, die wenigen verbliebenen Konkurrenten entweder zu sich zu holen oder zu beseitigen und dann verlässliche, regelmäßige Arbeit für einen Patron zu finden, der ständig Schmuggelware braucht."
       },
-      "The Forgotten Gods":{
-         "name":"Os Deuses Esquecidos",
-         "description":"Cultos dedicados aos costumes anteriores ao cataclisma, que servem a vontade de demônios e entidades ainda mais sombrias. Existem vários cultos diferentes, que raramente se organizam. A maioria deles individualmente conta como Categoria I ou II."
+      "The Forgotten Gods": {
+         "name": "Os Deuses Esquecidos",
+         "description": "Cultos dedicados aos costumes anteriores ao cataclisma, que servem a vontade de demônios e entidades ainda mais sombrias. Existem vários cultos diferentes, que raramente se organizam. A maioria deles individualmente conta como Categoria I ou II."
       },
-      "The Foundation":{
-         "name":"A Fundação",
-         "description":"A poderosa ordem ancestral dos arquitetos e construtores. Muitos dos seus inimigos desapareceram entre os tijolos e cimento de Doskvol.",
-        "type": "Proletários/Comércio" 
+      "The Foundation": {
+         "name": "A Fundação",
+         "description": "A poderosa ordem ancestral dos arquitetos e construtores. Muitos dos seus inimigos desapareceram entre os tijolos e cimento de Doskvol.",
+         "type": "Arbeit & Handel"
       },
-      "The Gray Cloaks":{
-         "name":"Os Casacas Cinzas",
-         "description":"Ex-Casacas Azuis que mudaram completamente de lado e se dedicam ao crime.",
-        "type": "O Submundo",
-        "goal_1": "Estabelecer as Seis Torres como território",
-        "goal_2": "Vingar-se de sua expulsão",
-        "turf": "O porão de uma delegacia incendiada (covil). Vários apartamentos acima de um vendedor de tabaco nas Seis Torres. Uma arena de luta e casa de jogos.",
-        "assets": "Os Casacas Cinzas recrutaram outros ex-Casacas Azuis para o seu bando, formando uma gangue considerável de bandidos treinados. Muitos ainda possuem seus antigos uniformes e distintivos, e conseguem se passar por Guardas Municipais em serviço.",
-        "notables": "- Nessa (líder, escrupulosa, ousada).\n- Hutch (tenente, ousado, feroz).",
-        "allies": "Os Inspetores.",
-        "enemies": "Casacas Azuis, Lorde Vaustranho (Caçadores de Leviatãs).",
-        "situation": "Os Casacas-Cinzas serviram na Guarda Municipal até serem incriminados por um crime cometido pelo seu comandante. Eles estavam desviando verbas públicas e aceitando propina como todos os outros, mas eles não queimaram a delegacia e as evidências contra Lorde Vaustranho (e seus Caçadores Leviatãs). Vários inspetores que estavam investigando o caso sabem a verdade, mas não conseguiram prová-la – até agora. Lorde Vaustranho pagaria muito bem qualquer um disposto a aparar permanentemente essas pontas soltas."   
+      "The Gray Cloaks": {
+         "name": "Die Grauröcke",
+         "description": "Ehemalige Blauröcke, die sich der Kriminalität zugewandt haben, nachdem sie als Sündeböcke aus der Stadtwache entlassen wurden.",
+         "type": "Unterschicht",
+         "goal_1": "Six Towers als ihr Revier fest in den Griff bekommen",
+         "goal_2": "Ihren Rauswurf rächen",
+         "turf": "Der Keller eines niedergebrannten Wachpostens (Hauptquartier). Mehrere Wohnungen über einem Tabakladen in Six Towers. Eine Kampfarena und Spielhalle.",
+         "assets": "Die Grauröcke konnten andere ehemalige Blauröcke für ihre Gang gewinnen und haben damit eine große Truppe an geschulten Schlägern. Sie haben immer noch ihre alten Uniformen und Marken und nutzen sie oft, um sich als Stadtwache auszugeben.",
+         "notables": "Nessa (Anführerin, gewissenhaft, waghalsig). Hutch (Stellvertreter, ungestüm, kämpferisch).",
+         "allies": "Inspektoren.",
+         "enemies": "Blauröcke, Lord Strangford (Leviathanfänger).",
+         "situation": "Die Grauröcke sind alle ehemalige Blauröcke, die für ein Verbrechen beschuldigt werden, das ihr Wachkommandant begangen hat. Klar, sie haben von der Stadt ein wenig Geld abgezweigt und Schmiergelder angenommen wie alle anderen auch, aber sie haben zumindest nicht den Wachposten niedergebrannt und damit die Beweise im Fall Lord Strangford (von den Leviathanfängern) zerstört. Einige Inspektoren, die an dem Fall dran waren, kennen die Wahrheit, können aber nichts beweisen – noch nicht. Lord Strangford würde gut dafür bezahlen, diese Altlasten für immer loszuwerden."
       },
-      "The Grinders":{
-         "name":"Os Trituradores",
-         "description":"Uma violenta gangue de estivadores e refinadores de sangue leviatã vindos de Skovlan.",
-        "type": "O Submundo",
-        "goal_1": "Recrutar uma tripulação, roubar um navio de guerra",
-        "goal_2": "Levantar fundos para a guerra",
-        "turf": "Armazém abandonado nas docas (covil) e doca em um canal subterrâneo.",
-        "assets": "Alguns barcos pequenos de canal. Ferramentas de detonação e explosivos.",
-        "quirks": "Vários Trituradores sofreram mutações por causa das chuvas tóxicas que assolam Porto Seguro.",
-        "notables": "- Hutton (líder, confiante, volátil). Sercy (braço-direito, aleijada, desafiadora).\n- Derret (bandido mais perigoso da gangue, enorme, astuto).",
-        "allies": "Ulf Filho do Ferro, Estivadores.",
-        "enemies": "Casacas Azuis, Exército Imperial, Caçadores de Leviatãs, Marujos, Os Cravos de Prata.",
-        "situation": "As refinarias de Porto Seguro (no norte de Skovlan) processam 90% do sangue coletado pelos navios caçadores de leviatã de Doskvol. Esses navios deixam sua carga bruta em Porto Seguro para então carregar o sangue refinado para Doskvol, onde recebem reparos e repõem a tripulação perdida. As enormes e turbulentas refinarias cobrem a cidade em uma nuvem fedorenta de vapores tóxicos e chuva ácida. Um grupo de estivadores e funcionários das refinarias se organizou sob o nome “Trituradores” e vieram a Doskvol com objetivos claros: levantar um exército e conseguir um navio de guerra. Após isso, tomar o controle de Porto Seguro e destruir as refinarias do Imperium. Eles cometem crimes para levantar fundos para a sua missão, especializando-se no roubo de balsas de transporte e assaltos a lojas."   
+      "The Grinders": {
+         "name": "Die Grinders",
+         "description": "Eine brutale Bande früherer Hafen- und Blutraffinerie-Arbeiter.",
+         "type": "Unterschicht",
+         "goal_1": "Eine Mannschaft aufstellen, ein Kriegsschiff stehlen",
+         "goal_2": "Die Kriegskasse füllen",
+         "turf": "Verlassenes Lagerhaus an den Docks (Hauptquartier) und unterirdisches Kanaldock.",
+         "assets": "Ein paar kleine Kanalboote. Sprengstoff und Abrisswerkzeug.",
+         "quirks": "Viele der Grinders sind vom giftigen Regen, der Lockport plagt, mutiert.",
+         "notables": "Hutton (Anführer, selbstsicher, sprunghaft). Sercy (Stellvertreterin, versehrt, aufsässig). Derret (härtestes Mitglied, riesig, durchtrieben).",
+         "allies": "Ulf Eisenbart, Hafenarbeiter.",
+         "enemies": "Blauröcke, Imperiales Militär, Leviathanfänger, Seeleute, Die Silbernägel.",
+         "situation": "Die Stadt Lockport im Norden von Skovlan verarbeitet 90 % des Dämonenbluts, das die Leviathanfänger-Schiffe von Doskvol absaugen (die Fänger liefern ihre unverarbeitete Fracht in Lockport ab, bevor sie die Laderäume mit raffiniertem Blood wieder auffüllen und nach Doskvol zurückkehren, wo Reparaturen durchgeführt werden und die Besatzung nach den Verlusten an die Leere See wieder vollständig bestückt wird). Aus den riesigen Raffinerien von Lockport erhebt sich eine stinkende Wolke an giftigen Dämpfen und saurem Regen über die Stadt. Eine Gruppe von Hafen- und Raffineriearbeitern aus Skovlan ist deshalb nach Doskvol gereist, um hier eine Armee aufzustellen, ein Kriegsschiff zu kapern, damit die Kontrolle über Lockport wiederzuerlangen und die Raffinerien des Imperiums zu zerstören. Sie nennen sich selbst „die Grinders“ und versuchen mit allerlei Verbrechen Geld für ihre Mission aufzustellen. Besonders häufig stürmen, plündern und übernehmen sie Frachtkähne überall in der Stadt."
       },
-      "The Hive":{
-         "name":"A Colmeia",
-         "description":"Uma guilda de mercadores que também comercializa contrabando. O seu símbolo é uma abelha dourada.",
-        "type": "O Submundo",
-        "goal_1": "Dominar o mercado de contrabando",
-        "goal_2": "Vingar o assassinato de Roric",
-        "turf": "Várias lojas, tavernas, cafés, armazéns e estabelecimentos mercantis através da cidade. Não possuem um covil centralizado.",
-        "assets": "Um tesouro enorme. Mercenários de elite contratados. Uma frota de navios de transporte, carruagens, carroças e trens privados.",
-        "quirks": "Muitos sabem que a Colmeia evita negociar com grupos arcanos ou ocultistas. Os membros da Colmeia rejeitam as superstições e práticas estranhas do passado, o que torna a Igreja do Êxtase bastante popular entre seus números.",
-        "notables": "- Djera Maha (líder, audaciosa, estratégica, confiada).\n- Karth Orris (comandante dos mercenários, impiedoso, perspicaz, invejoso).",
-        "allies": "Ministério da Preservação, Consulado do Arquipélago das Adagas.",
-        "enemies": "O Círculo das Chamas, Os Velados, Os Corvos, Os Vultos.",
-        "situation": "Djera Maha foi uma menina de rua no Arquipélago das Adagas. Ela aprendeu os segredos do tráfico enquanto subia os degraus de todas as gangues nas rotas comerciais de Doskvol. Ela vem estabelecendo sua própria rede de aquisição e distribuição (incluindo fontes dentro do próprio Ministério da Preservação), e está pronta para dominar todos os mercados de contrabando da cidade. Maha tinha um relacionamento muito próximo (ou romântico, dizem as más línguas) com Roric, o antigo líder dos Corvos recentemente assassinado por sua subordinada."   
+      "The Hive": {
+         "name": "A Colmeia",
+         "description": "Uma guilda de mercadores que também comercializa contrabando. O seu símbolo é uma abelha dourada.",
+         "type": "Unterschicht",
+         "goal_1": "Dominar o mercado de contrabando",
+         "goal_2": "Vingar o assassinato de Roric",
+         "turf": "Várias lojas, tavernas, cafés, armazéns e estabelecimentos mercantis através da cidade. Não possuem um covil centralizado.",
+         "assets": "Um tesouro enorme. Mercenários de elite contratados. Uma frota de navios de transporte, carruagens, carroças e trens privados.",
+         "quirks": "Muitos sabem que a Colmeia evita negociar com grupos arcanos ou ocultistas. Os membros da Colmeia rejeitam as superstições e práticas estranhas do passado, o que torna a Igreja do Êxtase bastante popular entre seus números.",
+         "notables": "- Djera Maha (líder, audaciosa, estratégica, confiada).\n- Karth Orris (comandante dos mercenários, impiedoso, perspicaz, invejoso).",
+         "allies": "Ministério da Preservação, Consulado do Arquipélago das Adagas.",
+         "enemies": "O Círculo das Chamas, Os Velados, Os Corvos, Os Vultos.",
+         "situation": "Djera Maha foi uma menina de rua no Arquipélago das Adagas. Ela aprendeu os segredos do tráfico enquanto subia os degraus de todas as gangues nas rotas comerciais de Doskvol. Ela vem estabelecendo sua própria rede de aquisição e distribuição (incluindo fontes dentro do próprio Ministério da Preservação), e está pronta para dominar todos os mercados de contrabando da cidade. Maha tinha um relacionamento muito próximo (ou romântico, dizem as más línguas) com Roric, o antigo líder dos Corvos recentemente assassinado por sua subordinada."
       },
       "The Horde": {
-         "name":"A Horda",
-         "description":"Uma massa de vazios controlados por algum poder desconhecido e unidos em algum propósito maligno.",
-        "type": "A Periferia" 
+         "name": "A Horda",
+         "description": "Uma massa de vazios controlados por algum poder desconhecido e unidos em algum propósito maligno.",
+         "type": "Anderweltliches"
       },
-      "The Lampblacks":{
-         "name":"Os Lanternas Negras",
-         "description":"A antiga guilda dos lanterneiros, que se virou para o crime após ter tido seus serviços substituídos pelas luzes elétricas.",
-        "type": "O Submundo",
-        "goal_1": "Destruir os Faixas Escarlates",
-        "goal_2": "Virar chefes do crime do Pé-de-Corvo",
-        "turf": "Covil no escritório de um armazém de carvão. Gerencia alguns bordeis e bocas de fumo espalhados pelo Pé-de-Corvo.",
-        "assets": "Uma gangue intimidadora de porradeiros e especialistas em quebra-quebra e criar confusão. Vários contrabandistas na folha de pagamento transportando suas drogas.",
-        "quirks": "Bazso Baz faz parte de uma sociedade secreta (o culto ao deus esquecido “Receptáculo Vazio”) e às vezes prioriza as necessidades desse grupo acima dos Lanternas.",
-        "notables": "- Bazso Baz (líder, carismático, sincero, impiedoso, perito em uísque).\n- Pickett (braçodireito, astuto, conivente, suspeito).\n- Henner (brutamontes, leal, imprudente).",
-        "allies": "Os Mastins da Névoa, Gondoleiros, Prisão Anzolférreo.",
-        "enemies": "Os Faixas Escarlates, Casacas Azuis, Cocheiros.",
-        "situation": "Os Lanternas Negras e os Faixas Escarlates estão guerreando por território e vingança de mortes dos dois lados. Bazso Baz está recrutando cada lâmina disponível no bairro e não aceita “não” como resposta – ou você está com eles ou contra eles. Os Lanternas não possuem influência política, mas são considerados praticamente heróis pela classe trabalhadora: “rebeldes do povo” levantando-se contra a injustiça dos poderosos."   
+      "The Lampblacks": {
+         "name": "Die Lampblacks",
+         "description": "Die ehemalige Zunft der Laternenanzünder, die sich der Kriminalität zugewandt haben, nachdem die elektrischen Lichter ihre Arbeit überflüssig machten.",
+         "type": "Unterschicht",
+         "goal_1": "Die Rotschärpen zerschlagen",
+         "goal_2": "Crow’s Foot an sich reißen",
+         "turf": "Ihr Hauptquartier sind die Geschäftsräume eines Kohlenlagerhauses. Sie betreiben eine Handvoll Bordelle und billige Drogenhöhlen in ganz Crow’s Foot.",
+         "assets": "Eine furchteinflößende Bande von Knochenbrechern und Unruhestiftern. Eine Reihe Schmuggler, die von ihnen dafür bezahlt werden, ihre Drogen auszuliefern.",
+         "quirks": "Bazso Baz ist Mitglied einer Geheimgesellschaft (der Kult der Vergessenen Gottheit „Das Leere Gefäß“) und die Bedürfnisse dieser Gesellschaft sind ihm bisweilen wichtiger als das Wohlergehen seiner Gang.",
+         "notables": "Bazso Baz (Anführer, charmant, offen, rücksichtslos, Whiskeykenner). Pickett (Stellvertreter, durchtrieben, hinterhältig, argwöhnisch). Henner (Schläger, loyal, rücksichtslos).",
+         "allies": "Die Fog Hounds, Gondolieri, Ironhook-Gefängnis.",
+         "enemies": "Die Rotschärpen, Blauröcke, Kutscher.",
+         "situation": "Die Lampblacks und die Rotschärpen befinden sich in Revier- und Vergeltungskriegen. Bazso Baz heuert alle verfügbaren Messerstecher im Bezirk als zusätzliche Schläger an und duldet keinen Widerspruch. Man ist entweder für ihn oder gegen ihn. Politisch sind die Lampblacks nicht besonders gut vernetzt, aber unter der Arbeiterschaft sind sie quasi Volkshelden und gelten als „liebenswürdige Schurken“, die es mit der Obrigkeit aufnehmen."
       },
-      "The Lost":{
-        "name":"Almas Perdidas",
-        "description":"Um grupo de exsoldados e rufiões dedicados à proteção dos oprimidos e desesperados.",
-        "type": "O Submundo",
-        "goal_1": "Relógio 4: Destruir albergues de trabalho cruéis (repete-se).",
-        "goal_2": "",
-        "turf": "Vagão ferroviário convertido (covil). As ruas mais pobres do Morro do Carvão e Charco-Gris.",
-        "assets": "Uma gangue muito experiente de antigos bandidos, assassinos e soldados Imperiais.",
-        "quirks": "As Almas Perdidas fizeram coisas terríveis nas suas vidas anteriores e sentem que precisam pagar pelos seus pecados. Cada um deles mantém uma pilha de pedra embaixo de suas camas – uma para cada pecado equilibrado por um ato bondoso.",
-        "notables": "Cortland (líder, idealista, sincero, cavalheiresco)",
-        "allies": "Operários dos Albergues de Trabalho, Cidadãos do Morro do Carvão e Charco-Gris, Os Corvos.",
-        "enemies": "Capatazes dos Albergues de Trabalho, Casacas Azuis, Os Cutelos.",
-        "situation": "As Almas Perdidas concentram seus esforços no Morro do Carvão – uma longa campanha de sabotagem, terror e espancamento contra os capatazes mais cruéis do bairro. Os seus ataques encorajam os sindicalistas locais, e os Casacas Azuis vêm pedindo reforços de outros bairros. Enquanto isso, os capatazes do Morro oferecem uma boa grana para qualquer um disposto a acabar de vez com essas Almas Perdidas."   
+      "The Lost": {
+         "name": "Almas Perdidas",
+         "description": "Um grupo de exsoldados e rufiões dedicados à proteção dos oprimidos e desesperados.",
+         "type": "Unterschicht",
+         "goal_1": "Relógio 4: Destruir albergues de trabalho cruéis (repete-se).",
+         "goal_2": "",
+         "turf": "Vagão ferroviário convertido (covil). As ruas mais pobres do Morro do Carvão e Charco-Gris.",
+         "assets": "Uma gangue muito experiente de antigos bandidos, assassinos e soldados Imperiais.",
+         "quirks": "As Almas Perdidas fizeram coisas terríveis nas suas vidas anteriores e sentem que precisam pagar pelos seus pecados. Cada um deles mantém uma pilha de pedra embaixo de suas camas – uma para cada pecado equilibrado por um ato bondoso.",
+         "notables": "Cortland (líder, idealista, sincero, cavalheiresco)",
+         "allies": "Operários dos Albergues de Trabalho, Cidadãos do Morro do Carvão e Charco-Gris, Os Corvos.",
+         "enemies": "Capatazes dos Albergues de Trabalho, Casacas Azuis, Os Cutelos.",
+         "situation": "As Almas Perdidas concentram seus esforços no Morro do Carvão – uma longa campanha de sabotagem, terror e espancamento contra os capatazes mais cruéis do bairro. Os seus ataques encorajam os sindicalistas locais, e os Casacas Azuis vêm pedindo reforços de outros bairros. Enquanto isso, os capatazes do Morro oferecem uma boa grana para qualquer um disposto a acabar de vez com essas Almas Perdidas."
       },
-      "The Path of Echoes":{
-         "name":"Via dos Ecos",
-         "description":"Um culto misterioso quase em rebelião contra as leis espirituais do Imperium. Eles reverenciam os ancestrais e procuram conhecimentos perdidos do passado, associando-se com fantasmas e consultando-os sempre que possível.",
-        "type": "A Periferia"
+      "The Path of Echoes": {
+         "name": "Via dos Ecos",
+         "description": "Um culto misterioso quase em rebelião contra as leis espirituais do Imperium. Eles reverenciam os ancestrais e procuram conhecimentos perdidos do passado, associando-se com fantasmas e consultando-os sempre que possível.",
+         "type": "Anderweltliches"
       },
-      "The Reconciled":{
-         "name":"Os Reconciliados",
-         "description":"Uma associação de espíritos que não se tornaram insanos com o passar do tempo.",
-        "type": "A Periferia",
-        "goal_1": "Infiltrar o Conselho Municipal",
-        "goal_2": "Infiltrar a Igreja do Êxtase",
-        "turf": "Nenhum.",
-        "assets": "Várias fontes espirituais secretas e escondidas espalhadas pela cidade e através das terras mortais, de onde retiram a energia arcana necessária para a sua sobrevivência.",
-        "quirks": "Os espíritos Reconciliados não perdem as suas mentes ou se tornam completamente obcecados com a vingança como todos os outros. Eles conseguem possuir uma vítima indefinidamente sem quais efeitos negativos.",
-        "notables": "Os Reconciliados possuem vários cidadãos importantes em Doskvol. A sua quantidade exata de membros é desconhecida.",
-        "allies": "Conselho Municipal, Gondoleiros.",
-        "enemies": "A Igreja do Êxtase, Patrulheiros Espirituais, Faisqueiros.",
-        "situation": "Os Reconciliados são extremamente antigos e sábios, e se consideram os governantes justos para a cidade de Doskvol. Alguns conselheiros se tornaram iniciados da Via dos Ecos e logo estarão vulneráveis à possessão dos Reconciliados. Esses conselheiros também são membros de alto nível da Igreja do Êxtase da Carne, o que permitirá que os Reconciliados também se infiltrem nessa outra organização."   
+      "The Reconciled": {
+         "name": "Die Ausgesöhnten",
+         "description": "Eine Vereinigung uralter Geister, die sich über die Jahre ihre Menschlichkeit bewahrt haben.",
+         "type": "Anderweltliches",
+         "goal_1": "Den Stadtrat unterwandern",
+         "goal_2": "Die Kirche der fleischlichen Verzückung unterwandern",
+         "turf": "Nirgendwo.",
+         "assets": "Mehrere geheime und verborgene Seelenquellen in der Stadt und in den Siechlanden, aus denen die Ausgesöhnten arkane Energie schöpfen, um zu überleben.",
+         "quirks": "Die Seelen der Ausgesöhnten verlieren ihren Verstand nicht und werden nicht von ihren Rachegelüsten verzehrt, wie das bei anderen Geistern der Fall ist. Sie können ganz ohne Nebenwirkungen auf unbestimmte Zeit von jemandem Besitz ergreifen.",
+         "notables": "Die Ausgesöhnten haben von einigen wichtigen Bürgern Doskvols Besitz ergriffen. Ihre genaue Mitgliedschaft ist nicht bekannt.",
+         "allies": "Stadtrat, Gondolieri.",
+         "enemies": "Die Kirche der fleischlichen Verzückung, Seelenwächter, Funkenmacher.",
+         "situation": "Die Ausgesöhnten sind uralt und weise. Sie sehen sich selbst als die wahren und gerechten Herrscher, die Duskwall braucht. Einzelne Mitglieder des Stadtrats wurden in den Weg des Widerhalls aufgenommen und werden so bald anfällig für die Besessenheit durch die Ausgesöhnten sein. Diese Räte sind auch hochrangige Mitglieder der Kirche der fleischlichen Verzückung, was den Ausgesöhnten Gelegenheit bieten wird, auch diese Organisation zu unterwandern."
       },
-      "The Red Sashes":{
-         "name":"Os Faixas Escarlates",
-         "description":"Uma escola de esgrima iruviana que expandiu seus negócios para o crime.",
-        "type": "O Submundo",
-        "goal_1": "Destruir os Lanternas Negras",
-        "goal_2": "Tornar-se chefes do crime do Pé-de-Corvo",
-        "turf": "Escola de esgrima/templo (covil). Gerenciam várias bocas de fumo de alto nível no Pé-de-Corvo e nas Docas.",
-        "assets": "Um pequeno contingente de mestres espadachins. Um mestre alquimista e várias poções e essências potentes.",
-        "quirks": "Vários Faixas Escarlates são filhos e filhas de nobres e diplomatas iruvianos. Eles aprendem esgrima na escola e participam ocasionalmente de atividades criminosas. As suas famílias são poderosas e possuem muitos recursos para prejudicar a vida de quem se meta com seus filhos.",
-        "notables": "Mylera Klev (líder, astuta, impiedosa, bem-educada, colecionadora de arte).",
-        "allies": "Consulado Iruviano, Via dos Ecos, Estivadores, Cocheiros, Inspetores.",
-        "enemies": "Lanternas Negras, Casacas Azuis, Gondoleiros.",
-        "situation": "Os Faixas Escarlates e os Lanternas Negras estão guerreando por território e vingança de mortes dos dois lados. Mylera está recrutando cada lâmina disponível no bairro e não aceita “não” como resposta - ou você está com eles ou contra eles. Os Faixas Escarlates possuem muita influência política – vários dos seus antigos estudantes de esgrima hoje são membros do Consulado Iruviano, Via dos Ecos e Inspetores."   
+      "The Red Sashes": {
+         "name": "Die Rotschärpen",
+         "description": "Ursprünglich eine iruvische Schwertkampfschule, jetzt ausgeweitet auf kriminelle Unterfangen.",
+         "type": "Unterschicht",
+         "goal_1": "Die Lampblacks zerstören",
+         "goal_2": "Crow’s Foot an sich reißen",
+         "turf": "Ihr Hauptquartier ist Schwertkampfschule und Tempel zugleich. Sie betreiben außerdem eine Handvoll erstklassiger Drogenhöhlen in Crow’s Foot und den Docks.",
+         "assets": "Ein kleines Aufgebot an meisterhaften Schwertkämpfern. Ein Meisteralchemist, viele mächtige Tränke und Essenzen.",
+         "quirks": "Einige Mitglieder der Rotschärpen sind die Söhne und Töchter iruvischer Adliger und Diplomaten in Doskvol. Sie trainieren Schwertkampf an der Schule und nehmen manchmal an Bandenumtrieben teil. Ihre Familien sind mächtig und werden viel investieren, um alle zu bestrafen, die es wagen sollten, ihre Kinder zu verletzen.",
+         "notables": "Mylera Klev (Anführerin, durchtrieben, rücksichtslos, gebildet, Kunstsammlerin).",
+         "allies": "Iruvisches Konsulat, Der Weg des Widerhalls, Hafenarbeiter, Kutscher, Inspektoren.",
+         "enemies": "Die Lampblacks, Blauröcke, Gondolieri.",
+         "situation": "Die Rotschärpen und die Lampblacks befinden sich in Revier- und Vergeltungskriegen. Mylera heuert alle verfügbaren Messerstecher im Bezirk als zusätzliche Schläger an und duldet keinen Widerspruch. Man ist entweder für sie oder gegen sie. Die Rotschärpen sind gut vernetzt und konnten ehemalige Schüler ebenso beim Iruvischen Konsulat unterbringen wie beim Weg des Widerhalls und bei den Inspektoren."
       },
-      "The Silver Nails":{
-         "name":"Os Cravos de Prata",
-         "description":"Uma companhia de mercenários severosi que lutaram pelo Imperium na Guerra da União. Famosos matadores de fantasmas.",
-        "type": "O Submundo",
-        "goal_1": "Destruir espíritos no Bairro Perdido",
-        "goal_2": "Controlar o Bairro Perdido",
-        "turf": "Uma grande estalagem (“O Mustangue”) e seus excelentes estábulos (covil).",
-        "assets": "Um contingente de exímios cavalos militares severosi – destemidos, rápidos e treinados para caçar e lutar contra espíritos. Lanças arcanas.",
-        "quirks": "Cada membro usa um anel forjado a partir de um cravo de prata, que protege o seu usuário contra possessão. Eles são treinados na habilidade especial guerreiro fantasmagórico do Retalhador.",
-        "notables": "- Seresh (líder, corajosa, ousada, provocante).\n- Tuhan (mestre batedor, corajoso, esperto, carismático).",
-        "allies": "Exército Imperial, Marujos, Consulado Severosi.",
-        "enemies": "O Círculo das Chamas, Os Trituradores, Consulado Skovlandês, Refugiados Skovlandeses, Patrulheiros Espirituais.",
-        "situation": "Graças a sua experiência como nômades nas terras mortais de Severos, os Cravos de Prata são perfeitamente preparados para explorar o Bairro Perdido fora da barreira relampejante. Os seus planos envolvem afastar, ou destruir, os espíritos mais perigosos para estabelecer controle sobre o território e pilhar todos os tesouros e artefatos deixados para trás. Os Patrulheiros Espirituais controlam o acesso ao Bairro Perdido e proíbem o acesso a essas ruínas – tanto para os Cravos de Prata quanto para outros pretensos exploradores."   
+      "The Silver Nails": {
+         "name": "Os Cravos de Prata",
+         "description": "Uma companhia de mercenários severosi que lutaram pelo Imperium na Guerra da União. Famosos matadores de fantasmas.",
+         "type": "Unterschicht",
+         "goal_1": "Destruir espíritos no Bairro Perdido",
+         "goal_2": "Controlar o Bairro Perdido",
+         "turf": "Uma grande estalagem (“O Mustangue”) e seus excelentes estábulos (covil).",
+         "assets": "Um contingente de exímios cavalos militares severosi – destemidos, rápidos e treinados para caçar e lutar contra espíritos. Lanças arcanas.",
+         "quirks": "Cada membro usa um anel forjado a partir de um cravo de prata, que protege o seu usuário contra possessão. Eles são treinados na habilidade especial guerreiro fantasmagórico do Retalhador.",
+         "notables": "- Seresh (líder, corajosa, ousada, provocante).\n- Tuhan (mestre batedor, corajoso, esperto, carismático).",
+         "allies": "Exército Imperial, Marujos, Consulado Severosi.",
+         "enemies": "O Círculo das Chamas, Os Trituradores, Consulado Skovlandês, Refugiados Skovlandeses, Patrulheiros Espirituais.",
+         "situation": "Graças a sua experiência como nômades nas terras mortais de Severos, os Cravos de Prata são perfeitamente preparados para explorar o Bairro Perdido fora da barreira relampejante. Os seus planos envolvem afastar, ou destruir, os espíritos mais perigosos para estabelecer controle sobre o território e pilhar todos os tesouros e artefatos deixados para trás. Os Patrulheiros Espirituais controlam o acesso ao Bairro Perdido e proíbem o acesso a essas ruínas – tanto para os Cravos de Prata quanto para outros pretensos exploradores."
       },
-      "The Unseen":{
-         "name":"Os Velados",
-         "description":"Uma organização criminosa clandestina e sigilosa, que supostamente tem agentes infiltrados em todas as instituições criminosas.",
-        "type": "O Submundo",
-        "goal_1": "Infiltrar os Patrulheiros Espirituais",
-        "goal_2": "Expandir para outras cidades",
-        "turf": "Uma miríade de antros de vício e esquemas de extorsão distribuídos por toda a cidade – e praticamente nenhum deles sabe que paga aos Velados. Vários sobrados opulentos usados como refúgios.",
-        "assets": "Uma legião de bandidos, ladrões e assassinos que podem ser convocados a qualquer momento pelos seus mestres secretos.",
-        "quirks": "O sigilo perfeito dos Velados se deve a poderosos rituais arcanos. Os membros principais se reconhecem através de uma visão sobrenatural sintonizada. Qualquer outra pessoa que descubra a identidade de um Velado é afetada por um ritual que remove essa memória da sua mente após alguns poucos momentos.",
-        "notables": "- A Torre (líder).\n- A Estrela (capitão).\n- Grull (bandido intermediário com grandes ambições, infiltrado como cocheiro).",
-        "allies": "Os Casacas Azuis, Prisão Anzolférreo, Os Deuses Esquecidos, Cifras.",
-        "enemies": "Libertintos, A Colmeia, Patrulheiros Espirituais.",
-        "situation": "Os Velados desejam o poder e a autoridade dos Patrulheiros Espirituais, uma organização tão sigilosa que vem impedindo todas as tentativas de infiltração até agora. A Torre e A Estrela procuram posicionar os seus próprios espiões e agentes dentro da Patrulha para tomá-la de dentro para fora."   
+      "The Unseen": {
+         "name": "Os Velados",
+         "description": "Uma organização criminosa clandestina e sigilosa, que supostamente tem agentes infiltrados em todas Obrigkeit criminosas.",
+         "type": "Unterschicht",
+         "goal_1": "Infiltrar os Patrulheiros Espirituais",
+         "goal_2": "Expandir para outras cidades",
+         "turf": "Uma miríade de antros de vício e esquemas de extorsão distribuídos por toda a cidade – e praticamente nenhum deles sabe que paga aos Velados. Vários sobrados opulentos usados como refúgios.",
+         "assets": "Uma legião de bandidos, ladrões e assassinos que podem ser convocados a qualquer momento pelos seus mestres secretos.",
+         "quirks": "O sigilo perfeito dos Velados se deve a poderosos rituais arcanos. Os membros principais se reconhecem através de uma visão sobrenatural sintonizada. Qualquer outra pessoa que descubra a identidade de um Velado é afetada por um ritual que remove essa memória da sua mente após alguns poucos momentos.",
+         "notables": "- A Torre (líder).\n- A Estrela (capitão).\n- Grull (bandido intermediário com grandes ambições, infiltrado como cocheiro).",
+         "allies": "Os Casacas Azuis, Prisão Anzolférreo, Os Deuses Esquecidos, Cifras.",
+         "enemies": "Libertintos, A Colmeia, Patrulheiros Espirituais.",
+         "situation": "Os Velados desejam o poder e a autoridade dos Patrulheiros Espirituais, uma organização tão sigilosa que vem impedindo todas as tentativas de infiltração até agora. A Torre e A Estrela procuram posicionar os seus próprios espiões e agentes dentro da Patrulha para tomá-la de dentro para fora."
       },
-      "The Weeping Lady":{
-         "name":"A Dama Lacrimosa",
-         "description":"Uma caridade e pseudo-religião dedicada à primeira Dama Governadora de Doskvol. Em seus tempos a Dama Devera era considerada uma verdadeira campeã dos pobres e destituídos.",
-        "type": "A Periferia"
+      "The Weeping Lady": {
+         "name": "A Dama Lacrimosa",
+         "description": "Uma caridade e pseudo-religião dedicada à primeira Dama Governadora de Doskvol. Em seus tempos a Dama Devera era considerada uma verdadeira campeã dos pobres e destituídos.",
+         "type": "Anderweltliches"
       },
-      "The Wraiths":{
-         "name":"Os Vultos",
-         "description":"Um misterioso bando de ladrões e espiões mascarados.",
-        "type": "O Submundo",
-        "goal_1": "Recrutar ladrões experientes",
-        "goal_2": "Encontrar um aliado arcano",
-        "turf": "Suas principais áreas de caça são na Praia da Seda e Empório Noturno. Eles são especializados no roubo de itens de luxo, mas também são contratados para descobrir informações para chantagem.",
-        "assets": "Vários abrigos secretos em telhados espalhados pela cidade. Um covil secreto em uma torre na Praia da Seda. Vários tipos de ferramentas para arrombamento cauteloso.",
-        "quirks": "Cada Vulto veste uma máscara e protege a sua identidade com um codinome. Eles se comunicam através de uma linguagem gestual própria.",
-        "notables": "- Ardósia (líder, sofisticada, audaciosa, sigilosa).\n- Laço Duplo (especialista em avaliação, obsessivo, temperamental, sigiloso).",
-        "allies": "Cocheiros.",
-        "enemies": "Casacas Azuis, Inspetores, A Colmeia.",
-        "situation": "Os Vultos empreenderam um roubo mirabolante em um bordel de luxo na Praia da Seda – e por acaso saíram de lá com o livro de mapas de um caçador de leviatãs. Esse livro de mapas mostra os campos de caça secretos que o navio Palácio da Tempestade frequentará durante a próxima temporada. Esses mapas, embora completamente inúteis para os Vultos, valem uma verdadeira fortuna para outros caçadores de leviatãs. Nesse momento os Vultos estão abordando seus contatos do submundo, procurando negociar uma venda sigilosa e lucrativa."   
+      "The Wraiths": {
+         "name": "Os Vultos",
+         "description": "Um misterioso bando de ladrões e espiões mascarados.",
+         "type": "Unterschicht",
+         "goal_1": "Recrutar ladrões experientes",
+         "goal_2": "Encontrar um aliado arcano",
+         "turf": "Suas principais áreas de caça são na Praia da Seda e Empório Noturno. Eles são especializados no roubo de itens de luxo, mas também são contratados para descobrir informações para chantagem.",
+         "assets": "Vários abrigos secretos em telhados espalhados pela cidade. Um covil secreto em uma torre na Praia da Seda. Vários tipos de ferramentas para arrombamento cauteloso.",
+         "quirks": "Cada Vulto veste uma máscara e protege a sua identidade com um codinome. Eles se comunicam através de uma linguagem gestual própria.",
+         "notables": "- Ardósia (líder, sofisticada, audaciosa, sigilosa).\n- Laço Duplo (especialista em avaliação, obsessivo, temperamental, sigiloso).",
+         "allies": "Cocheiros.",
+         "enemies": "Casacas Azuis, Inspetores, A Colmeia.",
+         "situation": "Os Vultos empreenderam um roubo mirabolante em um bordel de luxo na Praia da Seda – e por acaso saíram de lá com o livro de mapas de um caçador de leviatãs. Esse livro de mapas mostra os campos de caça secretos que o navio Palácio da Tempestade frequentará durante a próxima temporada. Esses mapas, embora completamente inúteis para os Vultos, valem uma verdadeira fortuna para outros caçadores de leviatãs. Nesse momento os Vultos estão abordando seus contatos do submundo, procurando negociar uma venda sigilosa e lucrativa."
       },
-      "Ulf Ironborn":{
-         "name":"Ulf Filho do Ferro",
-         "description":"Um skovlandês brutal, recém-chegado em Doskvol, lutando contra todos para conquistar seu território.",
-        "type": "O Submundo",
-        "goal_1": "Conquistar seu território",
-        "goal_2": "Subir de Categoria",
-        "turf": "Aposentos, oficina e estábulo na taverna da Velha Forja (covil). Uma casa de jogos.",
-        "assets": "Uma pequena, mas brutalmente violenta gangue de brutamontes.",
-        "quirks": "Como refugiado da Guerra da União, Ulf não confia nos akorosianos locais ou qualquer um leal ao governo Imperial. Porém, pessoas de sangue skovlandês ganham facilmente a sua confiança.",
-        "notables": "Ulf Filho do Ferro (líder, impiedoso, brutal, ousado). Havid (braço-direito, impiedoso, volátil, astuto).",
-        "allies": "Os Trituradores.",
-        "enemies": "Cidadãos do Morro do Carvão, Os Cutelos.",
-        "situation": "Ulf chegou há pouco em Doskvol, procurando a sorte nas ruas. A sua gangue fez vários arrombamentos seguidos de assaltos, abrindo caminho para um possível esquema de “proteção”. A chegada constante de refugiados skovlandeses trouxe à tona o preconceito de parte da população da cidade, que começou a colocar cartazes de “PROIBIDO SKOVS” em bares e lojas. Isso provoca uma fúria descontrolada em Ulf, colocando a sua gangue em confrontos constantes com orgulhosos “Obscuros de nascimento”."   
+      "Ulf Ironborn": {
+         "name": "Ulf Filho do Ferro",
+         "description": "Um skovlandês brutal, recém-chegado em Doskvol, lutando contra todos para conquistar seu território.",
+         "type": "Unterschicht",
+         "goal_1": "Conquistar seu território",
+         "goal_2": "Subir de Categoria",
+         "turf": "Aposentos, oficina e estábulo na taverna da Velha Forja (covil). Uma casa de jogos.",
+         "assets": "Uma pequena, mas brutalmente violenta gangue de brutamontes.",
+         "quirks": "Como refugiado da Guerra da União, Ulf não confia nos akorosianos locais ou qualquer um leal ao governo Imperial. Porém, pessoas de sangue skovlandês ganham facilmente a sua confiança.",
+         "notables": "Ulf Filho do Ferro (líder, impiedoso, brutal, ousado). Havid (braço-direito, impiedoso, volátil, astuto).",
+         "allies": "Os Trituradores.",
+         "enemies": "Cidadãos do Morro do Carvão, Os Cutelos.",
+         "situation": "Ulf chegou há pouco em Doskvol, procurando a sorte nas ruas. A sua gangue fez vários arrombamentos seguidos de assaltos, abrindo caminho para um possível esquema de “proteção”. A chegada constante de refugiados skovlandeses trouxe à tona o preconceito de parte da população da cidade, que começou a colocar cartazes de “PROIBIDO SKOVS” em bares e lojas. Isso provoca uma fúria descontrolada em Ulf, colocando a sua gangue em confrontos constantes com orgulhosos “Obscuros de nascimento”."
       }
    }
 }

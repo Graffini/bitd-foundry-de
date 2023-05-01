@@ -1,7 +1,7 @@
 {
 	"label": "Vorgeschichte",
   "mapping": {
-    "description": "data.description"
+    "description": "system.description"
   },
   
 	"entries": {

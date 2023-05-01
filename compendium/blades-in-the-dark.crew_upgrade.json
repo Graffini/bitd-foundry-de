@@ -1,8 +1,8 @@
 {
-	"label": "Melhorias de Bando",
+	"label": "Gang-Verbesserungen",
   "mapping":{
-      "description":"data.description",
-      "class":"data.class"
+      "description":"system.description",
+      "class":"system.class"
    },
    
 	"entries": {
@@ -56,27 +56,27 @@
       "description":"Eure Stufe gilt im Gefängnis als 1 höher. Das gilt für alle stufenbezogenen Elemente im Gefängnis, einschließlich dem Inhaftierungswurf (siehe S. 154).",
       "class":"Haudegen"
 		},
-		"(K) Cult Rigging": {
+		"(C) Cult Rigging": {
 			"name": "(K) Kultisten-Ausstattung",
       "description":"Ihr könnt Dokumente oder Gerätschaften von bis zu 2 Last tragen, ohne dass euch diese Last angerechnet wird. Ihr könntet also zum Beispiel für 0 Last ein lästerliches Buch der Flüche und eine Dämonenhand bei euch tragen.",
       "class":"Kultisten"
 		},
-		"(K) Elite Adepts": {
+		"(C) Elite Adepts": {
 			"name": "(K) Elite-Adepten",
       "description":"Alle eure Komplizen vom Typ Adepten erhalten bei für sie typischen Aktionen +1W auf Qualitätswürfe.",
       "class":"Kultisten"
 		},
-		"(K) Elite Thugs": {
+		"(C) Elite Thugs": {
 			"name": "(K) Elite-Schläger",
       "description":"Alle eure Komplizen vom Typ Schläger erhalten bei für sie typische Aktionen +1W auf Qualitätswürfe.",
       "class":"Kultisten"
 		},
-		"(K) Ordained": {
+		"(C) Ordained": {
 			"name": "(K) Weihe",
       "description":"Jeder SC erhält +1 Trauma-Kästchen. Dies kostet zum Freischalten drei Verbesserungen statt nur einer. Das kann auch einen SC mit 4 Trauma wieder ins Spiel zurückholen, wenn ihr das möchtet.",
       "class":"Kultisten"
 		},
-		"(K) Ritual Sanctum in Lair": {
+		"(C) Ritual Sanctum in Lair": {
 			"name": "(K) Rituelle Kultstätte im Versteck",
       "description":"Zählt als heilige und arkane Werkstatt für okkulte Praktiken und Rituale.",
       "class":"Kultisten"

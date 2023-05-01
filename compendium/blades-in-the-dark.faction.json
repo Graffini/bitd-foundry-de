@@ -1,17 +1,17 @@
 {
    "label": "Fraktionen",
    "mapping": {
-      "description": "data.description",
-      "type": "data.type",
-      "goal_1": "data.goal_1",
-      "goal_2": "data.goal_2",
-      "turf": "data.turf",
-      "assets": "data.assets",
-      "quirks": "data.quirks",
-      "notables": "data.notables",
-      "allies": "data.allies",
-      "enemies": "data.enemies",
-      "situation": "data.situation"
+      "description": "system.description",
+      "type": "system.type",
+      "goal_1": "system.goal_1",
+      "goal_2": "system.goal_2",
+      "turf": "system.turf",
+      "assets": "system.assets",
+      "quirks": "system.quirks",
+      "notables": "system.notables",
+      "allies": "system.allies",
+      "enemies": "system.enemies",
+      "situation": "system.situation"
    },
    "entries": {
       "Bluecoats": {

@@ -1,0 +1,17 @@
+{
+	"label": "Verwicklungen",
+	"entries": {
+		"Entanglements - Heat 0-3": {
+			"name": "Verwicklungen - Verdacht 0-3",
+			"description": "Wenn es zwei Ergebnisse gibt, wählt die SL, welches eintritt."
+		},
+		"Entanglements - Heat 4/5": {
+			"name": "Verwicklungen - Verdacht 4/5",
+			"description": "Wenn es zwei Ergebnisse gibt, wählt die SL, welches eintritt."
+		},
+		"Entanglements - Heat 6+": {
+			"name": "Verwicklungen - Verdacht 6+",
+			"description": "Wenn es zwei Ergebnisse gibt, wählt die SL, welches eintritt."
+		}
+	}
+}

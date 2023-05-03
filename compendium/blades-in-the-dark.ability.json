@@ -197,7 +197,7 @@
       "class": "Emissär"  
 		},
 		"(Sl) Like Looking into a Mirror": {
-			"name": "Den Schleier lüften",
+			"name": "(E) Den Schleier lüften",
       "description": "Du merkst stets, wenn dich jemand belügt.",
       "class": "Emissär"  
 		},
@@ -315,6 +315,63 @@
 			"name": "(F) Gefeit",
       "description": "Du kannst deine Spezialrüstung verbrauchen, um übernatürlichen Konsequenzen zu widerstehen oder dich zu verausgaben, wenn du mit arkanen Kräften ringst oder dich ihrer bedienst.",
       "class": "Flüsterer"  
+		},
+		"(Hu) Automaton": {
+			"name": "(Hu) Automaton"
+		},
+		"(Hu) Compartments": {
+			"name": "(Hu) Compartments"
+		},
+		"(Hu) Electroplasmic Projectors": {
+			"name": "(Hu) Electroplasmic Projectors"
+		},
+		"(Hu) Interface": {
+			"name": "(Hu) Interface"
+		},
+		"(Hu) Overcharge": {
+			"name": "(Hu) Overcharge"
+		},
+		"(Hu) Secondary Hull": {
+			"name": "(Hu) Secondary Hull"
+		},
+		"(G) Dissipate": {
+			"name": "(G) Dissipate"
+		},
+		"(G) Ghost Form": {
+			"name": "(G) Ghost Form"
+		},
+		"(G) Manifest": {
+			"name": "(G) Manifest"
+		},
+		"(G) Poltergeist": {
+			"name": "(G) Poltergeist"
+		},
+		"(G) Possess": {
+			"name": "(G) Possess"
+		},
+		"(G) Veteran": {
+			"name": "(G) Veteran"
+		},
+		"(V) A Void in the Echo": {
+			"name": "(V) A Void in the Echo"
+		},
+		"(V) Arcane Sight": {
+			"name": "(V) Arcane Sight"
+		},
+		"(V) Dark Talent": {
+			"name": "(V) Dark Talent"
+		},
+		"(V) Sinister Guile": {
+			"name": "(V) Sinister Guile"
+		},
+		"(V) Terrible Power": {
+			"name": "(V) Terrible Power"
+		},
+		"(V) Undead": {
+			"name": "(V) Undead"
+		},
+		"(V) Veteran": {
+			"name": "(V) Veteran"
 		}
 	}
 }

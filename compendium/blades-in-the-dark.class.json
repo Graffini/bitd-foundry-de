@@ -9,52 +9,52 @@
 		"Cutter": {
       "name": "Schnitter",
       "description" : "Ein gefährlicher und furchterregender Kämpfer",
-      "experience_clues": "<br>- Du hast eine Herausforderung mit Gewalt oder Zwang angegangen."
+      "experience_clues": "Du hast eine Herausforderung mit Gewalt oder Zwang angegangen."
 		},
 		"Ghost": {
 			"name": "Geist",
       "description" : "Eine körperlose Seele, die es nach Rache dürstet",
-      "experience_clues": "<br><h2>Ersetze deine vorherige EP-Bedingung!</h2>- Du hast an Schuldigen Vergeltung geübt, Zorn und Bitterkeit freien Lauf gelassen oder alte Rechnungen aus deiner Herkunft oder deiner Vorgeschichte beglichen."      
+      "experience_clues": "Ersetze deine vorherige EP-Bedingung! Du hast an Schuldigen Vergeltung geübt, Zorn und Bitterkeit freien Lauf gelassen oder alte Rechnungen aus deiner Herkunft oder deiner Vorgeschichte beglichen."      
 		},
 		"Hound": {
 			"name": "Bluthund",
       "description" : "Ein tödlicher Scharfschütze und Fährtenleser",
-      "experience_clues": "<br>- Du hast eine Herausforderung mit Verfolgung oder Gewalt angegangen."      
+      "experience_clues": "Du hast eine Herausforderung mit Verfolgung oder Gewalt angegangen."      
 		},
 		"Hull": {
 			"name": "Gehäuse",
       "description" : "Eine Seele, die ein Blitzwerkgestell belebt",
-      "experience_clues": "<br><h2>Ersetze deine vorherige EP-Bedingung!</h2>-Du hast deinen Zweck trotz Schwierigkeiten und Gefahren erfüllt und deine verbleibende Menschlichkeit unterdrückt oder ignoriert." 
+      "experience_clues": "Ersetze deine vorherige EP-Bedingung! Du hast deinen Zweck trotz Schwierigkeiten und Gefahren erfüllt und deine verbleibende Menschlichkeit unterdrückt oder ignoriert." 
 		},
 		"Leech": {
 			"name": "Schröpfer",
       "description" : "Ein Saboteur und Techniker",
-      "experience_clues": "<br>- Du hast eine Herausforderung mit technischem Geschick oder Chaos angegangen."      
+      "experience_clues": "Du hast eine Herausforderung mit technischem Geschick oder Chaos angegangen."      
 		},
 		"Lurk": {
 			"name": "Lauerer",
       "description" : "Ein heimlicher Eindringling und Dieb",
-      "experience_clues": "<br>- Du hast eine Herausforderung mit Heimlichkeit oder Ausweichen angegangen."      
+      "experience_clues": "Du hast eine Herausforderung mit Heimlichkeit oder Ausweichen angegangen."      
 		},
 		"Slide": {
 			"name": "Emissär",
       "description" : "Ein raffinierter und manipulativer Spion",
-      "experience_clues": "<br>- Du hast eine Herausforderung mit Täuschung oder Einflussnahme angegangen."      
+      "experience_clues": "Du hast eine Herausforderung mit Täuschung oder Einflussnahme angegangen."      
 		},
 		"Spider": {
 			"name": "Spinne",
       "description" : "Ein verschlagener Strippenzieher",
-      "experience_clues": "<br>- Du bist eine Herauforderung mit Berechnung und Komplotten begegnet."
+      "experience_clues": "Du bist eine Herauforderung mit Berechnung und Komplotten begegnet."
 		},
 		"Vampire": {
 			"name": "Vampir",
       "description" : "Eine Seele, die einen untoten Körper belebt",
-      "experience_clues": "<br><h2>Ersetze deine vorherige EP-Bedingung!</h2>- Du hast deine Dominanz bewiesen und ohne Gnade gemordet."            
+      "experience_clues": "Ersetze deine vorherige EP-Bedingung! Du hast deine Dominanz bewiesen und ohne Gnade gemordet."            
 		},
 		"Whisper": {
 			"name": "Flüsterer",
       "description" : "Ein Medium und Meister des Arkanen",
-      "experience_clues": "<br>- Du hast eine Herausforderung mit Wissen oder arkaner Macht angegangen."            
+      "experience_clues": "Du hast eine Herausforderung mit Wissen oder arkaner Macht angegangen."            
 		}
 	}
 }

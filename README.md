@@ -15,7 +15,7 @@ Deutsche Übersetzung für das [Blades in the Dark System](https://github.com/me
 - NPCs / Kontakte übersetzen
 
 ## Alternative Charakterbögen
-Solange mein [Pull-Request](https://github.com/justinross/foundry-bitd-alternate-sheets/pull/75) noch nicht integriert ist, unterstützt das [Modul für alternative Charakterbögen von justinross](https://github.com/justinross/) keine deutsche Übersetzung. Folgende Schritte sind nötig, um das zu ändern:
+Solange mein [Pull-Request](https://github.com/justinross/foundry-bitd-alternate-sheets/pull/75) noch nicht integriert ist, unterstützt das [Modul für alternative Charakterbögen von justinross](https://github.com/justinross/) keine deutsche Übersetzung. Folgende Schritte sind nötig, um das zumindest teilweise zu ändern:
 
 - Kopiere das `de.json` aus dem `lang/alternative-sheets` Verzeichnis dieses Moduls in das `languages` Verzeichnis des Alternate-Sheet-Moduls.
 - Öffne die `module.json` des Alternate-Sheet-Moduls und füge folgenden Code unter dem Punkt `languages` hinter den Eintrag fürs Englische ein:
@@ -25,7 +25,8 @@ Solange mein [Pull-Request](https://github.com/justinross/foundry-bitd-alternate
       "name": "German",
       "path": "languages/de.json"
     }
-``` 
+```
+Danach wird es noch immer eine englische Teile im Charakterbogen geben, aber das meiste sollte übersetzt sein.
 
 ## Credits/License   
 - BitD erscheint auf Deutsch im [System Matters Verlag](https://www.system-matters.de/). Kauft die deutsche Version [hier](https://www.system-matters.de/shop/blades-in-the-dark).

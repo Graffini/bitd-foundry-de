@@ -152,12 +152,12 @@
       "class": "Lauerer"  
 		},
 		"(Lu) Ghost Veil": {
-			"name": "(L) Geisterschleier:",
+			"name": "(L) Geisterschleier",
       "description": "Du kannst dich zum Teil ins Geisterfeld versetzen und erscheinst für wenige Augenblicke schemenhaft und gestaltlos. Wenn du dich so entrückst, erleidest du 2 Stress und zusätzlich 1 Stress pro weitere Eigenschaft: es hält statt Augenblicken einige Minuten an – du bist unsichtbar statt nur schemenhaft – du kannst wie ein Gespenst durch die Luft schweben.",
       "class": "Lauerer"  
 		},
 		"(Lu) Infiltrator": {
-			"name": "(L) Unterwanderung:",
+			"name": "(L) Unterwanderung",
       "description": "Wenn du Sicherheitsmaßnahmen umgehst, wirst du nicht durch Qualität oder Stufe beeinträchtigt.",
       "class": "Lauerer"  
 		},
@@ -208,12 +208,12 @@
 		},
 		"(Sl) Rook's Gambit": {
 			"name": "(E) Gaunerstreich",
-      "description": "Sofra 2 de estresse para rolar o seu melhor valor de ação mesmo quando estiver executando uma ação diferente. Descreva como você adapta a sua perícia a esse novo uso.",
+      "description": "Erleide 2 Stress, um auf deinen besten Aktionswert zu würfeln, obwohl du eine andere Aktion ausführst. Schildere, wie du deine Fertigkeit für diesen Zweck anpasst.",
       "class": "Emissär"  
 		},
 		"(Sl) Subterfuge": {
-			"name": "(E) Subterfúgio",
-      "description": "Erleide 2 Stress, um auf deinen besten Aktionswert zu würfeln, obwohl du eine andere Aktion ausführst. Schildere, wie du deine Fertigkeit für diesen Zweck anpasst.",
+			"name": "(E) List",
+      "description": "Du kannst deine Spezialrüstung verbrauchen, um Konsequenzen von Misstrauen oder Überredung zu widerstehen oder dich für eine Ausrede zu verausgaben.",
       "class": "Emissär"  
 		},
 		"(Sl) Trust in Me": {
@@ -247,7 +247,7 @@
       "class": "Spinne"  
 		},
 		"(Sp) Ghost  Contract": {
-			"name": "(Sp) Geistervertrag:",
+			"name": "(Sp) Geistervertrag",
       "description": "Wenn du eine Abmachung per Handschlag besiegelst oder schriftlich festhältst, tragen sowohl du als auch dein Partner das Mal eures Schwurs. Bricht eine Partei den Vertrag, erleidet sie Schaden 3. Grades: „Verflucht“.",
       "class": "Spinne"  
 		},

@@ -109,27 +109,27 @@
 		"(Sl) A cane-sword": {
 			"name": "(E) Stockdegen",
       "description": "Ein schmales Schwert mit Scheide, getarnt als Gehstock eines Adligen. Die Tarnung hält oberflächlicher Betrachtung stand.",
-      "class":"Suave" 
+      "class":"Emissär" 
 		},
 		"(Sl) Fine clothes & jewelry": {
 			"name": "(E) Hochwertige Kleidung & Schmuck",
       "description": "Eine Garderobe, die von so vornehmer Machart zu sein scheint, dass du als wohlhabend und adlig durchgehst. Hast du diesen Gegenstand als Zweitgarderobe zum Wechseln dabei, zählt er als 2 Last.",
-      "class":"Suave" 
+      "class":"Emissär" 
 		},
 		"(Sl) Fine disguise kit": {
 			"name": "(E) Hochwertiger Verkleidungskoffer",
       "description": "Maskenbildnerkoffer, ausgestattet mit einer beeindruckenden Auswahl professioneller Utensilien zur Verwandlung der äußeren Erscheinung. Die hochwertige Qualität dieses Koffers kann bei Gebrauch die Wirkung deiner Täuschungsaktionen steigern.",
-      "class":"Suave" 
+      "class":"Emissär" 
 		},
 		"(Sl) Fine loaded dice, trick cards": {
 			"name": "(E) Hochwertige Trickwürfel und gezinkte Spielkarten",
       "description": "Glücksspielrequisiten, auf subtile Weise manipuliert, damit sie bevorzugt bestimmte Ergebnisse zeigen. Die hochwertige Qualität dieser Gegenstände kann bei Gebrauch die Wirkung deiner Täuschungsaktionen steigern.",
-      "class":"Suave" 
+      "class":"Emissär" 
 		},
 		"(Sl) Trance powder": {
 			"name": "(E) Trancepulver",
       "description": "Eine Dosis der beliebten bewusstseinsverändernden Droge. Das Opfer des Pulvers ist nicht vollständig bewusstlos, sondern schwebt in einem gelassenen, leicht beeinflussbaren Bewusstseinszustand, der einer Hypnose ähnelt.",
-      "class":"Suave" 
+      "class":"Emissär" 
 		},
 		"(Sp) Blueprints": {
 			"name": "(Sp) Blaupausen",

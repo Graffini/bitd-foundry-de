@@ -1,0 +1,650 @@
+{
+  "label": "NPCs",
+  "mapping": {
+    "description": "system.description",
+    "associatedClass": "system.associated_class",
+    "shortDescription": "system.description_short"
+  },
+  "entries": {
+    "Adelaide Phroaig": {
+      "name": "Adelaide Phroaig",
+      "associatedClass": "",
+      "shortDescription": "Adlige",
+      "description": "Vielleicht eine Quelle für Coups in der Oberschicht?"
+    },
+    "Adikin": {
+      "name": "Adikin",
+      "associatedClass": "",
+      "shortDescription": "Okkultist",
+      "description": ""
+    },
+    "Alon Helker": {
+      "name": "Alon Helker",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a judge-inspector",
+      "class": "A judge-inspector. Rooting out corruption."
+    },
+    "Amancio": {
+      "name": "Amancio",
+      "associatedClass": "",
+      "shortDescription": "a deal broker",
+      "description": ""
+    },
+    "Andris": {
+      "name": "Andris",
+      "associatedClass": "",
+      "shortDescription": "a spy and informant",
+      "description": ""
+    },
+    "Anya": {
+      "name": "Anya",
+      "associatedClass": "",
+      "shortDescription": "a dillettante",
+      "description": ""
+    },
+    "Augus": {
+      "name": "Augus",
+      "associatedClass": "Spinne",
+      "shortDescription": "a master architect",
+      "description": "Spinne"
+    },
+    "Bazso Baz": {
+      "name": "Bazso Baz",
+      "associatedClass": "Emissär",
+      "shortDescription": "a gang leader",
+      "description": "Emissär"
+    },
+    "Belindra": {
+      "name": "Belindra",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a jailor",
+      "class": "A jailor of Ironhook Prison."
+    },
+    "Bennett": {
+      "name": "Bennett",
+      "associatedClass": "",
+      "shortDescription": "an astronomer",
+      "description": ""
+    },
+    "Bryl": {
+      "name": "Bryl",
+      "associatedClass": "Emissär",
+      "shortDescription": "a drug dealer",
+      "description": "Emissär"
+    },
+    "Brynna Skyrkallan": {
+      "name": "Brynna Skyrkallan",
+      "associatedClass": "",
+      "shortDescription": "a diplomat",
+      "description": ""
+    },
+    "Casslyn Mora": {
+      "name": "Casslyn Mora",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a judge",
+      "class": "A judge with family ties to criminals."
+    },
+    "Casta": {
+      "name": "Casta",
+      "associatedClass": "Bluthund",
+      "shortDescription": "a bounty hunter",
+      "description": "Bluthund"
+    },
+    "Celene": {
+      "name": "Celene",
+      "associatedClass": "Bluthund",
+      "shortDescription": "a sentinel",
+      "description": "Bluthund"
+    },
+    "Chael": {
+      "name": "Chael",
+      "associatedClass": "Schnitter",
+      "shortDescription": "a vicious thug",
+      "description": "Schnitter"
+    },
+    "Cinda": {
+      "name": "Cinda",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a bluecoat",
+      "class": ""
+    },
+    "Conway": {
+      "name": "Conway",
+      "associatedClass": "",
+      "shortDescription": "a bluecoat",
+      "description": ""
+    },
+    "Darmot": {
+      "name": "Darmot",
+      "associatedClass": "Lauerer",
+      "shortDescription": "a bluecoat",
+      "description": "Lauerer"
+    },
+    "Decker": {
+      "name": "Decker",
+      "associatedClass": "",
+      "shortDescription": "an anarchist",
+      "description": ""
+    },
+    "Denkirk Sol": {
+      "name": "Denkirk Sol",
+      "associatedClass": "",
+      "shortDescription": "an advocate",
+      "description": ""
+    },
+    "Dowler": {
+      "name": "Dowler",
+      "associatedClass": "",
+      "shortDescription": "an explorer",
+      "description": ""
+    },
+    "Eckerd": {
+      "name": "Eckerd",
+      "associatedClass": "Schröpfer",
+      "shortDescription": "a corpse thief",
+      "description": "Schröpfer"
+    },
+    "Edrik": {
+      "name": "Edrik",
+      "description": "Vampire",
+      "associatedClass": "Vampire",
+      "shortDescription": "an envoy",
+      "class": ""
+    },
+    "Elstera Avrathi": {
+      "name": "Elstera Avrathi",
+      "associatedClass": "",
+      "shortDescription": "a diplomat",
+      "description": ""
+    },
+    "Elynn": {
+      "name": "Elynn",
+      "associatedClass": "",
+      "shortDescription": "a dock worker",
+      "description": ""
+    },
+    "Ereth Skane": {
+      "name": "Ereth Skane",
+      "associatedClass": "",
+      "shortDescription": "an advocate",
+      "description": ""
+    },
+    "Esme": {
+      "name": "Esme",
+      "associatedClass": "",
+      "shortDescription": "a tavern owner",
+      "description": ""
+    },
+    "Exeter": {
+      "name": "Exeter",
+      "associatedClass": "",
+      "shortDescription": "a spirit warden",
+      "description": ""
+    },
+    "Fitz": {
+      "name": "Fitz",
+      "associatedClass": "",
+      "shortDescription": "a collector",
+      "description": ""
+    },
+    "Flint": {
+      "name": "Flint",
+      "associatedClass": "Flüsterer",
+      "shortDescription": "a spirit trafficker",
+      "description": "Flüsterer"
+    },
+    "Frake": {
+      "name": "Frake",
+      "associatedClass": "Lauerer",
+      "shortDescription": "a locksmith",
+      "description": "Lauerer"
+    },
+    "Gagan": {
+      "name": "Gagan",
+      "associatedClass": "",
+      "shortDescription": "an academic",
+      "description": ""
+    },
+    "Grace": {
+      "name": "Grace",
+      "associatedClass": "Schnitter",
+      "shortDescription": "an extortionist",
+      "description": "Schnitter"
+    },
+    "Grull": {
+      "name": "Grull",
+      "associatedClass": "",
+      "shortDescription": "a mid-level thug",
+      "description": ""
+    },
+    "Harker": {
+      "name": "Harker",
+      "associatedClass": "Emissär",
+      "shortDescription": "a jail-bird",
+      "description": "Emissär"
+    },
+    "Hoxan": {
+      "name": "Hoxan",
+      "associatedClass": "",
+      "shortDescription": "a rogue spirit",
+      "description": ""
+    },
+    "Hoxley": {
+      "name": "Hoxley",
+      "associatedClass": "",
+      "shortDescription": "a smuggler",
+      "description": ""
+    },
+    "Hutchins": {
+      "name": "Hutchins",
+      "associatedClass": "",
+      "shortDescription": "an antiquarian",
+      "description": ""
+    },
+    "Irimina": {
+      "name": "Irimina",
+      "associatedClass": "",
+      "shortDescription": "a vicious noble",
+      "description": ""
+    },
+    "Jennah": {
+      "name": "Jennah",
+      "associatedClass": "Spinne",
+      "shortDescription": "a servant",
+      "description": "Spinne"
+    },
+    "Jeren": {
+      "name": "Jeren",
+      "associatedClass": "Spinne",
+      "shortDescription": "a bluecoat archivist",
+      "description": "Spinne"
+    },
+    "Jira": {
+      "name": "Jira",
+      "associatedClass": "",
+      "shortDescription": "a merchant",
+      "description": ""
+    },
+    "Jol": {
+      "name": "Jol",
+      "associatedClass": "",
+      "shortDescription": "a bluecoat",
+      "description": ""
+    },
+    "Jul": {
+      "name": "Jul",
+      "associatedClass": "Schröpfer",
+      "shortDescription": "a blood dealer",
+      "description": "Schröpfer"
+    },
+    "Karlos": {
+      "name": "Karlos",
+      "associatedClass": "",
+      "shortDescription": "a bounty hunter",
+      "description": ""
+    },
+    "Keller": {
+      "name": "Keller",
+      "associatedClass": "",
+      "shortDescription": "a blacksmith",
+      "description": ""
+    },
+    "Kember": {
+      "name": "Kember",
+      "associatedClass": "",
+      "shortDescription": "a distiller",
+      "description": ""
+    },
+    "Kira": {
+      "name": "Kira",
+      "description": "Vampire",
+      "associatedClass": "Vampire",
+      "shortDescription": "a bodyguard",
+      "class": ""
+    },
+    "Klyra": {
+      "name": "Klyra",
+      "associatedClass": "Emissär",
+      "shortDescription": "a tavern owner",
+      "description": "Emissär"
+    },
+    "Krop": {
+      "name": "Krop",
+      "associatedClass": "",
+      "shortDescription": "a constable",
+      "description": ""
+    },
+    "Lady Drake": {
+      "name": "Lady Drake",
+      "associatedClass": "",
+      "shortDescription": "a magistrate",
+      "description": ""
+    },
+    "Lannic": {
+      "name": "Lannic",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "an expert art forger",
+      "class": ""
+    },
+    "Laroze": {
+      "name": "Laroze",
+      "associatedClass": "",
+      "shortDescription": "a bluecoat",
+      "description": ""
+    },
+    "Levyra": {
+      "name": "Levyra",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a spirit medium",
+      "class": "A spirit medium."
+    },
+    "Lewit": {
+      "name": "Lewit",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a bluecoat",
+      "class": "A Bluecoat of the City Watch"
+    },
+    "Lutes": {
+      "name": "Lutes",
+      "associatedClass": "",
+      "shortDescription": "a tavern owner",
+      "description": ""
+    },
+    "Lydra": {
+      "name": "Lydra",
+      "associatedClass": "",
+      "shortDescription": "a deal broker",
+      "description": ""
+    },
+    "Lylandra": {
+      "name": "Lylandra",
+      "description": "Vampire",
+      "associatedClass": "Vampire",
+      "shortDescription": "a consort",
+      "class": ""
+    },
+    "Lyssa": {
+      "name": "Lyssa",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a crime boss",
+      "class": ""
+    },
+    "Malista": {
+      "name": "Malista",
+      "associatedClass": "Schröpfer",
+      "shortDescription": "a priestess",
+      "description": "Schröpfer"
+    },
+    "Marlane": {
+      "name": "Marlane",
+      "associatedClass": "Schnitter",
+      "shortDescription": "a pugilist",
+      "description": "Schnitter"
+    },
+    "Marlo": {
+      "name": "Marlo",
+      "associatedClass": "",
+      "shortDescription": "a gang boss",
+      "description": ""
+    },
+    "Mateas Kline": {
+      "name": "Mateas Kline",
+      "associatedClass": "",
+      "shortDescription": "a noble",
+      "description": ""
+    },
+    "Meg": {
+      "name": "Meg",
+      "associatedClass": "",
+      "shortDescription": "a pit fighter",
+      "description": ""
+    },
+    "Melvir": {
+      "name": "Melvir",
+      "associatedClass": "Bluthund",
+      "shortDescription": "a physicker",
+      "description": "Bluthund"
+    },
+    "Mercy": {
+      "name": "Mercy",
+      "associatedClass": "Schnitter",
+      "shortDescription": "a cold killer",
+      "description": "Schnitter"
+    },
+    "Merrul Brime": {
+      "name": "Merrul Brime",
+      "associatedClass": "",
+      "shortDescription": "a secrets broker",
+      "description": ""
+    },
+    "Mordis": {
+      "name": "Mordis",
+      "associatedClass": "",
+      "shortDescription": "a merchant",
+      "description": ""
+    },
+    "Moriya": {
+      "name": "Moriya",
+      "associatedClass": "",
+      "shortDescription": "a spirit trafficker",
+      "description": ""
+    },
+    "Mylera Klev": {
+      "name": "Mylera Klev",
+      "associatedClass": "",
+      "shortDescription": "a crime boss",
+      "description": ""
+    },
+    "Nyelle": {
+      "name": "Nyelle",
+      "associatedClass": "",
+      "shortDescription": "a spirit trafficker",
+      "description": ""
+    },
+    "Nyryx": {
+      "name": "Nyryx",
+      "description": "Flüsterer",
+      "associatedClass": "Flüsterer",
+      "shortDescription": "a possessor ghost",
+      "class": "A rogue spirit inhabiting the body of a street walker. Looking for a Flüsterer to serve."
+    },
+    "Otto": {
+      "name": "Otto",
+      "description": "Vampire",
+      "associatedClass": "Vampire",
+      "shortDescription": "a coachman",
+      "class": ""
+    },
+    "Petra": {
+      "name": "Petra",
+      "associatedClass": "Lauerer",
+      "shortDescription": "a city clerk",
+      "description": "Lauerer"
+    },
+    "Polix": {
+      "name": "Polix",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "an attache",
+      "class": "An attache to the Lord Governor of Doskvol. A secret spiritualist and rune-binder."
+    },
+    "Quellyn": {
+      "name": "Quellyn",
+      "associatedClass": "Flüsterer",
+      "shortDescription": "a witch",
+      "description": "Flüsterer"
+    },
+    "Raffello": {
+      "name": "Raffello",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "a master painter",
+      "class": "A master painter obsessed with the unnatural."
+    },
+    "Reyf": {
+      "name": "Reyf",
+      "associatedClass": "",
+      "shortDescription": "a bluecoat",
+      "description": ""
+    },
+    "Rigney": {
+      "name": "Rigney",
+      "associatedClass": "",
+      "shortDescription": "a tavern owner",
+      "description": ""
+    },
+    "Riven": {
+      "name": "Riven",
+      "associatedClass": "Spinne",
+      "shortDescription": "a chemist",
+      "description": "Spinne"
+    },
+    "Rolan": {
+      "name": "Rolan",
+      "associatedClass": "",
+      "shortDescription": "a drug dealer",
+      "description": ""
+    },
+    "Rolan Wott": {
+      "name": "Rolan Wott",
+      "associatedClass": "",
+      "shortDescription": "a magistrate",
+      "description": ""
+    },
+    "Roslyn Kellis": {
+      "name": "Roslyn Kellis",
+      "associatedClass": "Lauerer",
+      "shortDescription": "a noble",
+      "description": "Lauerer"
+    },
+    "Rutherford": {
+      "name": "Rutherford",
+      "description": "Vampire",
+      "associatedClass": "Vampire",
+      "shortDescription": "a butler",
+      "class": ""
+    },
+    "Salia": {
+      "name": "Salia",
+      "associatedClass": "Spinne",
+      "shortDescription": "an information broker",
+      "description": "Spinne"
+    },
+    "Sawtooth": {
+      "name": "Sawtooth",
+      "associatedClass": "Schnitter",
+      "shortDescription": "a physicker",
+      "description": "Schnitter"
+    },
+    "Scurlock": {
+      "name": "Scurlock",
+      "associatedClass": "Flüsterer",
+      "shortDescription": "a vampire",
+      "description": "Flüsterer"
+    },
+    "Sera": {
+      "name": "Sera",
+      "associatedClass": "",
+      "shortDescription": "an arms dealer",
+      "description": ""
+    },
+    "Setarra": {
+      "name": "Setarra",
+      "associatedClass": "Flüsterer",
+      "shortDescription": "a demon",
+      "description": "Flüsterer"
+    },
+    "Sevoy": {
+      "name": "Sevoy",
+      "associatedClass": "",
+      "shortDescription": "a merchant lord",
+      "description": ""
+    },
+    "Stazia": {
+      "name": "Stazia",
+      "associatedClass": "Schröpfer",
+      "shortDescription": "an apothecary",
+      "description": "Schröpfer"
+    },
+    "Steiner": {
+      "name": "Steiner",
+      "associatedClass": "Bluthund",
+      "shortDescription": "an assassin",
+      "description": "Bluthund"
+    },
+    "Taffer": {
+      "name": "Taffer",
+      "associatedClass": "",
+      "shortDescription": "a merchant",
+      "description": ""
+    },
+    "Telda": {
+      "name": "Telda",
+      "associatedClass": "Lauerer",
+      "shortDescription": "a beggar",
+      "description": "Lauerer"
+    },
+    "The Star": {
+      "name": "The Star",
+      "associatedClass": "",
+      "shortDescription": "an anonymous gang lieutenant",
+      "description": ""
+    },
+    "The Tower": {
+      "name": "The Tower",
+      "associatedClass": "",
+      "shortDescription": "an anonymous crime boss",
+      "description": ""
+    },
+    "Thomas": {
+      "name": "Thomas",
+      "associatedClass": "",
+      "shortDescription": "a physicker",
+      "description": ""
+    },
+    "Trev": {
+      "name": "Trev",
+      "associatedClass": "",
+      "shortDescription": "a gang boss",
+      "description": ""
+    },
+    "Tyrsin Nol": {
+      "name": "Tyrsin Nol",
+      "associatedClass": "",
+      "shortDescription": "a diplomat",
+      "description": ""
+    },
+    "Ulf Ironborn": {
+      "name": "Ulf Ironborn",
+      "associatedClass": "",
+      "shortDescription": "a brutal Skovlander",
+      "description": ""
+    },
+    "Veldren": {
+      "name": "Veldren",
+      "associatedClass": "Schröpfer",
+      "shortDescription": "a psychonaut",
+      "description": "Schröpfer"
+    },
+    "Veleris": {
+      "name": "Veleris",
+      "associatedClass": "Bluthund",
+      "shortDescription": "a spy",
+      "description": "Bluthund"
+    },
+    "Walker": {
+      "name": "Walker",
+      "associatedClass": "",
+      "shortDescription": "a ward boss",
+      "description": ""
+    }
+  }
+}

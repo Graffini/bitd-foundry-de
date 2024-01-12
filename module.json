@@ -2,7 +2,7 @@
   "id":"bitd-babele-de",
   "title":"Blades in the Dark - German",
   "description":"This module provides the German translation for Blades in the Dark as published by System Matters, to be used with the babele translation module.",  
-  "version":"1.1.1",
+  "version":"#{VERSION}#",
   "authors": [
     {
       "name": "Graffini",
@@ -17,9 +17,9 @@
   },
   
   "esmodules": ["babele-register.js"],
-  "url":"https://github.com/Graffini/bitd-foundry-de",
-  "manifest": "https://raw.githubusercontent.com/Graffini/bitd-foundry-de/main/module.json",
-  "download": "https://github.com/Graffini/bitd-foundry-de/archive/refs/tags/v1.1.1.zip",
+  "url":"#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
    "dependencies":[
       {
          "name":"babele",

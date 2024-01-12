@@ -144,3 +144,10 @@ jobs:
           artifacts: './module.json, ./module.zip'
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
+
+      # Publish the release to FoundryVTT's package repository.
+      - name: Publish to Foundry
+        uses: illandril/FoundryVTT-package-release-action@v1
+        with:
+          package-release-token: ${{ secrets.PACKAGE_RELEASE_TOKEN }}
+          manifest-url: "https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.json"

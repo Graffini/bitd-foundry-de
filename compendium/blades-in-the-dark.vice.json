@@ -3,42 +3,34 @@
   "mapping": {
     "description": "system.description"
   },
-
-	"entries": [
-		{
-			"id": "Faith",
+	"entries": {
+		"Faith":{
 			"name": "Glaube",
 			"description":"Du hast dich einer unsichtbaren Macht, einer vergessenen Gottheit, einem Ahnen etc. verschrieben.<br><br>- Mutter Narya, Haus der Weinenden Dame, Six Towers.<br>- Ilacille, Ruinen des Tempels für die Vergessen Gottheiten, Coalridge.<br>- Nelisanne, Die Kirche der fleischlichen Verzückung, Brightstone.<br>- Lord Penderyn, Archiv der Echos, Charterhall."
 		},
-		{
-			"id": "Gambling",
+		"Gambling":{
 			"name": "Glücksspiel",
 			"description":"Du gierst nach Würfel- und Kartenspielen, Sportwetten etc.<br><br>- Spoggs Würfelspiel, Crow’s Foot.<br>- Grist, Boxkämpfe, die Docks.<br>- Helene, Silver Stag-Casino, Silkshore.<br>- Meister Vreen, Hunderennen, Nightmarket.<br>- Lady Dusk, Dusk Manor-Club, Whitecrown.<br>- Sergeant Velk, Kampfarenen, Dunslough."
 		},
-		{
-			"id": "Luxury",
+		"Luxury":{
 			"name": "Luxus",
 			"description":"Du brauchst die kostspielige oder demonstrative Zurschaustellung von Reichtum.<br><br>- Singer, Badehaus, Crow’s Foot.<br>- Harvale Brogan, Centuralia-Club, Brightstone.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Dunridge & Söhne feine Stoffe und Schneiderei, Nightmarket.<br>- Küchenchefin Rosele, Zur Goldenen Zwetschge, Restaurant, Six Towers.<br>- Maestro Helleren, Spiregarden-Theater, Whitecrown."
 		},
-		{
-			"id": "Obligation",
+		"Obligation":{
 			"name": "Pflicht",
 			"description":"Du sorgst für eine Familie oder engagierst dich für einen guten Zweck, eine Organisation, eine karitative Einrichtung etc.<br><br>- Familienmitglieder (Herkunft) oder ehemalige Arbeitskollegen (Vorgeschichte).<br>- Hutton, Skovische Geflüchtete/ Revolutionäre, Charhollow.<br>- Der Zirkel der Flamme, eine Geheimgesellschaft."    
 		},
-		{
-			"id": "Pleasure",
+		"Pleasure": {
 			"name": "Genuss",
 			"description":"Du suchst Befriedigung durch Liebhaber, Essen, Trinken, Drogen, Kunst, Theater etc.<br><br>- Mardin Gull, Leaky Bucket, Gasthaus, Crow’s Foot.<br>- Pux Bolin, The Harping Monkey, Kneipe, Nightmarket.<br>- Helene, Silver Stag-Casino, Silkshore.<br>- Lady Freyla, Kaiserfass, Weinstube, Whitecrown.<br>- Avrick, Pulver-Dealer, Barrowcleft.<br>- Rolan Volaris, Der Schleier, Salon, Nightmarket.<br>- Madame Tesslyn, Red Lamp, Bordell, Silkshore.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Eldrin Prichard, Silver Swan, Vergnügungsbarke, Kanäle von Brightstone.<br>- Jewel, Bird und Shine, Catcrawl Alley, die Docks.<br>- Singer, Badehaus, Crow’s Foot.<br>- Harvale Brogan, Centuralia-Club, Brightstone.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Dunridge & Söhne feine Stoffe und Schneiderei, Nightmarket.<br>- Küchenchefin Rosele, Zur Goldenen Zwetschge, Restaurant, Six Towers.<br>- Maestro Helleren, Spiregarden-Theater, Whitecrown."
 		},
-		{
-			"id": "Stupor",
+		"Stupor":{
 			"name": "Rausch",
 			"description":"Du suchst Vergessen im Drogenmissbrauch, im exzessiven Trinken oder dabei, dich im Ring zusammenschlagen zu lassen etc.<br><br>-  Mardin Gull, Leaky Bucket, Gasthaus, Crow’s Foot.<br>- Pux Bolin, The Harping Monkey, Kneipe, Nightmarket.<br>- Helene, Silver Stag-Casino, Silkshore.<br>- Lady Freyla, Kaiserfass, Weinstube, Whitecrown.<br>- Avrick, Pulver-Dealer, Barrowcleft.<br>- Rolan Volaris, Der Schleier, Salon, Nightmarket.<br>- Madame Tesslyn, Red Lamp, Bordell, Silkshore.<br>- Travens Rauchwaren-Handlung, Coalridge.<br>- Eldrin Prichard, Silver Swan, Vergnügungsbarke, Kanäle von Brightstone.<br>- Jewel, Bird und Shine, Catcrawl Alley, die Docks."      
 		},
-		{
-			"id": "Weird",
+		"Weird":{
 			"name": "Unheimliches",
 			"description":"Du experimentierst mit seltsamen Essenzen, verkehrst mit bösen Geistern, pflegst bizarre Rituale oder Tabus etc.<br><br>- Die verhüllte Herrschaft, betreibt eine Kneipe in einer halb überfluteten Grotte nahe den Docks. Seltsame Stollen führen in noch seltsamere Räume dahinter.<br>- Vater Yoren, Haus der Weinenden Dame, Six Towers.<br>- „Salia“, ein Geist der Ausgesöhnten, der eigenständig von Körper zu Körper reist.<br>- Schwester Thorn, Bande von Siechland- Plünderern, Gaddoc Station.<br>- Ojak, tycherosischer Händler am Dachmarkt, Silkshore.<br>- Aranna die Gesegnete, Kultistin einer vergessenen Gottheit, ihr Boot liegt in Nightmarket an."
 		}
-	]
+	}
 }
